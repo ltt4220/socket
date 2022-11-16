@@ -1,0 +1,35 @@
+[2022-02-28 15:01:50.887] [INFO] - Listening on port 8250
+[2022-02-28 15:02:01.770] [INFO] - query { rid: '3f3f23a277b949ce9f6cea84df9188b3',
+  uid: '11110.4430106124940203',
+  username: '张信哲48',
+  mobile: '17317399499',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'Ny_8jKV' }
+[2022-02-28 15:02:01.772] [INFO] - [ 'NOqGlil52vDSdcz_AAAA', '3f3f23a277b949ce9f6cea84df9188b3' ]
+[2022-02-28 15:02:31.267] [INFO] - Listening on port 8250
+[2022-02-28 15:02:31.768] [INFO] - query { rid: '3f3f23a277b949ce9f6cea84df9188b3',
+  uid: '11110.4430106124940203',
+  username: '张信哲48',
+  mobile: '17317399499',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'Ny_8qex' }
+[2022-02-28 15:02:31.773] [INFO] - [ 'xyKx3cLqCg9nhQYeAAAA', '3f3f23a277b949ce9f6cea84df9188b3' ]
+[2022-02-28 15:02:34.355] [INFO] - query { rid: '3f3f23a277b949ce9f6cea84df9188b3',
+  uid: '11110.9268344975825238',
+  username: '张信哲17',
+  mobile: '17317399499',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'Ny_8rHm' }
+[2022-02-28 15:02:34.358] [INFO] - [ '85jqmEXxfAVjjKgoAAAB', '3f3f23a277b949ce9f6cea84df9188b3' ]
+[2022-02-28 15:02:36.787] [INFO] - msg { msg: 'gdfgfd' }
+[2022-02-28 15:02:39.074] [INFO] - msg { msg: 'gdfgfdfgsdfg' }
+[2022-02-28 15:02:41.298] [INFO] - msg { msg: 'gdfgfdfgsdfgfdgfdsgsfdg' }

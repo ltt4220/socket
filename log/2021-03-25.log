@@ -1,0 +1,192 @@
+[2021-03-25 00:02:05.418] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 00:02:12.720] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-25 00:41:37.506] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 01:03:11.512] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/ 200 0ms
+[2021-03-25 01:42:22.987] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/system_api.php 200 0ms
+[2021-03-25 01:42:25.592] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/system_api.php 200 0ms
+[2021-03-25 01:42:28.200] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/c/version.js 200 0ms
+[2021-03-25 01:42:30.830] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/streaming/clients_live.php 200 0ms
+[2021-03-25 01:42:33.456] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/stalker_portal/c/version.js 200 0ms
+[2021-03-25 01:42:36.040] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/client_area/ 200 1ms
+[2021-03-25 01:42:38.686] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/stalker_portal/c/ 200 1ms
+[2021-03-25 01:42:41.271] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/stream/rtmp.php 200 1ms
+[2021-03-25 02:38:04.396] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 04:43:25.953] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 05:58:38.746] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-25 06:10:28.882] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 07:56:13.705] [INFO] - [47.116.78.190] GET http:/// 200 0ms
+[2021-03-25 07:56:14.718] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-25 07:56:28.839] [INFO] - [47.116.78.190] GET http://47.100.89.2:8250/ 200 1ms
+[2021-03-25 07:56:28.850] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 08:47:16.026] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 09:26:11.743] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 09:39:12.275] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-25 09:40:55.044] [INFO] - [127.0.0.1] HEAD http://127.0.0.1:8250/ undefined 200 0ms
+[2021-03-25 09:56:38.453] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 10:18:56.879] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 10:34:34.347] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 10:40:50.760] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-25 10:47:00.260] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-25 10:59:05.877] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f 200 0ms
+[2021-03-25 11:05:46.183] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f 200 0ms
+[2021-03-25 11:35:55.670] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-25 12:11:53.232] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXdbD_V' }
+[2021-03-25 12:11:53.232] [INFO] - [ '198Qz7qqN13PiIyTABS7', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-25 12:35:17.799] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 12:46:01.235] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXdj1yh' }
+[2021-03-25 12:46:01.235] [INFO] - [ 'Nmr7zwc9wLdogc1NABS8', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-25 12:46:07.326] [INFO] - msg { role: 0,
+  username: '蓝胖子仇',
+  _id: 'Nmr7zwc9wLdogc1NABS8',
+  msg: '刚刚刚刚刚刚刚' }
+[2021-03-25 12:47:29.922] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXdjNdR' }
+[2021-03-25 12:47:29.922] [INFO] - [ '8s66Z8-BdhHP5BWdABS9', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-25 13:20:03.732] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-25 13:20:04.722] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 13:33:54.835] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '96ea8cbeba1b4bf4bb45455d11240919',
+  username: '仇栋梅',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXdt_YK' }
+[2021-03-25 13:33:54.836] [INFO] - [ 'b8auFhHlEpgZ3kLrABS-', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-25 14:07:11.262] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: 'e19b1c1f48604f7bbc9870fcb6e5c925',
+  username: 'Andney',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXd_cz9' }
+[2021-03-25 14:07:11.263] [INFO] - [ '-zpjnNlB5Y5J5QEXABS_', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-25 15:23:11.461] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 15:25:56.366] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXeHeZh' }
+[2021-03-25 15:25:56.366] [INFO] - [ '4e1HkNImcm_RjvjSABTA', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-25 16:04:09.134] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 16:37:53.672] [INFO] - [47.101.184.3] GET http://47.100.89.2:8250/ 200 0ms
+[2021-03-25 16:45:08.630] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '96ea8cbeba1b4bf4bb45455d11240919',
+  username: '仇栋梅',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXeZmk_' }
+[2021-03-25 16:45:08.631] [INFO] - [ 'VnTSstKFlcioQX0aABTB', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-25 17:46:07.930] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/otsmobile/app/mgs/mgw.htm?operationType=com.cars.otsmobile.queryLeftTicket&requestData=%5B%7B%22train_date%22%3A%2220210404%22%2C%22purpose_codes%22%3A%2200%22%2C%22from_station%22%3A%22PIJ%22%2C%22to_station%22%3A%22POJ%22%2C%22station_train_code%22%3A%22%22%2C%22start_time_begin%22%3A%220000%22%2C%22start_time_end%22%3A%222400%22%2C%22train_headers%22%3A%22QB%23%22%2C%22train_flag%22%3A%22%22%2C%22seat_type%22%3A%22%22%2C%22seatBack_Type%22%3A%22%22%2C%22ticket_num%22%3A%22%22%2C%22dfpStr%22%3A%22%22%2C%22baseDTO%22%3A%7B%22check_code%22%3A%225b2269aa91911002efdfce84bbf79e3b%22%2C%22device_no%22%3A%22YFxb3hpp0c8DAAorIoYcZ2%2B3%22%2C%22mobile_no%22%3A%22%22%2C%22os_type%22%3A%22a%22%2C%22time_str%22%3A%2220210325174607%22%2C%22user_name%22%3A%22%22%2C%22version_no%22%3A%225.1.2%22%7D%7D%5D&ts=1616665567651&sign= 200 1ms
+[2021-03-25 17:46:09.994] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/otsmobile/app/mgs/mgw.htm?operationType=com.cars.otsmobile.queryLeftTicket&requestData=%5B%7B%22train_date%22%3A%2220210404%22%2C%22purpose_codes%22%3A%2200%22%2C%22from_station%22%3A%22PIJ%22%2C%22to_station%22%3A%22POJ%22%2C%22station_train_code%22%3A%22%22%2C%22start_time_begin%22%3A%220000%22%2C%22start_time_end%22%3A%222400%22%2C%22train_headers%22%3A%22QB%23%22%2C%22train_flag%22%3A%22%22%2C%22seat_type%22%3A%22%22%2C%22seatBack_Type%22%3A%22%22%2C%22ticket_num%22%3A%22%22%2C%22dfpStr%22%3A%22%22%2C%22baseDTO%22%3A%7B%22check_code%22%3A%2278d94be4df8252acbb3f4734167393d1%22%2C%22device_no%22%3A%22YFxb4Hlr3toDABrbKBbzENT8%22%2C%22mobile_no%22%3A%22%22%2C%22os_type%22%3A%22a%22%2C%22time_str%22%3A%2220210325174609%22%2C%22user_name%22%3A%22%22%2C%22version_no%22%3A%225.1.2%22%7D%7D%5D&ts=1616665569717&sign= 200 0ms
+[2021-03-25 17:46:19.035] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/otsmobile/app/mgs/mgw.htm?operationType=com.cars.otsmobile.queryLeftTicket&requestData=%5B%7B%22train_date%22%3A%2220210404%22%2C%22purpose_codes%22%3A%2200%22%2C%22from_station%22%3A%22PIJ%22%2C%22to_station%22%3A%22POJ%22%2C%22station_train_code%22%3A%22%22%2C%22start_time_begin%22%3A%220000%22%2C%22start_time_end%22%3A%222400%22%2C%22train_headers%22%3A%22QB%23%22%2C%22train_flag%22%3A%22%22%2C%22seat_type%22%3A%22%22%2C%22seatBack_Type%22%3A%22%22%2C%22ticket_num%22%3A%22%22%2C%22dfpStr%22%3A%22%22%2C%22baseDTO%22%3A%7B%22check_code%22%3A%2213792bc3ecbe3ba646b9edbba877cd5a%22%2C%22device_no%22%3A%22YFxb6SgWHBEDAAdjlzuM%2Fy12%22%2C%22mobile_no%22%3A%22%22%2C%22os_type%22%3A%22a%22%2C%22time_str%22%3A%2220210325174618%22%2C%22user_name%22%3A%22%22%2C%22version_no%22%3A%225.1.2%22%7D%7D%5D&ts=1616665578755&sign= 200 0ms
+[2021-03-25 17:46:22.723] [ERROR] - { Error: invalid JSON, only supports object and array
+    at parse (/opt/chat-server/node_modules/co-body/lib/json.js:55:13)
+    at /opt/chat-server/node_modules/co-body/lib/json.js:41:16
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+  status: 400,
+  body: '\u0002\u0000\u0000!\u0003��\u0001A�M��C$�P��g>\u0000SJ_���\u0005\u000e\u0012��by�\'\u000b\u0000\u0001\u0000�K�kO�>[�\u001f�ҿ�)��\n}T-�|qL���Ls�P����ת�\tl`r�"�\u0001��1N1G�iR�HzV���<�n\u0007\r�H��jH -\b�ne\u0007��\u0000�D\u0004��\u0012h��G��(\u0012���\u0003\u0003��\u0000)q8\u001a\'hz I��\u0002q@�}Mz��\'���\u0000�\u001c��jw�"(����_\r\u001dJ���h!(Dn*�\bkk%�-�Q���\u0016�\u001a�q%�s\u001cƘ��:b�)��\u000b,��d\b\u001ap�z��a�3%\u0002�)�Y��z\u0014��\u001fB&��wK�[4rӉ|g�.4��\u001b�ƥ�d�(U�H���X' }
+[2021-03-25 17:46:22.723] [ERROR] - (node:15157) UnhandledPromiseRejectionWarning: TypeError: ctx.end is not a function
+    at Application.app.on (/opt/chat-server/app.js:25:9)
+    at emitTwo (events.js:126:13)
+    at Application.emit (events.js:214:7)
+    at Object.onerror (/opt/chat-server/node_modules/koa/lib/context.js:127:14)
+    at onerror (/opt/chat-server/node_modules/koa/lib/application.js:165:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2021-03-25 17:46:22.724] [ERROR] - (node:15157) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 27)
+[2021-03-25 17:46:56.162] [ERROR] - { Error: invalid JSON, only supports object and array
+    at parse (/opt/chat-server/node_modules/co-body/lib/json.js:55:13)
+    at /opt/chat-server/node_modules/co-body/lib/json.js:41:16
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+  status: 400,
+  body: '\u0002\u0000\u0000!\u0003��\u0001A�M��C$�P��g>\u0000SJ_���\u0005\u000e\u0012��by�\'\u000b\u0000\u0001\u0000�}a��D�@��Ǎ\u0005.�`x�௴pi���\u0018q�ŀ�\u001c���\b�)�\u001a�\u0015Z\b���߄3\u0013nޅAy3n\f_�,rm;���އ\u0004zC���\t\f���\u0017;:\r\u0015�Τ�o��>�����Ǝ�������\u0007�n2�HŦ\u00036�.n��̧/�c����<\u0016�u{c\\���<y�;.�e�#���o�]��� W��+2C�GK2W��$Ya\f\r���|�<�p+���\u000e�\u0006��\u0006�[h�i�nz�,�[\u001d����\u0019���)��~\u0016q�l\u001e����ў�R*f�9�\u001e�b\'Jp���s�n?' }
+[2021-03-25 17:46:56.162] [ERROR] - (node:15157) UnhandledPromiseRejectionWarning: TypeError: ctx.end is not a function
+    at Application.app.on (/opt/chat-server/app.js:25:9)
+    at emitTwo (events.js:126:13)
+    at Application.emit (events.js:214:7)
+    at Object.onerror (/opt/chat-server/node_modules/koa/lib/context.js:127:14)
+    at onerror (/opt/chat-server/node_modules/koa/lib/application.js:165:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2021-03-25 17:46:56.162] [ERROR] - (node:15157) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 28)
+[2021-03-25 18:01:44.339] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/otsmobile/app/mgs/mgw.htm?operationType=com.cars.otsmobile.queryLeftTicket&requestData=%5B%7B%22train_date%22%3A%2220210404%22%2C%22purpose_codes%22%3A%2200%22%2C%22from_station%22%3A%22PIJ%22%2C%22to_station%22%3A%22POJ%22%2C%22station_train_code%22%3A%22%22%2C%22start_time_begin%22%3A%220000%22%2C%22start_time_end%22%3A%222400%22%2C%22train_headers%22%3A%22QB%23%22%2C%22train_flag%22%3A%22%22%2C%22seat_type%22%3A%22%22%2C%22seatBack_Type%22%3A%22%22%2C%22ticket_num%22%3A%22%22%2C%22dfpStr%22%3A%22%22%2C%22baseDTO%22%3A%7B%22check_code%22%3A%229aaf4a43bfefd8e9cf6f84aea3d2ee63%22%2C%22device_no%22%3A%22YFxfhnLhnC0DAP2fHWI%2FnhyI%22%2C%22mobile_no%22%3A%22%22%2C%22os_type%22%3A%22a%22%2C%22time_str%22%3A%2220210325180144%22%2C%22user_name%22%3A%22%22%2C%22version_no%22%3A%225.1.2%22%7D%7D%5D&ts=1616666504065&sign= 200 0ms
+[2021-03-25 18:01:52.348] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/otsmobile/app/mgs/mgw.htm?operationType=com.cars.otsmobile.queryLeftTicket&requestData=%5B%7B%22train_date%22%3A%2220210404%22%2C%22purpose_codes%22%3A%2200%22%2C%22from_station%22%3A%22PIJ%22%2C%22to_station%22%3A%22POJ%22%2C%22station_train_code%22%3A%22%22%2C%22start_time_begin%22%3A%220000%22%2C%22start_time_end%22%3A%222400%22%2C%22train_headers%22%3A%22QB%23%22%2C%22train_flag%22%3A%22%22%2C%22seat_type%22%3A%22%22%2C%22seatBack_Type%22%3A%22%22%2C%22ticket_num%22%3A%22%22%2C%22dfpStr%22%3A%22%22%2C%22baseDTO%22%3A%7B%22check_code%22%3A%22aec87e544d22983465122452c1acbbfd%22%2C%22device_no%22%3A%22YFxfjlbAAX4DAOn1Xe5j74nG%22%2C%22mobile_no%22%3A%22%22%2C%22os_type%22%3A%22a%22%2C%22time_str%22%3A%2220210325180152%22%2C%22user_name%22%3A%22%22%2C%22version_no%22%3A%225.1.2%22%7D%7D%5D&ts=1616666512067&sign= 200 0ms
+[2021-03-25 18:01:57.491] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/otsmobile/app/mgs/mgw.htm?operationType=com.cars.otsmobile.queryLeftTicket&requestData=%5B%7B%22train_date%22%3A%2220210404%22%2C%22purpose_codes%22%3A%2200%22%2C%22from_station%22%3A%22PIJ%22%2C%22to_station%22%3A%22POJ%22%2C%22station_train_code%22%3A%22%22%2C%22start_time_begin%22%3A%220000%22%2C%22start_time_end%22%3A%222400%22%2C%22train_headers%22%3A%22QB%23%22%2C%22train_flag%22%3A%22%22%2C%22seat_type%22%3A%22%22%2C%22seatBack_Type%22%3A%22%22%2C%22ticket_num%22%3A%22%22%2C%22dfpStr%22%3A%22%22%2C%22baseDTO%22%3A%7B%22check_code%22%3A%2209e61765186c8f9571bdb33fb484d41b%22%2C%22device_no%22%3A%22YFxflHQ9neoDAOc5EKvvLxeb%22%2C%22mobile_no%22%3A%22%22%2C%22os_type%22%3A%22a%22%2C%22time_str%22%3A%2220210325180157%22%2C%22user_name%22%3A%22%22%2C%22version_no%22%3A%225.1.2%22%7D%7D%5D&ts=1616666517203&sign= 200 0ms
+[2021-03-25 18:02:06.566] [ERROR] - { Error: invalid JSON, only supports object and array
+    at parse (/opt/chat-server/node_modules/co-body/lib/json.js:55:13)
+    at /opt/chat-server/node_modules/co-body/lib/json.js:41:16
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+  status: 400,
+  body: '\u0002\u0000\u0000!\u0003��\u0001A�M��C$�P��g>\u0000SJ_���\u0005\u000e\u0012��by�\'\u000b\u0000\u0001\u0000$���3K����F)� �Ĳ\u0014\u0000\u0014m��N�زņ���`G���\u00130�\u0000\u0001�(+F�J�\u0014O�./�/n��4�\u0003U>���\u000b��������I��_�/唅mu�\u0002�ni�\u0013\r�\t#�4�h�\tX~����5�*L(�\u0014�y^|�:�~��(�A{\u0000�\u0013XTm�4�s\u001f\u0015̭X|�j\u0012\u0011e���\u000e���7�F�\\�M\u000bi]�.\u001en��)I)����\u0004߄(�R��\u000e�[\u0015�\u001f�\b\u0000ʫK9W|�\u0011*�\u0016\t�\u001fS!\u001c!��.[� \\�y )+��t��c�\u0003�ڰA\u0014�V�P��p+' }
+[2021-03-25 18:02:06.566] [ERROR] - (node:15157) UnhandledPromiseRejectionWarning: TypeError: ctx.end is not a function
+    at Application.app.on (/opt/chat-server/app.js:25:9)
+    at emitTwo (events.js:126:13)
+    at Application.emit (events.js:214:7)
+    at Object.onerror (/opt/chat-server/node_modules/koa/lib/context.js:127:14)
+    at onerror (/opt/chat-server/node_modules/koa/lib/application.js:165:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2021-03-25 18:02:06.566] [ERROR] - (node:15157) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 29)
+[2021-03-25 18:02:39.367] [ERROR] - { Error: invalid JSON, only supports object and array
+    at parse (/opt/chat-server/node_modules/co-body/lib/json.js:55:13)
+    at /opt/chat-server/node_modules/co-body/lib/json.js:41:16
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+  status: 400,
+  body: '\u0002\u0000\u0000!\u0003��\u0001A�M��C$�P��g>\u0000SJ_���\u0005\u000e\u0012��by�\'\u000b\u0000\u0001\u0000�\'�������ۙP��\u000f\n�\u0004:;�#_[/�\u0017��Ѣ��e\t���c\u0017mʗ�\rx;��f��;3=����V��\b\u0004x=y�t���g�SΙ�?�q��1-[\\���\u0015��Z\u0011\u0016-�`�]iHq��`�ei��ci8��}���7�� 2n�Y�*gj\u0007��\u001e�\u0001_(�t�(\'1���[����z�;���,u�.?��{��X\u0015C�)־棯\u0004 �\f7Q˦\u0013�\u0004��Dό:.�>9���G��C�K6頀���~����\u00124\u001b�L��f#l�\u000brK��5\'1*��\u001e��\u0001' }
+[2021-03-25 18:02:39.367] [ERROR] - (node:15157) UnhandledPromiseRejectionWarning: TypeError: ctx.end is not a function
+    at Application.app.on (/opt/chat-server/app.js:25:9)
+    at emitTwo (events.js:126:13)
+    at Application.emit (events.js:214:7)
+    at Object.onerror (/opt/chat-server/node_modules/koa/lib/context.js:127:14)
+    at onerror (/opt/chat-server/node_modules/koa/lib/application.js:165:32)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2021-03-25 18:02:39.368] [ERROR] - (node:15157) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 30)
+[2021-03-25 18:42:07.191] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/actuator/health 200 0ms
+[2021-03-25 18:46:29.836] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/actuator/health 200 0ms
+[2021-03-25 19:09:07.548] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '16a39c2af6c14d379355068c4e8e216a',
+  username: '干活了咯乌卡拉',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXf4juo' }
+[2021-03-25 19:09:07.548] [INFO] - [ 'uCG7Z_O6Vocr_qbbABTC', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-25 19:10:35.314] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 19:11:05.459] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 1ms
+[2021-03-25 19:51:40.454] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/ 200 0ms
+[2021-03-25 20:14:16.035] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-25 20:20:53.397] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 20:30:22.676] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 20:32:01.000] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 20:42:45.342] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 22:09:27.045] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 22:35:16.250] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 22:35:18.578] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 22:47:31.985] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-25 23:11:50.583] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-25 23:55:22.587] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms

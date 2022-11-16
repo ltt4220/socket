@@ -1,0 +1,339 @@
+[2021-02-25 00:18:04.651] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 00:56:33.188] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/dns-query?dns=AAABAAABAAAAAAAAA3d3dwViYWlkdQNjb20AAAEAAQ 200 0ms
+[2021-02-25 00:57:26.885] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/dns-query?dns=AAABAAABAAAAAAAAA3d3dwViYWlkdQNjb20AAAEAAQ 200 1ms
+[2021-02-25 01:02:55.678] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 01:42:40.658] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 03:19:15.449] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 04:47:52.206] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 05:37:30.787] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 05:37:31.596] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-02-25 08:38:15.332] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 09:10:11.975] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 12:13:37.132] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 13:48:22.773] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 13:57:51.187] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 13:58:40.897] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 14:01:26.294] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '16ebb6d2b50b474da0a6909f66ac1f65',
+  username: 'Cooper洛雨巴沙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNnngE' }
+[2021-02-25 14:01:26.294] [INFO] - [ 'EQjNeApCMKvSncdYABEr', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:01:40.430] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: 'fe9c976a8a1e419093e158ebc3ec3e63',
+  username: '李夫托尔斯泰',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNnrAz' }
+[2021-02-25 14:01:40.431] [INFO] - [ 'zadaPVrei1N_Ot8FABEs', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:02:08.041] [INFO] - gift { role: 0,
+  _id: 'zadaPVrei1N_Ot8FABEs',
+  msg: '棒棒糖',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.png' }
+[2021-02-25 14:02:29.507] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '16ebb6d2b50b474da0a6909f66ac1f65',
+  username: 'Cooper洛雨巴沙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNo165' }
+[2021-02-25 14:02:29.507] [INFO] - [ 'JnX_w7ORHhGTmdi6ABEt', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:02:41.703] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: 'fe9c976a8a1e419093e158ebc3ec3e63',
+  username: '李夫托尔斯泰',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNo48G' }
+[2021-02-25 14:02:41.704] [INFO] - [ 'VqF9pQU2dc0hywnEABEu', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:02:46.200] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '16ebb6d2b50b474da0a6909f66ac1f65',
+  username: 'Cooper洛雨巴沙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNo5Aq' }
+[2021-02-25 14:02:46.200] [INFO] - [ 'gK6K9vtn_hc_TvXXABEv', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:03:15.735] [INFO] - msg { role: 0,
+  username: '李夫托尔斯泰',
+  _id: 'VqF9pQU2dc0hywnEABEu',
+  msg: '好久可以开始？' }
+[2021-02-25 14:06:36.182] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: 'fe9c976a8a1e419093e158ebc3ec3e63',
+  username: '李夫托尔斯泰',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNozNw' }
+[2021-02-25 14:06:36.182] [INFO] - [ '7geZ0FBAOuHwYpwhABEw', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:07:02.242] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '16ebb6d2b50b474da0a6909f66ac1f65',
+  username: 'Cooper洛雨巴沙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNp3hb' }
+[2021-02-25 14:07:02.243] [INFO] - [ 'PJHsZIDOza-iEx8jABEx', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:07:05.842] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: 'fe9c976a8a1e419093e158ebc3ec3e63',
+  username: '李夫托尔斯泰',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNp4dN' }
+[2021-02-25 14:07:05.843] [INFO] - [ 'NzQwYVAZmUIQJRd0ABEy', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:07:32.118] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: 'fe9c976a8a1e419093e158ebc3ec3e63',
+  username: '李夫托尔斯泰',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNpB1w' }
+[2021-02-25 14:07:32.118] [INFO] - [ 'NMZfSrzC8oGXUyqFABEz', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:07:40.594] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '16ebb6d2b50b474da0a6909f66ac1f65',
+  username: 'Cooper洛雨巴沙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNpD2s' }
+[2021-02-25 14:07:40.596] [INFO] - [ 'nkBfvDMrqr6Sb97aABE0', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:19:16.251] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 14:19:44.610] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '16ebb6d2b50b474da0a6909f66ac1f65',
+  username: 'Cooper洛雨巴沙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNrzpM' }
+[2021-02-25 14:19:44.610] [INFO] - [ 'rIe-CZ0TSHaeRdo5ABE1', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:28:06.544] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '16ebb6d2b50b474da0a6909f66ac1f65',
+  username: 'Cooper洛雨巴沙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNtuMH' }
+[2021-02-25 14:28:06.545] [INFO] - [ 'JieDheZdPPnsthDNABE2', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:28:49.353] [INFO] - gift { role: 0,
+  _id: 'JieDheZdPPnsthDNABE2',
+  msg: '棒棒糖',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.png' }
+[2021-02-25 14:28:54.397] [INFO] - gift { role: 0,
+  _id: 'JieDheZdPPnsthDNABE2',
+  msg: '送气球',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/送气球.png' }
+[2021-02-25 14:29:00.375] [INFO] - gift { role: 0,
+  _id: 'JieDheZdPPnsthDNABE2',
+  msg: '下午茶',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/下午茶.png' }
+[2021-02-25 14:29:19.102] [INFO] - gift { role: 0,
+  _id: 'JieDheZdPPnsthDNABE2',
+  msg: '送元宝',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/送元宝.png' }
+[2021-02-25 14:29:26.502] [INFO] - gift { role: 0,
+  _id: 'JieDheZdPPnsthDNABE2',
+  msg: '送元宝',
+  num: 22,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/送元宝.png' }
+[2021-02-25 14:30:26.409] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '16ebb6d2b50b474da0a6909f66ac1f65',
+  username: 'Cooper洛雨巴沙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNuQVY' }
+[2021-02-25 14:30:26.409] [INFO] - [ 'CbyFQqcnsZ5-VpD9ABE3', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:39:17.110] [INFO] - msg { role: 0,
+  username: 'Cooper洛雨巴沙',
+  _id: 'CbyFQqcnsZ5-VpD9ABE3',
+  msg: '没有声音' }
+[2021-02-25 14:41:01.425] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '16ebb6d2b50b474da0a6909f66ac1f65',
+  username: 'Cooper洛雨巴沙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNwrXn' }
+[2021-02-25 14:41:01.425] [INFO] - [ 'D7eB_AmDtn71FVJyABE4', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:41:08.704] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '848d84508fbf4dce9ec357cfdde686e3',
+  username: 'Ci',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNwuFR' }
+[2021-02-25 14:41:08.705] [INFO] - [ '2yVavOZ8Sa4oFlxtABE5', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:42:33.834] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: 'fe9c976a8a1e419093e158ebc3ec3e63',
+  username: '李夫托尔斯泰',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNxC9T' }
+[2021-02-25 14:42:33.834] [INFO] - [ 'KmCAX4W5-G1xaaPTABE6', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:43:04.544] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: 'fe9c976a8a1e419093e158ebc3ec3e63',
+  username: '李夫托尔斯泰',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNxJfH' }
+[2021-02-25 14:43:04.545] [INFO] - [ '9QOOZqMQ4NsO9TpzABE7', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:45:41.900] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '226bc25d32fa42ce8caae543d04d6613',
+  username: '陳錕鵬',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNxw4b' }
+[2021-02-25 14:45:41.900] [INFO] - [ 'sn6DQbuK8e3HVjfAABE8', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:47:57.671] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/actuator/health 200 0ms
+[2021-02-25 14:49:03.823] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '16ebb6d2b50b474da0a6909f66ac1f65',
+  username: 'Cooper洛雨巴沙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNyhJ7' }
+[2021-02-25 14:49:03.824] [INFO] - [ 'p7ECVMBSFyU_4l69ABE9', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:52:17.039] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '226bc25d32fa42ce8caae543d04d6613',
+  username: '陳錕鵬',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNzQYj' }
+[2021-02-25 14:52:17.040] [INFO] - [ 'lp8_dXljEIE_pD78ABE-', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:54:07.306] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '16ebb6d2b50b474da0a6909f66ac1f65',
+  username: 'Cooper洛雨巴沙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNzrOz' }
+[2021-02-25 14:54:07.307] [INFO] - [ 'cFtrGbG_J3wbq3TxABE_', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:54:22.736] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '226bc25d32fa42ce8caae543d04d6613',
+  username: '陳錕鵬',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNzvEW' }
+[2021-02-25 14:54:22.736] [INFO] - [ 'izGPV_VTwLgSN_ccABFA', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 14:54:26.911] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '226bc25d32fa42ce8caae543d04d6613',
+  username: '陳錕鵬',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVNzwGX' }
+[2021-02-25 14:54:26.911] [INFO] - [ 'iwwAAo04ARx8lQOpABFB', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 15:05:24.497] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '7b23232f091f438fbe5a954706220787',
+  username: 'N.',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVO0RHz' }
+[2021-02-25 15:05:24.498] [INFO] - [ 'cd2-H3o0Q_9QrSAxABFC', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 15:05:42.659] [INFO] - gift { role: 0,
+  _id: 'cd2-H3o0Q_9QrSAxABFC',
+  msg: '大飞机',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/大飞机.png' }
+[2021-02-25 15:05:48.739] [INFO] - gift { role: 0,
+  _id: 'cd2-H3o0Q_9QrSAxABFC',
+  msg: '棒棒糖',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.png' }
+[2021-02-25 15:10:27.711] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '226bc25d32fa42ce8caae543d04d6613',
+  username: '陳錕鵬',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVO1aqi' }
+[2021-02-25 15:10:27.712] [INFO] - [ 'DyALApgBFeHYKV0XABFD', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 15:46:20.836] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '848d84508fbf4dce9ec357cfdde686e3',
+  username: 'Ci',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVO9pM8' }
+[2021-02-25 15:46:20.836] [INFO] - [ 'bEG2len9I_lJMjL-ABFE', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 15:47:49.408] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '226bc25d32fa42ce8caae543d04d6613',
+  username: '陳錕鵬',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVOA87E' }
+[2021-02-25 15:47:49.408] [INFO] - [ 'PKhNudLtUVTJTPX8ABFF', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 15:51:01.070] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '16ebb6d2b50b474da0a6909f66ac1f65',
+  username: 'Cooper洛雨巴沙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVOAsr4' }
+[2021-02-25 15:51:01.070] [INFO] - [ 'w_uVC-ZUr34IkwDPABFG', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 15:51:06.766] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '16ebb6d2b50b474da0a6909f66ac1f65',
+  username: 'Cooper洛雨巴沙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVOAuE7' }
+[2021-02-25 15:51:06.766] [INFO] - [ 'xvNYs7Tq8yMk7OElABFH', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 15:51:16.350] [INFO] - query { rid: '300369acc9e74ac3a83e7f86dc5d43c5',
+  uid: '16ebb6d2b50b474da0a6909f66ac1f65',
+  username: 'Cooper洛雨巴沙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NVOAwZ-' }
+[2021-02-25 15:51:16.350] [INFO] - [ 'APhxCJUodO2yz_KDABFI', '300369acc9e74ac3a83e7f86dc5d43c5' ]
+[2021-02-25 15:58:31.638] [INFO] - msg { role: 0,
+  username: 'Ci',
+  _id: 'bEG2len9I_lJMjL-ABFE',
+  msg: '没声音了' }
+[2021-02-25 15:58:54.457] [INFO] - gift { role: 0,
+  _id: 'bEG2len9I_lJMjL-ABFE',
+  msg: '送气球',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/送气球.png' }
+[2021-02-25 15:59:02.177] [INFO] - gift { role: 0,
+  _id: 'PKhNudLtUVTJTPX8ABFF',
+  msg: '大飞机',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/大飞机.png' }
+[2021-02-25 15:59:06.213] [INFO] - gift { role: 0,
+  _id: 'PKhNudLtUVTJTPX8ABFF',
+  msg: '棒棒糖',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.png' }
+[2021-02-25 15:59:08.822] [INFO] - gift { role: 0,
+  _id: 'PKhNudLtUVTJTPX8ABFF',
+  msg: '送气球',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/送气球.png' }
+[2021-02-25 15:59:16.694] [INFO] - msg { role: 0,
+  username: 'Ci',
+  _id: 'bEG2len9I_lJMjL-ABFE',
+  msg: '听不到声音啦' }
+[2021-02-25 17:33:24.285] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 17:34:21.975] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 17:38:21.794] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 19:58:10.916] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-02-25 21:58:42.881] [INFO] - [47.101.192.218] GET http://47.100.89.2:8250/ 200 0ms
+[2021-02-25 22:10:13.918] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms

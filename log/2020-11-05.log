@@ -1,0 +1,243 @@
+[2020-11-05 10:14:46.563] [INFO] - Listening on port 8250
+[2020-11-05 10:21:04.511] [INFO] - Listening on port 8250
+[2020-11-05 10:21:46.774] [INFO] - query { rid: 'room1',
+  uid: '11110.94785138318156',
+  username: '张信哲77',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMMDSbX' }
+[2020-11-05 10:21:46.775] [INFO] - [ 'V927-Pz-jphkaNr0AAAA', 'room1' ]
+[2020-11-05 11:51:49.024] [INFO] - [106.15.202.249] GET http://47.100.89.2:8250/ 200 3ms
+[2020-11-05 15:08:26.388] [INFO] - query { rid: 'room1',
+  uid: '11110.7178677674041436',
+  username: '张信哲9',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMNF2-3' }
+[2020-11-05 15:08:26.388] [INFO] - [ 'ew2enm6OCnBHZhAoAAAB', 'room1' ]
+[2020-11-05 15:10:10.358] [INFO] - query { rid: 'room1',
+  uid: '11110.7516194852067466',
+  username: '张信哲83',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMNFSMV' }
+[2020-11-05 15:10:10.359] [INFO] - [ 'dJALZkpgxqV1ATprAAAC', 'room1' ]
+[2020-11-05 15:10:10.412] [INFO] - user socket V927-Pz-jphkaNr0AAAA
+[2020-11-05 15:10:10.412] [INFO] - user socket dJALZkpgxqV1ATprAAAC
+[2020-11-05 15:10:10.412] [INFO] - users [ { id: 'V927-Pz-jphkaNr0AAAA',
+    uid: '11110.94785138318156',
+    username: '张信哲77',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 },
+  { id: 'dJALZkpgxqV1ATprAAAC',
+    uid: '11110.7516194852067466',
+    username: '张信哲83',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 } ]
+[2020-11-05 15:12:59.148] [INFO] - query { rid: 'room1',
+  uid: '11110.8978034875975553',
+  username: '张信哲89',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMNG5Zu' }
+[2020-11-05 15:12:59.148] [INFO] - [ 'ubQttcvzD_LsrlXUAAAD', 'room1' ]
+[2020-11-05 15:12:59.216] [INFO] - user socket V927-Pz-jphkaNr0AAAA
+[2020-11-05 15:12:59.216] [INFO] - user socket ubQttcvzD_LsrlXUAAAD
+[2020-11-05 15:12:59.216] [INFO] - users [ { id: 'V927-Pz-jphkaNr0AAAA',
+    uid: '11110.94785138318156',
+    username: '张信哲77',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 },
+  { id: 'ubQttcvzD_LsrlXUAAAD',
+    uid: '11110.8978034875975553',
+    username: '张信哲89',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 } ]
+[2020-11-05 15:13:15.761] [INFO] - query { rid: 'room1',
+  uid: '11110.41781688350910207',
+  username: '张信哲12',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMNG9dO' }
+[2020-11-05 15:13:15.761] [INFO] - [ 'GMnBoESJ7w7q3yb0AAAE', 'room1' ]
+[2020-11-05 15:13:15.818] [INFO] - user socket V927-Pz-jphkaNr0AAAA
+[2020-11-05 15:13:15.818] [INFO] - user socket GMnBoESJ7w7q3yb0AAAE
+[2020-11-05 15:13:15.819] [INFO] - users [ { id: 'V927-Pz-jphkaNr0AAAA',
+    uid: '11110.94785138318156',
+    username: '张信哲77',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 },
+  { id: 'GMnBoESJ7w7q3yb0AAAE',
+    uid: '11110.41781688350910207',
+    username: '张信哲12',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 } ]
+[2020-11-05 15:14:48.923] [INFO] - query { rid: 'room1',
+  uid: '11110.856081358389517',
+  username: '张信哲47',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMNGWN5' }
+[2020-11-05 15:14:48.923] [INFO] - [ 'AfXfUVKgh_I6yytKAAAF', 'room1' ]
+[2020-11-05 15:21:57.716] [INFO] - query { rid: 'room1',
+  uid: '11110.3728327334925765',
+  username: '张信哲5',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMNI92t' }
+[2020-11-05 15:21:57.717] [INFO] - [ 'VJ4wkf86ezxpyUOnAAAG', 'room1' ]
+[2020-11-05 15:21:57.783] [INFO] - user socket V927-Pz-jphkaNr0AAAA
+[2020-11-05 15:21:57.783] [INFO] - user socket VJ4wkf86ezxpyUOnAAAG
+[2020-11-05 15:21:57.783] [INFO] - users [ { id: 'V927-Pz-jphkaNr0AAAA',
+    uid: '11110.94785138318156',
+    username: '张信哲77',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 },
+  { id: 'VJ4wkf86ezxpyUOnAAAG',
+    uid: '11110.3728327334925765',
+    username: '张信哲5',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 } ]
+[2020-11-05 15:22:25.058] [INFO] - say { _id: 'VJ4wkf86ezxpyUOnAAAG', status: 0 }
+[2020-11-05 15:22:26.307] [INFO] - say { _id: 'VJ4wkf86ezxpyUOnAAAG', status: 0 }
+[2020-11-05 15:24:46.034] [INFO] - query { rid: 'room1',
+  uid: '11110.4813283412384022',
+  username: '张信哲51',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMNIo8s' }
+[2020-11-05 15:24:46.035] [INFO] - [ 'VLjk-3mgQt9hayEVAAAH', 'room1' ]
+[2020-11-05 15:24:46.093] [INFO] - user socket V927-Pz-jphkaNr0AAAA
+[2020-11-05 15:24:46.093] [INFO] - user socket VLjk-3mgQt9hayEVAAAH
+[2020-11-05 15:24:46.093] [INFO] - users [ { id: 'V927-Pz-jphkaNr0AAAA',
+    uid: '11110.94785138318156',
+    username: '张信哲77',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 },
+  { id: 'VLjk-3mgQt9hayEVAAAH',
+    uid: '11110.4813283412384022',
+    username: '张信哲51',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 } ]
+[2020-11-05 15:24:52.909] [INFO] - say { _id: 'VLjk-3mgQt9hayEVAAAH', status: 0 }
+[2020-11-05 15:55:19.956] [INFO] - query { rid: 'room1',
+  uid: '11110.31684699466837407',
+  username: '张信哲33',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMNPntc' }
+[2020-11-05 15:55:19.957] [INFO] - [ 'CWtpjghADJjEjvtUAAAI', 'room1' ]
+[2020-11-05 15:55:20.068] [INFO] - user socket V927-Pz-jphkaNr0AAAA
+[2020-11-05 15:55:20.068] [INFO] - user socket CWtpjghADJjEjvtUAAAI
+[2020-11-05 15:55:20.068] [INFO] - users [ { id: 'V927-Pz-jphkaNr0AAAA',
+    uid: '11110.94785138318156',
+    username: '张信哲77',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 },
+  { id: 'CWtpjghADJjEjvtUAAAI',
+    uid: '11110.31684699466837407',
+    username: '张信哲33',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 } ]
+[2020-11-05 15:58:27.299] [INFO] - query { rid: 'room1',
+  uid: '11110.27724254717184804',
+  username: '张信哲33',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMNQVck' }
+[2020-11-05 15:58:27.299] [INFO] - [ 'FLOdLp9ClIhv0uJLAAAJ', 'room1' ]
+[2020-11-05 15:58:27.349] [INFO] - user socket V927-Pz-jphkaNr0AAAA
+[2020-11-05 15:58:27.349] [INFO] - user socket FLOdLp9ClIhv0uJLAAAJ
+[2020-11-05 15:58:27.349] [INFO] - users [ { id: 'V927-Pz-jphkaNr0AAAA',
+    uid: '11110.94785138318156',
+    username: '张信哲77',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 },
+  { id: 'FLOdLp9ClIhv0uJLAAAJ',
+    uid: '11110.27724254717184804',
+    username: '张信哲33',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 } ]
+[2020-11-05 16:29:46.069] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMNXgIF' }
+[2020-11-05 16:29:46.069] [INFO] - [ 'SwE3y36xYZ-5LW_YAAAK', 'room1' ]
+[2020-11-05 16:29:46.139] [INFO] - user socket V927-Pz-jphkaNr0AAAA
+[2020-11-05 16:29:46.139] [INFO] - user socket SwE3y36xYZ-5LW_YAAAK
+[2020-11-05 16:29:46.139] [INFO] - users [ { id: 'V927-Pz-jphkaNr0AAAA',
+    uid: '11110.94785138318156',
+    username: '张信哲77',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 } ]
+[2020-11-05 16:34:28.875] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMNYlK-' }
+[2020-11-05 16:34:28.876] [INFO] - [ 'cV8C25XsUaH9zGiaAAAL', 'room1' ]
+[2020-11-05 16:34:28.975] [INFO] - user socket V927-Pz-jphkaNr0AAAA
+[2020-11-05 16:34:28.975] [INFO] - user socket cV8C25XsUaH9zGiaAAAL
+[2020-11-05 16:34:28.975] [INFO] - users [ { id: 'V927-Pz-jphkaNr0AAAA',
+    uid: '11110.94785138318156',
+    username: '张信哲77',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0 } ]
+[2020-11-05 16:48:20.981] [INFO] - [47.101.45.183] GET http://47.100.89.2:8250/ 200 1ms
+[2020-11-05 17:52:17.732] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMNqZB7' }
+[2020-11-05 17:52:17.732] [INFO] - [ 'uTa6bEpTiBBc0acYAAAM', 'room1' ]
+[2020-11-05 17:52:17.849] [INFO] - user socket uTa6bEpTiBBc0acYAAAM
+[2020-11-05 17:52:17.849] [INFO] - users []

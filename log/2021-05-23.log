@@ -1,0 +1,2333 @@
+[2021-05-23 00:28:29.576] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-23 00:28:30.364] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 02:20:29.599] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 02:23:49.746] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-23 02:50:39.293] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 02:50:47.460] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/webfig/ 200 0ms
+[2021-05-23 03:03:30.885] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 03:03:39.484] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/webfig/ 200 1ms
+[2021-05-23 03:18:04.259] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 03:24:13.447] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 04:31:11.495] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 04:59:10.071] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-23 05:12:08.611] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 05:13:51.252] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 05:13:51.438] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-23 05:13:51.494] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-05-23 05:15:20.193] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 05:15:26.810] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 05:20:34.329] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 05:26:54.710] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 06:05:12.289] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 06:18:06.034] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 07:13:00.463] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 07:38:49.292] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 07:59:36.308] [INFO] - [162.142.125.37] GET http://47.100.89.2:8250/ 200 0ms
+[2021-05-23 09:25:41.646] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 09:25:43.784] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/.git/config 200 1ms
+[2021-05-23 09:25:45.734] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/server-status 200 0ms
+[2021-05-23 09:25:47.450] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/config.json 200 1ms
+[2021-05-23 09:25:49.508] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/.env 200 0ms
+[2021-05-23 09:25:50.615] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/idx_config/ 200 0ms
+[2021-05-23 09:25:51.811] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/telescope/requests 200 0ms
+[2021-05-23 09:25:52.830] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/info.php 200 0ms
+[2021-05-23 09:25:53.861] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/v2/_catalog 200 0ms
+[2021-05-23 09:25:54.943] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/api/search?folderIds=0 200 0ms
+[2021-05-23 10:20:47.464] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 10:20:48.246] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 12:21:16.314] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-23 12:25:26.841] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-23 13:28:38.977] [INFO] - query { rid: 'db7196272b884f23be88b7d45a5f6b08',
+  uid: 'ae8b50d2af434ebdb1c29460d14250bd',
+  username: '雨轩先生',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNibQI' }
+[2021-05-23 13:28:38.977] [INFO] - [ 'A3aUjXfK4334Bqb4AFn3', 'db7196272b884f23be88b7d45a5f6b08' ]
+[2021-05-23 13:52:09.340] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 13:52:58.509] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f 200 0ms
+[2021-05-23 13:53:08.984] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f 200 1ms
+[2021-05-23 13:54:51.621] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 14:00:02.644] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '3ec0a7da752d4efdb33cc0882eafb503',
+  username: '田宝宝',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNpnok' }
+[2021-05-23 14:00:02.644] [INFO] - [ '-76qh1MWF0cLijZsAFn4', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:00:03.121] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '49951db9b51240e7a8463407a35a68f3',
+  username: '奇奇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNpnSH' }
+[2021-05-23 14:00:03.121] [INFO] - [ 'ojM0X8L_owmueD0DAFn5', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:00:04.194] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '7757a2124b9c4ee2a7d80c849217cf38',
+  username: 'whyd5f334ee4b',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNpno9' }
+[2021-05-23 14:00:04.194] [INFO] - [ 'Eh-YRDwEd6k3uM2zAFn6', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:00:20.085] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNprrQ' }
+[2021-05-23 14:00:20.085] [INFO] - [ 'XUOr6BJ4Ayh_ykp3AFn7', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:00:36.070] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '97f07c37f3194a94b9894a4562db50f1',
+  username: '佳音',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNpvdr' }
+[2021-05-23 14:00:36.071] [INFO] - [ '7v63hRYnIuuVU-cDAFn8', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:01:28.519] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNq6Yg' }
+[2021-05-23 14:01:28.520] [INFO] - [ 'wxxuxkVCjqcfNbXFAFn9', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:01:33.899] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ec63bb9606ef4ba0b64ecd32bd6e0b10',
+  username: '王胜娥',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNq7lU' }
+[2021-05-23 14:01:33.899] [INFO] - [ '6O-KYYgNy-PiM1AMAFn-', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:01:34.412] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ba3b9a81dc954d34b47a780d93b37dcd',
+  username: '秋风',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNq86D' }
+[2021-05-23 14:01:34.412] [INFO] - [ 'lJSKrhzjY2BETMURAFn_', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:02:20.712] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'b1e963b4fa7049458b11fc9691d81940',
+  username: '碎碎心塞塞',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNqJgV' }
+[2021-05-23 14:02:20.714] [INFO] - [ '-8Vi22Ol0uFEuIhZAFoA', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:02:36.385] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNqN6_' }
+[2021-05-23 14:02:36.385] [INFO] - [ 'JdtkM5FeaU6dH21xAFoB', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:02:36.730] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '04a57ba3c32e45499b70860b39c98a6a',
+  username: '许静芬',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNqNbP' }
+[2021-05-23 14:02:36.730] [INFO] - [ 'EsU9ZZGwhZzGhApqAFoC', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:03:00.265] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNqSyB' }
+[2021-05-23 14:03:00.265] [INFO] - [ 'E8eBd5Azmiu2DLBJAFoD', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:03:40.242] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '49951db9b51240e7a8463407a35a68f3',
+  username: '奇奇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNqcSo' }
+[2021-05-23 14:03:40.242] [INFO] - [ 'PeKW2_wgyHQFZOr-AFoE', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:05:09.561] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '56ffec4f301d47b196bf94c2cdb13a43',
+  username: '古月',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNqyYi' }
+[2021-05-23 14:05:09.561] [INFO] - [ 'b_uPMeIdc4fyWthUAFoF', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:05:36.827] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c93dc8586c0f4c45bbddbda1712a304f',
+  username: '秀娥',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNr38T' }
+[2021-05-23 14:05:36.827] [INFO] - [ 'Hhf9DRUTWjo_Ip4OAFoG', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:05:37.072] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNr3EF' }
+[2021-05-23 14:05:37.072] [INFO] - [ 'YCdTUMlTyDbcY0keAFoH', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:06:04.006] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '92c5691b971747cdb57a70bbb956c9ac',
+  username: '小德兰',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNr9PI' }
+[2021-05-23 14:06:04.006] [INFO] - [ '-NQrQrGASsZvgwvmAFoI', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:06:39.645] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '0eb533ccb41f464bb99f3dd908bf8eac',
+  username: '张京玲',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNrIpg' }
+[2021-05-23 14:06:39.646] [INFO] - [ 'p6mWwq2c6EpdbU5HAFoJ', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:06:44.783] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'cb776d36179f49f2830dc665341ca625',
+  username: '火夫',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNrJRp' }
+[2021-05-23 14:06:44.783] [INFO] - [ 'phSYW7XzEoKrpOn2AFoK', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:06:54.727] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNrMBj' }
+[2021-05-23 14:06:54.727] [INFO] - [ '6qiOIfeVFV7WqSuOAFoL', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:07:54.282] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ba3b9a81dc954d34b47a780d93b37dcd',
+  username: '秋风',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNrarn' }
+[2021-05-23 14:07:54.282] [INFO] - [ 'SSZKo4UMG8VpLvwnAFoM', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:08:04.890] [INFO] - msg { role: 0,
+  username: '佳珊',
+  _id: '6qiOIfeVFV7WqSuOAFoL',
+  msg: '鼓掌' }
+[2021-05-23 14:08:13.307] [INFO] - gift { role: 0,
+  _id: 'phSYW7XzEoKrpOn2AFoK',
+  msg: '666',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/666.gif' }
+[2021-05-23 14:08:30.933] [INFO] - gift { role: 0,
+  _id: '6qiOIfeVFV7WqSuOAFoL',
+  msg: '666',
+  num: 3,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/666.gif' }
+[2021-05-23 14:09:55.915] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNs2Qo' }
+[2021-05-23 14:09:55.915] [INFO] - [ '4ZjfV0xU0XNa4EoEAFoN', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:10:10.475] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ec2f396c3ced4bff8dbf3391fe371fdc',
+  username: '姚公容',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNs6hT' }
+[2021-05-23 14:10:10.475] [INFO] - [ 'ZB6grdEoLTT5VPH6AFoO', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:10:14.208] [INFO] - gift { role: 0,
+  _id: '4ZjfV0xU0XNa4EoEAFoN',
+  msg: '666',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/666.gif' }
+[2021-05-23 14:10:16.910] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ab1ec17622d44694aa2d95ef33d96159',
+  username: '大雁归来',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNs7Kp' }
+[2021-05-23 14:10:16.910] [INFO] - [ 'qogefiuDYh3vgVSkAFoP', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:10:21.511] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ba3b9a81dc954d34b47a780d93b37dcd',
+  username: '秋风',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNs8o4' }
+[2021-05-23 14:10:21.511] [INFO] - [ 'dpBUXlgliX-VkKBhAFoQ', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:10:48.496] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ec2f396c3ced4bff8dbf3391fe371fdc',
+  username: '姚公容',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNsFzn' }
+[2021-05-23 14:10:48.497] [INFO] - [ 'IvTxgDupWa8x9yyBAFoR', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:11:14.251] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '7668f76ff70948a3b23a3f2d7da51918',
+  username: '苏宇轩',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNsLGf' }
+[2021-05-23 14:11:14.251] [INFO] - [ '57MJ61KOgGcZLQ_ZAFoS', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:11:17.787] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ec63bb9606ef4ba0b64ecd32bd6e0b10',
+  username: '王胜娥',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNsMI5' }
+[2021-05-23 14:11:17.787] [INFO] - [ '0ylJOQ86iR8fhiAaAFoT', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:11:22.680] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ec63bb9606ef4ba0b64ecd32bd6e0b10',
+  username: '王胜娥',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNsNVP' }
+[2021-05-23 14:11:22.680] [INFO] - [ 'gZut2M185LACs5k1AFoU', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:12:12.460] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNsZr3' }
+[2021-05-23 14:12:12.460] [INFO] - [ 'TtF5DstA9SlL8bqfAFoV', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:12:25.876] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNsd21' }
+[2021-05-23 14:12:25.876] [INFO] - [ 'T9jxkRdDH4Dv5a71AFoW', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:12:28.882] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNsdc5' }
+[2021-05-23 14:12:28.882] [INFO] - [ 'Uuyp84iBZygKZxbOAFoX', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:12:30.592] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ec63bb9606ef4ba0b64ecd32bd6e0b10',
+  username: '王胜娥',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNse4C' }
+[2021-05-23 14:12:30.592] [INFO] - [ '0aDnJyUsaxgQ5oc9AFoY', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:12:52.979] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNsjfM' }
+[2021-05-23 14:12:52.979] [INFO] - [ 'xj-xrlFXwPezpiqtAFoZ', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:12:58.325] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNskyi' }
+[2021-05-23 14:12:58.326] [INFO] - [ 'AZYRx8DkkZ5gVF2gAFoa', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:13:14.534] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNsowC' }
+[2021-05-23 14:13:14.534] [INFO] - [ 'loU5Eb9zMgEoRE1FAFob', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:13:24.116] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNsrFx' }
+[2021-05-23 14:13:24.116] [INFO] - [ 'x5CrJ70d81XjLwV8AFoc', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:13:29.405] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNssdI' }
+[2021-05-23 14:13:29.405] [INFO] - [ 'NCJJo4uN0Dbn05_MAFod', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:13:39.161] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'cb776d36179f49f2830dc665341ca625',
+  username: '火夫',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNsucT' }
+[2021-05-23 14:13:39.161] [INFO] - [ 'RQOlfLpCsPFQHWEjAFoe', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:14:11.478] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'cb776d36179f49f2830dc665341ca625',
+  username: '火夫',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNt0VO' }
+[2021-05-23 14:14:11.478] [INFO] - [ '97pgnAebroGXj7Z4AFof', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:14:29.747] [INFO] - msg { role: 0,
+  username: '姚公容',
+  _id: 'IvTxgDupWa8x9yyBAFoR',
+  msg: '气息是最难的关卡，直击主题，太捧了！👏👍' }
+[2021-05-23 14:14:47.901] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNt9in' }
+[2021-05-23 14:14:47.901] [INFO] - [ 'Zilap7ng9KGBduwyAFog', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:14:54.103] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '07ba7f1994be4ad3bb67b5327f02aae9',
+  username: '平凡的世界',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtBDZ' }
+[2021-05-23 14:14:54.103] [INFO] - [ 'VPiv1k92eFQjdGVyAFoh', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:14:59.830] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '190ad783a8fa4ebdb8b8969cc6da4768',
+  username: '思念成雨急',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtCWE' }
+[2021-05-23 14:14:59.831] [INFO] - [ 'WUj9_OVk6W4SNVjTAFoi', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:15:20.622] [INFO] - msg { role: 0,
+  username: '大雁归来',
+  _id: 'qogefiuDYh3vgVSkAFoP',
+  msg: '为敬业的的老师点赞👍 ' }
+[2021-05-23 14:15:23.340] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '190ad783a8fa4ebdb8b8969cc6da4768',
+  username: '思念成雨急',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtIFo' }
+[2021-05-23 14:15:23.341] [INFO] - [ '2GRO9EPKsPkqpuEEAFoj', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:15:45.472] [INFO] - gift { role: 0,
+  _id: '-NQrQrGASsZvgwvmAFoI',
+  msg: '爱心',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/爱心.gif' }
+[2021-05-23 14:15:49.689] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '97f07c37f3194a94b9894a4562db50f1',
+  username: '佳音',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtNFZ' }
+[2021-05-23 14:15:49.690] [INFO] - [ 'F_UKPEtxzsEiIMJnAFok', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:15:55.910] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '97f07c37f3194a94b9894a4562db50f1',
+  username: '佳音',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtQD6' }
+[2021-05-23 14:15:55.911] [INFO] - [ '2n60RuKTk_NeNtY_AFol', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:16:01.956] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '1fbf439b237c4333b6f892ec68249cb3',
+  username: '音符',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtRVd' }
+[2021-05-23 14:16:01.956] [INFO] - [ 'ssheWCDMhDi_dlA1AFom', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:16:13.631] [INFO] - msg { role: 0,
+  username: '戚年凤',
+  _id: 'Uuyp84iBZygKZxbOAFoX',
+  msg: '为敬业老师点赞' }
+[2021-05-23 14:16:13.907] [INFO] - gift { role: 0,
+  _id: 'qogefiuDYh3vgVSkAFoP',
+  msg: '爱心',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/爱心.gif' }
+[2021-05-23 14:16:14.347] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtUpg' }
+[2021-05-23 14:16:14.348] [INFO] - [ 'CeeVPid791EO-yP1AFon', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:16:33.091] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ab1ec17622d44694aa2d95ef33d96159',
+  username: '大雁归来',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtZAO' }
+[2021-05-23 14:16:33.092] [INFO] - [ '5jlhFtFa4FYbw2kEAFoo', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:16:47.008] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtcoA' }
+[2021-05-23 14:16:47.008] [INFO] - [ 'jc9PueGUs8U4I2QaAFop', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:17:03.741] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '2f71ae23f98c4c6fac8eb323a53a441f',
+  username: '庄瑢云（dragon）',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtgZX' }
+[2021-05-23 14:17:03.742] [INFO] - [ 'dTiFioVMiHi_tDxUAFoq', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:17:15.312] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtjiQ' }
+[2021-05-23 14:17:15.313] [INFO] - [ 'yot2uq_64irhTyTqAFor', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:17:22.367] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '9d17822918454456920a04d9da67548b',
+  username: '亚芳',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtliU' }
+[2021-05-23 14:17:22.367] [INFO] - [ 'JJYvTbdQrsd3tol_AFos', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:17:28.559] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ba3b9a81dc954d34b47a780d93b37dcd',
+  username: '秋风',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtn2F' }
+[2021-05-23 14:17:28.559] [INFO] - [ 'ynQ-g5ko0VRz9sCbAFot', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:18:06.340] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtv-p' }
+[2021-05-23 14:18:06.340] [INFO] - [ 'xFNZaKCC996ZC59tAFou', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:18:11.166] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtxHt' }
+[2021-05-23 14:18:11.166] [INFO] - [ 'vUQ2pVBD1ailBLxgAFov', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:18:22.078] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '54df0ace363e43938e5b8e5c83c91736',
+  username: '四方楠',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNtzuU' }
+[2021-05-23 14:18:22.079] [INFO] - [ 'jxIAwNHsPvAPY8ueAFow', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:18:30.435] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '5555ad1f7a5b49eea96f5aa09c680193',
+  username: '雅芳～',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNu064' }
+[2021-05-23 14:18:30.435] [INFO] - [ 'RI9othk9UYNB7SsbAFox', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:18:44.770] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNu3Y6' }
+[2021-05-23 14:18:44.770] [INFO] - [ 'tS2GgeKv-JXu3xrWAFoy', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:18:50.574] [INFO] - gift { role: 0,
+  _id: 'ynQ-g5ko0VRz9sCbAFot',
+  msg: '666',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/666.gif' }
+[2021-05-23 14:18:53.213] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '07ba7f1994be4ad3bb67b5327f02aae9',
+  username: '平凡的世界',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNu5bs' }
+[2021-05-23 14:18:53.213] [INFO] - [ 'EgRSqx-r_nvW_8KjAFoz', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:19:00.531] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '085bd1d3ea05434a94eb431fb0194588',
+  username: '四叶草青',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNuR7-' }
+[2021-05-23 14:19:00.532] [INFO] - [ '1_cmdiFG82vZN0oxAFo0', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:19:19.684] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-23 14:19:22.645] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'a20a9950e15f4cebb22dca3da6215fb0',
+  username: '阙金福',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNuDpz' }
+[2021-05-23 14:19:22.646] [INFO] - [ '8PKyI1uQCYaKqM_0AFo1', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:19:34.597] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '439f579c47224a189708e2cd8746db79',
+  username: '霜沐',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNuF6V' }
+[2021-05-23 14:19:34.597] [INFO] - [ 'PqLEYkPQz1gr-0jXAFo2', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:20:13.777] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNuPGz' }
+[2021-05-23 14:20:13.777] [INFO] - [ 'Db_7phoa6JTTrWcIAFo3', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:20:24.563] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNuRvK' }
+[2021-05-23 14:20:24.563] [INFO] - [ '4Ag3YptBFcfX9nN-AFo4', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:20:30.170] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNuTG-' }
+[2021-05-23 14:20:30.170] [INFO] - [ 'TUZnE1gVqfvsT9lAAFo5', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:20:37.784] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNuV7x' }
+[2021-05-23 14:20:37.785] [INFO] - [ 'Jizhcm2tz_bKFLlUAFo6', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:21:14.988] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ab1ec17622d44694aa2d95ef33d96159',
+  username: '大雁归来',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNud_P' }
+[2021-05-23 14:21:14.989] [INFO] - [ 'ZKYPDBy0sjzMEh3vAFo7', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:21:22.465] [INFO] - gift { role: 0,
+  _id: 'RI9othk9UYNB7SsbAFox',
+  msg: '爱心',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/爱心.gif' }
+[2021-05-23 14:21:33.391] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '439f579c47224a189708e2cd8746db79',
+  username: '霜沐',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNui6p' }
+[2021-05-23 14:21:33.391] [INFO] - [ 'MWeT-YW_AEFnbev6AFo8', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:21:34.176] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '2d650ee3b38b43769c4984c92b96ea94',
+  username: '朝珏',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNuizc' }
+[2021-05-23 14:21:34.176] [INFO] - [ 'VilClV22KkFbtdIHAFo9', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:21:53.398] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '03aaf1c4acd546a1a62510348d4db2a5',
+  username: '刘新玲',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNunan' }
+[2021-05-23 14:21:53.398] [INFO] - [ 'RrskKAxFHGEobvUqAFo-', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:21:57.016] [INFO] - gift { role: 0,
+  _id: '0aDnJyUsaxgQ5oc9AFoY',
+  msg: '爱心',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/爱心.gif' }
+[2021-05-23 14:21:57.037] [INFO] - gift { role: 0,
+  _id: '0aDnJyUsaxgQ5oc9AFoY',
+  msg: '爱心',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/爱心.gif' }
+[2021-05-23 14:21:57.039] [INFO] - gift { role: 0,
+  _id: '0aDnJyUsaxgQ5oc9AFoY',
+  msg: '爱心',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/爱心.gif' }
+[2021-05-23 14:22:14.581] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNusmP' }
+[2021-05-23 14:22:14.581] [INFO] - [ 'X6zBBtVGgTRozpIFAFo_', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:22:24.623] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNuvDQ' }
+[2021-05-23 14:22:24.624] [INFO] - [ '9RWewzQUqslUPwGVAFpA', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:22:33.933] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ab1ec17622d44694aa2d95ef33d96159',
+  username: '大雁归来',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNuxGc' }
+[2021-05-23 14:22:33.933] [INFO] - [ 'EIpiT5w9Oka8mAxuAFpB', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:22:35.426] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '2d650ee3b38b43769c4984c92b96ea94',
+  username: '朝珏',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNuxwr' }
+[2021-05-23 14:22:35.427] [INFO] - [ 'cdW-_cWbuVdtUneRAFpC', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:22:39.210] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '2d650ee3b38b43769c4984c92b96ea94',
+  username: '朝珏',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNuysB' }
+[2021-05-23 14:22:39.210] [INFO] - [ 'J2OFJbXiqDDyc2KgAFpD', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:23:11.465] [INFO] - msg { role: 0,
+  username: '亚芳',
+  _id: 'JJYvTbdQrsd3tol_AFos',
+  msg: '老师教得好，这位同学很棒👍🏻 ，向你学习' }
+[2021-05-23 14:23:14.081] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNv5I2' }
+[2021-05-23 14:23:14.082] [INFO] - [ 'sNplQSb9yXKtYH9PAFpE', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:23:20.228] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '2d650ee3b38b43769c4984c92b96ea94',
+  username: '朝珏',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNv6sb' }
+[2021-05-23 14:23:20.228] [INFO] - [ 'NwHwmV0NaaeIxcTBAFpF', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:23:30.669] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNv9LL' }
+[2021-05-23 14:23:30.669] [INFO] - [ 'igxc9ztcsJPJ2xZuAFpG', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:23:32.404] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'ce94c87343174f9da794b2a7d666668c',
+  username: '耀龙',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNv9ml' }
+[2021-05-23 14:23:32.404] [INFO] - [ 'Pu7RhQJ-bE2xEY8_AFpH', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:23:55.912] [INFO] - msg { role: 0,
+  username: '王胜娥',
+  _id: '0aDnJyUsaxgQ5oc9AFoY',
+  msg: '给敬业的老师点赞！👍 ' }
+[2021-05-23 14:24:39.530] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ab1ec17622d44694aa2d95ef33d96159',
+  username: '大雁归来',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNvPxL' }
+[2021-05-23 14:24:39.530] [INFO] - [ 'Ad-M_xL86lVqIKBTAFpI', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:25:11.246] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ab1ec17622d44694aa2d95ef33d96159',
+  username: '大雁归来',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNvXgm' }
+[2021-05-23 14:25:11.247] [INFO] - [ 'JSkIMI5nJOseiB2VAFpJ', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:25:19.874] [INFO] - gift { role: 0,
+  _id: '-NQrQrGASsZvgwvmAFoI',
+  msg: '荧光棒',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/荧光棒.gif' }
+[2021-05-23 14:26:21.388] [INFO] - msg { role: 0,
+  username: '雅芳～',
+  _id: 'RI9othk9UYNB7SsbAFox',
+  msg: '老师教唱的很美美' }
+[2021-05-23 14:26:55.389] [INFO] - msg { role: 0,
+  username: '王胜娥',
+  _id: '0aDnJyUsaxgQ5oc9AFoY',
+  msg: '同学很棒哦！' }
+[2021-05-23 14:27:24.030] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '439f579c47224a189708e2cd8746db79',
+  username: '霜沐',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNw1jI' }
+[2021-05-23 14:27:24.030] [INFO] - [ 'eTFH85F4HO3E_eJdAFpK', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:27:31.658] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNw4Aj' }
+[2021-05-23 14:27:31.658] [INFO] - [ 'X_PxCqBL_1iQ3Ms2AFpL', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:27:33.812] [INFO] - gift { role: 0,
+  _id: '0aDnJyUsaxgQ5oc9AFoY',
+  msg: '666',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/666.gif' }
+[2021-05-23 14:27:35.234] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNw52n' }
+[2021-05-23 14:27:35.235] [INFO] - [ '77PU51FF1LKF8sLZAFpM', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:28:23.804] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNwGvf' }
+[2021-05-23 14:28:23.805] [INFO] - [ 'MKtoylgEwR3JxgvFAFpN', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:28:44.368] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '68abc4fe5a544011b1a62a5deb38b816',
+  username: '琪琪',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNwM4R' }
+[2021-05-23 14:28:44.368] [INFO] - [ 'q_Orsr3tDkE9K1PDAFpO', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:28:52.171] [INFO] - msg { role: 0,
+  username: '霜沐',
+  _id: 'eTFH85F4HO3E_eJdAFpK',
+  msg: '唱得好' }
+[2021-05-23 14:28:54.016] [INFO] - gift { role: 0,
+  _id: 'MKtoylgEwR3JxgvFAFpN',
+  msg: '爱心',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/爱心.gif' }
+[2021-05-23 14:29:06.197] [INFO] - gift { role: 0,
+  _id: 'MKtoylgEwR3JxgvFAFpN',
+  msg: '棒棒糖',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.gif' }
+[2021-05-23 14:29:19.072] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNwUPF' }
+[2021-05-23 14:29:19.073] [INFO] - [ 'mN0Vr98mtbn52uwPAFpP', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:29:34.105] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'e772b13cbb9f4328978b63dbccb2cbba',
+  username: '佳珊',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNwY48' }
+[2021-05-23 14:29:34.105] [INFO] - [ 'alX6dBfhYu_RoUMJAFpQ', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:29:41.729] [INFO] - gift { role: 0,
+  _id: 'alX6dBfhYu_RoUMJAFpQ',
+  msg: '棒棒糖',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.gif' }
+[2021-05-23 14:29:43.929] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '2f71ae23f98c4c6fac8eb323a53a441f',
+  username: '庄瑢云（dragon）',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNwa9P' }
+[2021-05-23 14:29:43.929] [INFO] - [ 'lcSzB8EME3EsUNBuAFpR', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:29:58.191] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '9095168bfc11489ab2f0593b1e7ccda0',
+  username: '蓝精灵',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNwe4Q' }
+[2021-05-23 14:29:58.192] [INFO] - [ 'lBHeqjsLSnG6FdcTAFpS', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:30:27.729] [INFO] - msg { role: 0,
+  username: '琪琪',
+  _id: 'q_Orsr3tDkE9K1PDAFpO',
+  msg: '教学很专业，水平高！' }
+[2021-05-23 14:30:48.367] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNwqB3' }
+[2021-05-23 14:30:48.367] [INFO] - [ '6NA2zjugQXfzuhB8AFpT', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:30:52.620] [INFO] - gift { role: 0,
+  _id: 'ynQ-g5ko0VRz9sCbAFot',
+  msg: '荧光棒',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/荧光棒.gif' }
+[2021-05-23 14:31:19.645] [INFO] - msg { role: 0,
+  username: '善良夫人wl',
+  _id: '6NA2zjugQXfzuhB8AFpT',
+  msg: '江老师讲的太好了！' }
+[2021-05-23 14:31:27.718] [INFO] - msg { role: 0,
+  username: '霜沐',
+  _id: 'eTFH85F4HO3E_eJdAFpK',
+  msg: '数风流人物，还看今朝' }
+[2021-05-23 14:31:28.798] [INFO] - msg { role: 0,
+  username: '善良夫人wl',
+  _id: '6NA2zjugQXfzuhB8AFpT',
+  msg: '收获满满啊' }
+[2021-05-23 14:31:35.339] [INFO] - gift { role: 0,
+  _id: '6NA2zjugQXfzuhB8AFpT',
+  msg: '爱心',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/爱心.gif' }
+[2021-05-23 14:31:44.093] [INFO] - gift { role: 0,
+  _id: 'ynQ-g5ko0VRz9sCbAFot',
+  msg: '棒棒糖',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.gif' }
+[2021-05-23 14:32:11.045] [INFO] - msg { role: 0,
+  username: '善良夫人wl',
+  _id: '6NA2zjugQXfzuhB8AFpT',
+  msg: '都是干货受益匪浅' }
+[2021-05-23 14:32:14.231] [INFO] - gift { role: 0,
+  _id: '6NA2zjugQXfzuhB8AFpT',
+  msg: '666',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/666.gif' }
+[2021-05-23 14:32:17.179] [INFO] - gift { role: 0,
+  _id: '6NA2zjugQXfzuhB8AFpT',
+  msg: '棒棒糖',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.gif' }
+[2021-05-23 14:32:39.350] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNxFH0' }
+[2021-05-23 14:32:39.351] [INFO] - [ 'Ho2tV8EmtVINLv5IAFpU', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:32:44.015] [INFO] - gift { role: 0,
+  _id: 'q_Orsr3tDkE9K1PDAFpO',
+  msg: '棒棒糖',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.gif' }
+[2021-05-23 14:32:47.722] [INFO] - gift { role: 0,
+  _id: 'Ho2tV8EmtVINLv5IAFpU',
+  msg: '爱心',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/爱心.gif' }
+[2021-05-23 14:32:54.832] [INFO] - gift { role: 0,
+  _id: 'Ho2tV8EmtVINLv5IAFpU',
+  msg: '气球',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/气球.gif' }
+[2021-05-23 14:33:01.141] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'cb776d36179f49f2830dc665341ca625',
+  username: '火夫',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNxKIO' }
+[2021-05-23 14:33:01.141] [INFO] - [ 'Pxkd2eHurNUvLoW0AFpV', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:33:03.221] [INFO] - gift { role: 0,
+  _id: 'q_Orsr3tDkE9K1PDAFpO',
+  msg: '荧光棒',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/荧光棒.gif' }
+[2021-05-23 14:33:06.996] [INFO] - msg { role: 0,
+  username: '庄瑢云（dragon）',
+  _id: 'lcSzB8EME3EsUNBuAFpR',
+  msg: '棒棒棒！' }
+[2021-05-23 14:33:41.519] [INFO] - msg { role: 0,
+  username: '善良夫人wl',
+  _id: 'Ho2tV8EmtVINLv5IAFpU',
+  msg: '好幸运啊绿萝同学' }
+[2021-05-23 14:34:03.207] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '2f71ae23f98c4c6fac8eb323a53a441f',
+  username: '庄瑢云（dragon）',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNxZSg' }
+[2021-05-23 14:34:03.208] [INFO] - [ 'f-JU0T-5DA0PCohAAFpW', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:34:03.223] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNxZlY' }
+[2021-05-23 14:34:03.223] [INFO] - [ 'QV8M26BY0kosu5lKAFpX', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:34:04.396] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'cb776d36179f49f2830dc665341ca625',
+  username: '火夫',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNxZkn' }
+[2021-05-23 14:34:04.396] [INFO] - [ 'c7UT5jqSJ2k8DHxVAFpY', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:34:07.477] [INFO] - gift { role: 0,
+  _id: 'QV8M26BY0kosu5lKAFpX',
+  msg: '爱心',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/爱心.gif' }
+[2021-05-23 14:34:14.081] [INFO] - gift { role: 0,
+  _id: 'QV8M26BY0kosu5lKAFpX',
+  msg: '棒棒糖',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.gif' }
+[2021-05-23 14:34:21.041] [INFO] - gift { role: 0,
+  _id: 'QV8M26BY0kosu5lKAFpX',
+  msg: '气球',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/气球.gif' }
+[2021-05-23 14:34:32.002] [INFO] - gift { role: 0,
+  _id: 'q_Orsr3tDkE9K1PDAFpO',
+  msg: '气球',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/气球.gif' }
+[2021-05-23 14:35:23.911] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNxtIu' }
+[2021-05-23 14:35:23.911] [INFO] - [ '0P5tYDkeM32-7wCaAFpZ', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:35:32.098] [INFO] - msg { role: 0,
+  username: 'whyd5f334ee4b',
+  _id: 'Eh-YRDwEd6k3uM2zAFn6',
+  msg: '同学好好幸运！江老师棒棒哒👍🏻 👍🏻 👍🏻 🌹 🌹 🌹 ' }
+[2021-05-23 14:36:29.140] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '7757a2124b9c4ee2a7d80c849217cf38',
+  username: 'whyd5f334ee4b',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNy7Dt' }
+[2021-05-23 14:36:29.140] [INFO] - [ 'VZXOE83SNVHmGYSiAFpa', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:37:47.153] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNyQQm' }
+[2021-05-23 14:37:47.154] [INFO] - [ '8dYE_813Df-bmrlKAFpb', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:38:06.065] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ba3b9a81dc954d34b47a780d93b37dcd',
+  username: '秋风',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNyVAn' }
+[2021-05-23 14:38:06.066] [INFO] - [ '2eII2MfipcI-I2eaAFpc', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:38:15.383] [INFO] - msg { role: 0,
+  username: '雅芳～',
+  _id: 'RI9othk9UYNB7SsbAFox',
+  msg: '江老师教的认真，学生学的认真。' }
+[2021-05-23 14:38:37.482] [INFO] - gift { role: 0,
+  _id: 'RI9othk9UYNB7SsbAFox',
+  msg: '666',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/666.gif' }
+[2021-05-23 14:39:02.256] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '2be370720e2041618b71be262dfa0207',
+  username: '洪岐民',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNyiYm' }
+[2021-05-23 14:39:02.256] [INFO] - [ 'fAQralXsksg9TSvrAFpd', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:40:13.340] [INFO] - msg { role: 0,
+  username: '亚芳',
+  _id: 'JJYvTbdQrsd3tol_AFos',
+  msg: '江老师，太棒了，好幸运啊！每个星期能学到很多东西' }
+[2021-05-23 14:40:44.499] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'b47f997312f94605ab4f45b32ee42645',
+  username: 'MkM-Wilson',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNz5Qq' }
+[2021-05-23 14:40:44.500] [INFO] - [ 'Jz2Uk3wDqdr-3G9sAFpe', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:41:00.724] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '7757a2124b9c4ee2a7d80c849217cf38',
+  username: 'whyd5f334ee4b',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNz9XM' }
+[2021-05-23 14:41:00.725] [INFO] - [ 'ud-gD1thbsmZ8HfQAFpf', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:41:01.302] [INFO] - msg { role: 0,
+  username: '庄瑢云（dragon）',
+  _id: 'f-JU0T-5DA0PCohAAFpW',
+  msg: '好美的声音，教的好！！！' }
+[2021-05-23 14:41:08.259] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '07ba7f1994be4ad3bb67b5327f02aae9',
+  username: '平凡的世界',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNzA-K' }
+[2021-05-23 14:41:08.260] [INFO] - [ 'jwGV79ALgAKAv4mEAFpg', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:41:25.649] [INFO] - gift { role: 0,
+  _id: 'ud-gD1thbsmZ8HfQAFpf',
+  msg: '爱心',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/爱心.gif' }
+[2021-05-23 14:42:51.171] [INFO] - gift { role: 0,
+  _id: '2eII2MfipcI-I2eaAFpc',
+  msg: '666',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/666.gif' }
+[2021-05-23 14:42:54.061] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '6a6c0cc94224478e8eec8757e42c51a3',
+  username: '梁军',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNzaqO' }
+[2021-05-23 14:42:54.061] [INFO] - [ 'FO8f6aHIXImNcf4-AFph', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:43:28.226] [INFO] - msg { role: 0,
+  username: 'whyd5f334ee4b',
+  _id: 'ud-gD1thbsmZ8HfQAFpf',
+  msg: '江老师教学滿滿的干货👍🏻 👍🏻 👍🏻 ' }
+[2021-05-23 14:43:43.821] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '7dfc6621dcf64545908c3eed7167418e',
+  username: '沈祥娟',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNznak' }
+[2021-05-23 14:43:43.821] [INFO] - [ 'aK27XpwS_c8eKg22AFpi', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:43:57.651] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '97f07c37f3194a94b9894a4562db50f1',
+  username: '佳音',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNzqoD' }
+[2021-05-23 14:43:57.652] [INFO] - [ 'Tfn63UkYc0hJVRy3AFpj', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:44:14.932] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '815b119c79764ca7b83a17f263841ee8',
+  username: '蒙格喵利',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcNzvA9' }
+[2021-05-23 14:44:14.932] [INFO] - [ '6ezHI-m2w6Ia2nnbAFpk', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:44:54.906] [INFO] - msg { role: 0,
+  username: 'whyd5f334ee4b',
+  _id: 'ud-gD1thbsmZ8HfQAFpf',
+  msg: '👏🏻 👏🏻 👏🏻 👏🏻 👏🏻 🎈 🎈 🎈 ' }
+[2021-05-23 14:45:00.537] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '97f07c37f3194a94b9894a4562db50f1',
+  username: '佳音',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcN-48A' }
+[2021-05-23 14:45:00.537] [INFO] - [ 'bQsakiuOYApg1Lu4AFpl', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:45:03.397] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '97f07c37f3194a94b9894a4562db50f1',
+  username: '佳音',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcN-4rO' }
+[2021-05-23 14:45:03.397] [INFO] - [ 'yJaK4GUTbDexRUrbAFpm', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:47:01.283] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '0a2076216e2e4fe08ab6283235fa4d51',
+  username: '阿华',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcN-XY9' }
+[2021-05-23 14:47:01.283] [INFO] - [ 'xe9sy9BPitXBtGTPAFpn', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:47:33.845] [INFO] - msg { role: 0,
+  username: 'whyd5f334ee4b',
+  _id: 'ud-gD1thbsmZ8HfQAFpf',
+  msg: '👏🏻 👏🏻 👏🏻 👏🏻 👏🏻 👏🏻 👏🏻 👍🏻 ' }
+[2021-05-23 14:47:56.301] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'ba3b9a81dc954d34b47a780d93b37dcd',
+  username: '秋风',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcN-lH0' }
+[2021-05-23 14:47:56.301] [INFO] - [ 'XFiUZuqGx5wDb47xAFpo', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:48:15.137] [INFO] - msg { role: 0,
+  username: '秋风',
+  _id: 'XFiUZuqGx5wDb47xAFpo',
+  msg: '👏👏👏👏👏👏' }
+[2021-05-23 14:49:55.988] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '49951db9b51240e7a8463407a35a68f3',
+  username: '奇奇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcN_C7T' }
+[2021-05-23 14:49:55.988] [INFO] - [ '555zn_WfxrfjTEteAFpp', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:49:59.120] [INFO] - msg { role: 0,
+  username: 'whyd5f334ee4b',
+  _id: 'ud-gD1thbsmZ8HfQAFpf',
+  msg: '同学好棒棒🌷 🌷 🌷 👍🏻 ' }
+[2021-05-23 14:50:14.632] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '004113ab512049f5b5871d55b8c328a1',
+  username: '张伟',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcN_GwA' }
+[2021-05-23 14:50:14.633] [INFO] - [ 'U7sTxZK4doWE_vm7AFpq', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:50:45.618] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd6c02917c5b54bf3abd909dd0c529f3c',
+  username: '唐传声',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcN_Oa6' }
+[2021-05-23 14:50:45.618] [INFO] - [ 'nc9yZzJuFRC1OCtjAFpr', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:51:56.383] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '2be370720e2041618b71be262dfa0207',
+  username: '洪岐民',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcN_fYO' }
+[2021-05-23 14:51:56.383] [INFO] - [ 'SorZIptEYAoBKJEuAFps', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:52:01.150] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '6a6c0cc94224478e8eec8757e42c51a3',
+  username: '梁军',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcN_gOp' }
+[2021-05-23 14:52:01.151] [INFO] - [ 'B3DSOQCm52eLNGQHAFpt', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:52:48.620] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '07ba7f1994be4ad3bb67b5327f02aae9',
+  username: '平凡的世界',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcN_ry1' }
+[2021-05-23 14:52:48.620] [INFO] - [ 'HoiwWioWkOJBjqqOAFpu', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:53:23.219] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '07ba7f1994be4ad3bb67b5327f02aae9',
+  username: '平凡的世界',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcN_-PJ' }
+[2021-05-23 14:53:23.219] [INFO] - [ 'YH8Zs68MlmARvGm6AFpv', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:53:36.187] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '7851193052484c22a818d4f26e25c147',
+  username: '@',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO024u' }
+[2021-05-23 14:53:36.187] [INFO] - [ 'oM5Db0G7t3YjgnpeAFpw', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:53:38.047] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '7757a2124b9c4ee2a7d80c849217cf38',
+  username: 'whyd5f334ee4b',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO02Qb' }
+[2021-05-23 14:53:38.047] [INFO] - [ 'Y7h3yXU52JBUpRt-AFpx', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:54:44.406] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '56ffec4f301d47b196bf94c2cdb13a43',
+  username: '古月',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO0ImQ' }
+[2021-05-23 14:54:44.406] [INFO] - [ '2TwaiIsKX7Om4Q3rAFpy', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:55:03.384] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '768154b052834a67a785eb293e319c53',
+  username: '高庆斌',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO0gCC' }
+[2021-05-23 14:55:03.384] [INFO] - [ 'fv1YtvWZoAO6nrJDAFpz', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:55:36.304] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO0VVz' }
+[2021-05-23 14:55:36.304] [INFO] - [ 'l1XDsQhmN6-UBD4XAFp0', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:56:00.912] [INFO] - msg { role: 0,
+  username: '善良夫人wl',
+  _id: 'l1XDsQhmN6-UBD4XAFp0',
+  msg: '好使用的教学方法' }
+[2021-05-23 14:56:06.452] [INFO] - gift { role: 0,
+  _id: 'l1XDsQhmN6-UBD4XAFp0',
+  msg: '爱心',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/爱心.gif' }
+[2021-05-23 14:56:11.226] [INFO] - gift { role: 0,
+  _id: 'l1XDsQhmN6-UBD4XAFp0',
+  msg: '棒棒糖',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.gif' }
+[2021-05-23 14:56:34.595] [INFO] - msg { role: 0,
+  username: '善良夫人wl',
+  _id: 'l1XDsQhmN6-UBD4XAFp0',
+  msg: '简单易学！尝试一下很有用的！' }
+[2021-05-23 14:56:39.004] [INFO] - gift { role: 0,
+  _id: 'l1XDsQhmN6-UBD4XAFp0',
+  msg: '气球',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/气球.gif' }
+[2021-05-23 14:57:15.223] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO0tby' }
+[2021-05-23 14:57:15.223] [INFO] - [ '4QyHKu5mEGTCixG0AFp1', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:57:33.328] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO0xsk' }
+[2021-05-23 14:57:33.328] [INFO] - [ '2E9rkmQma5XhpuEnAFp2', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:58:14.980] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO16BW' }
+[2021-05-23 14:58:14.980] [INFO] - [ 'Jo-Lq27kBqTBmuKwAFp3', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:58:34.316] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '79f0c93037e84b8f866dd339ebbfdd5e',
+  username: '丹顶鹤（戴国文）',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO1Ar-' }
+[2021-05-23 14:58:34.317] [INFO] - [ 'Ax1u7jQ6T8_K8dZWAFp4', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:58:36.838] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO1BXD' }
+[2021-05-23 14:58:36.838] [INFO] - [ 'c8mBoRNsCHKm8tRuAFp5', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:58:45.493] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO1DVm' }
+[2021-05-23 14:58:45.493] [INFO] - [ 'kyD0OD-nBWZBig4gAFp6', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:58:48.325] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO1EKb' }
+[2021-05-23 14:58:48.325] [INFO] - [ 'WhXZ1LEsACUClnk2AFp7', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 14:59:35.870] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO1Po8' }
+[2021-05-23 14:59:35.871] [INFO] - [ 'r9F5kvqhSDywYNoQAFp8', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 14:59:56.832] [INFO] - msg { role: 0,
+  username: 'whyd5f334ee4b',
+  _id: 'Y7h3yXU52JBUpRt-AFpx',
+  msg: '专业江老师教学受益匪浅啦👍🏻 👍🏻 👍🏻 👍🏻 👍🏻 ' }
+[2021-05-23 15:00:11.856] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO1Ynw' }
+[2021-05-23 15:00:11.857] [INFO] - [ '0XvVkmAOJcBwTAqXAFp9', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:00:43.483] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO1gKq' }
+[2021-05-23 15:00:43.483] [INFO] - [ 'U5UBRe_e0cyGNAhNAFp-', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:01:15.423] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO1oJz' }
+[2021-05-23 15:01:15.423] [INFO] - [ 'Dy56vhJ340JPHKupAFp_', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:01:50.584] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO1wk7' }
+[2021-05-23 15:01:50.585] [INFO] - [ 'pMvGglDLZvY8S_rzAFqA', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:02:17.665] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO21HZ' }
+[2021-05-23 15:02:17.665] [INFO] - [ 'c5fEjv063kGfjICSAFqB', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:02:22.434] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO22Yi' }
+[2021-05-23 15:02:22.434] [INFO] - [ '2jAT-6aFISOtZrNqAFqC', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:02:54.486] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO2AN0' }
+[2021-05-23 15:02:54.486] [INFO] - [ '5DUlBsnIa-iqoGjtAFqD', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:03:24.666] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO2HeN' }
+[2021-05-23 15:03:24.666] [INFO] - [ 'T6Mbi-0MiakpBOaoAFqE', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:03:47.405] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO2NEM' }
+[2021-05-23 15:03:47.405] [INFO] - [ 'LQsjShf7K0-w3RN2AFqF', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:03:56.437] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO2POb' }
+[2021-05-23 15:03:56.438] [INFO] - [ 'eFgEjbjAdWNX2EbXAFqG', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:04:28.185] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '085bd1d3ea05434a94eb431fb0194588',
+  username: '四叶草青',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO2qyX' }
+[2021-05-23 15:04:28.185] [INFO] - [ 'EQRqUT6ZEaQ18sx9AFqH', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:04:37.498] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO2ZZy' }
+[2021-05-23 15:04:37.498] [INFO] - [ 'M-AjxTMgZnNbbOfpAFqI', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:04:44.680] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO2bKh' }
+[2021-05-23 15:04:44.680] [INFO] - [ 'b-dsGMXvX_0FIA7kAFqJ', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:04:45.764] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'cb776d36179f49f2830dc665341ca625',
+  username: '火夫',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO2bB1' }
+[2021-05-23 15:04:45.765] [INFO] - [ 'zqn-VWtFLCDXq-vKAFqK', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:05:00.109] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO2f64' }
+[2021-05-23 15:05:00.109] [INFO] - [ '5EMBDRvFIOePZ2FCAFqL', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:05:11.107] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO2hdV' }
+[2021-05-23 15:05:11.107] [INFO] - [ 'YucP7o5HtaCKMyhVAFqM', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:05:22.391] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '439f579c47224a189708e2cd8746db79',
+  username: '霜沐',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO2jyp' }
+[2021-05-23 15:05:22.391] [INFO] - [ 'GwwA0Iq8ARDLRwvQAFqN', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:05:56.905] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO2szi' }
+[2021-05-23 15:05:56.905] [INFO] - [ 'QNjvoadpNM29WwUnAFqO', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:06:21.978] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO2ywt' }
+[2021-05-23 15:06:21.978] [INFO] - [ 'HOeqDaw6dH4J6xToAFqP', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:06:44.548] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO32Us' }
+[2021-05-23 15:06:44.548] [INFO] - [ 'tQ3ZUOe6Y0uOLs_vAFqQ', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:07:22.727] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO3BzJ' }
+[2021-05-23 15:07:22.728] [INFO] - [ '58hFifFcrVLaAlOvAFqR', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:07:27.468] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO3Cvj' }
+[2021-05-23 15:07:27.468] [INFO] - [ 'LAKIgTVVw_pBW8tkAFqS', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:07:54.717] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO3Jj8' }
+[2021-05-23 15:07:54.717] [INFO] - [ 'aE2jGen2Kpg2_iJhAFqT', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:08:27.340] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'c02238742a48480c8dd7e8a6e1deb6b6',
+  username: '善良夫人wl',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO3Rg-' }
+[2021-05-23 15:08:27.340] [INFO] - [ 'zCDvgrOCaudaGZynAFqU', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:08:49.815] [INFO] - gift { role: 0,
+  _id: 'zCDvgrOCaudaGZynAFqU',
+  msg: '气球',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/气球.gif' }
+[2021-05-23 15:09:03.854] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO3aSH' }
+[2021-05-23 15:09:03.854] [INFO] - [ 'fC0QwEScmwV9F5jfAFqV', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:09:25.370] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO3fsW' }
+[2021-05-23 15:09:25.370] [INFO] - [ '33wGSTDlGOCmt3hjAFqW', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:09:29.554] [INFO] - gift { role: 0,
+  _id: 'zCDvgrOCaudaGZynAFqU',
+  msg: '棒棒糖',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.gif' }
+[2021-05-23 15:09:35.994] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO3iI8' }
+[2021-05-23 15:09:35.994] [INFO] - [ 'zwzb5SqoI_RU0v4qAFqX', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:09:41.862] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO3juC' }
+[2021-05-23 15:09:41.862] [INFO] - [ 'W-N1jAOsDN7n5lBGAFqY', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:09:47.033] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO3l93' }
+[2021-05-23 15:09:47.034] [INFO] - [ '0P0qkCWipYL_oyZ3AFqZ', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:09:50.346] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO3lyr' }
+[2021-05-23 15:09:50.346] [INFO] - [ 'jyaJ2ayML7kK0CAQAFqa', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:09:54.200] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO3mv7' }
+[2021-05-23 15:09:54.201] [INFO] - [ 'ZOkC4NWKdL7fm2EWAFqb', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:10:04.902] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '439f579c47224a189708e2cd8746db79',
+  username: '霜沐',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO3owt' }
+[2021-05-23 15:10:04.902] [INFO] - [ 'cVpcQxpbQolkvly9AFqc', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:10:57.680] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO40Eo' }
+[2021-05-23 15:10:57.681] [INFO] - [ 'JiKx0aDOnbcHgwnQAFqd', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:11:26.235] [INFO] - gift { role: 0,
+  _id: 'zqn-VWtFLCDXq-vKAFqK',
+  msg: '666',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/666.gif' }
+[2021-05-23 15:11:54.740] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO4E9x' }
+[2021-05-23 15:11:54.741] [INFO] - [ 'cxDhQbrfjQxbqXXoAFqe', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:13:32.697] [INFO] - msg { role: 0,
+  username: '火夫',
+  _id: 'zqn-VWtFLCDXq-vKAFqK',
+  msg: '这种讲座形式真新颖，令人耳目一新！' }
+[2021-05-23 15:14:20.204] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '439f579c47224a189708e2cd8746db79',
+  username: '霜沐',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO4nG9' }
+[2021-05-23 15:14:20.205] [INFO] - [ 'Yc3s85_625sg5GFxAFqf', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:14:28.702] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO4plt' }
+[2021-05-23 15:14:28.703] [INFO] - [ 'Q6H5itj4BD6SNHtLAFqg', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:15:34.556] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO53qf' }
+[2021-05-23 15:15:34.556] [INFO] - [ '4jnDvUdE0Rp90-0bAFqh', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:16:45.274] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO5L5x' }
+[2021-05-23 15:16:45.275] [INFO] - [ '13HSHtkeTwn59hs7AFqi', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:18:50.890] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '0eb533ccb41f464bb99f3dd908bf8eac',
+  username: '张京玲',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO5qEC' }
+[2021-05-23 15:18:50.890] [INFO] - [ 'BPw1GM3qzvK7mWADAFqj', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:19:54.687] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO63LI' }
+[2021-05-23 15:19:54.687] [INFO] - [ 'wqtf2zlDVpe0xsc4AFqk', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:20:56.879] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO6Imx' }
+[2021-05-23 15:20:56.880] [INFO] - [ 'LNB-q6tZICfSVVCJAFql', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:21:04.975] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO6KVd' }
+[2021-05-23 15:21:04.976] [INFO] - [ 'eXuOOOAj9BNFEj6vAFqm', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:21:09.633] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO6Lt-' }
+[2021-05-23 15:21:09.634] [INFO] - [ 'xcdf7xu5XttnjiDoAFqn', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:21:31.082] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '0eb533ccb41f464bb99f3dd908bf8eac',
+  username: '张京玲',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO6RLm' }
+[2021-05-23 15:21:31.082] [INFO] - [ '11T23s-mzE03RMk4AFqo', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:21:53.124] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO6WVh' }
+[2021-05-23 15:21:53.124] [INFO] - [ '4eJpX2Re22kd_qEfAFqp', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:22:15.645] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO6bls' }
+[2021-05-23 15:22:15.645] [INFO] - [ '2wDbAtCK6dtyHu30AFqq', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:23:20.462] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO6riv' }
+[2021-05-23 15:23:20.463] [INFO] - [ '-xD1ZKuKgxbYviLoAFqr', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:23:21.076] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '0eb533ccb41f464bb99f3dd908bf8eac',
+  username: '张京玲',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO6sCa' }
+[2021-05-23 15:23:21.077] [INFO] - [ 'yTZBltRHdWiMmOmiAFqs', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:23:27.197] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO6tDs' }
+[2021-05-23 15:23:27.197] [INFO] - [ '4YWP9PCPUDblZw0YAFqt', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:24:10.108] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO71iR' }
+[2021-05-23 15:24:10.108] [INFO] - [ 'BmaJOkFPpGj8WynKAFqu', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:24:58.350] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '439f579c47224a189708e2cd8746db79',
+  username: '霜沐',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO7D33' }
+[2021-05-23 15:24:58.351] [INFO] - [ 'NMaa8EoUwwx8OriSAFqv', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:25:24.910] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'cb776d36179f49f2830dc665341ca625',
+  username: '火夫',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO7Jfj' }
+[2021-05-23 15:25:24.911] [INFO] - [ 'ArWZUgkygYtCR2wWAFqw', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:26:11.754] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'd19ca51eae084969af8eb01ae9cab062',
+  username: '苏平芳',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO7VRZ' }
+[2021-05-23 15:26:11.754] [INFO] - [ 'Ls-ApaUBanf_-g8VAFqx', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:26:23.856] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'cb776d36179f49f2830dc665341ca625',
+  username: '火夫',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO7Y9O' }
+[2021-05-23 15:26:23.856] [INFO] - [ 'CrWJyNFN_lJUhA_2AFqy', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:27:20.975] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO7mX5' }
+[2021-05-23 15:27:20.976] [INFO] - [ 'XcR1UqqrJv7ymeiVAFqz', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:27:46.113] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'cb776d36179f49f2830dc665341ca625',
+  username: '火夫',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO7s7I' }
+[2021-05-23 15:27:46.114] [INFO] - [ 'pv9VwN6PuVyrUT_pAFq0', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:27:53.502] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO7uLp' }
+[2021-05-23 15:27:53.503] [INFO] - [ '4ptfKNP2vV-OPwLfAFq1', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:28:14.825] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO7zZ4' }
+[2021-05-23 15:28:14.826] [INFO] - [ 'FKD7hw-U_p0PPy39AFq2', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:28:31.789] [INFO] - [101.132.134.40] GET http://47.100.89.2:8250/ 200 0ms
+[2021-05-23 15:28:34.410] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'cb776d36179f49f2830dc665341ca625',
+  username: '火夫',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO8259' }
+[2021-05-23 15:28:34.410] [INFO] - [ '9h6HAqUvzXQzbwBJAFq3', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:29:02.446] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO89B8' }
+[2021-05-23 15:29:02.446] [INFO] - [ '7WkIsnUYCQI2AreqAFq4', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:29:36.680] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO8HR2' }
+[2021-05-23 15:29:36.680] [INFO] - [ 'uBI3uOQAH-1t0pAeAFq5', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:30:47.328] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO8Ygv' }
+[2021-05-23 15:30:47.328] [INFO] - [ 'EKoMauPWZ4xLH5XNAFq6', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:33:45.274] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO9E77' }
+[2021-05-23 15:33:45.274] [INFO] - [ 'bnXrZf3Q3VCRwRIFAFq7', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:34:52.464] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO9UXC' }
+[2021-05-23 15:34:52.464] [INFO] - [ 'TEjfO0rYqr5JLopxAFq8', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:36:50.247] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcO9xHT' }
+[2021-05-23 15:36:50.247] [INFO] - [ 'ypeubgSCPXjwqd56AFq9', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:38:28.343] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOAJWd' }
+[2021-05-23 15:38:28.343] [INFO] - [ 'XCV2rAb9NGJo6Mp8AFq-', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:39:24.954] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '2f80e237b9dc41429c40aa7241fecc63',
+  username: '梁燕',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOAXMB' }
+[2021-05-23 15:39:24.954] [INFO] - [ 'phkJRUwRFqu4uUaCAFq_', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:40:14.659] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '7a3e002e19d94a2eb7caaa451d73a673',
+  username: '沈财岗',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOAjA3' }
+[2021-05-23 15:40:14.659] [INFO] - [ 'O4Ag1SgbQ3Nwma0FAFrA', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:40:52.279] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '7a3e002e19d94a2eb7caaa451d73a673',
+  username: '沈财岗',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOAsLN' }
+[2021-05-23 15:40:52.279] [INFO] - [ 'TJ3c9jxRXFvo-L2QAFrB', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:40:56.332] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '7a3e002e19d94a2eb7caaa451d73a673',
+  username: '沈财岗',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOAtLY' }
+[2021-05-23 15:40:56.333] [INFO] - [ 'hDUaL5-u9_3rv6UaAFrC', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:41:09.582] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '7a3e002e19d94a2eb7caaa451d73a673',
+  username: '沈财岗',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOAwaD' }
+[2021-05-23 15:41:09.582] [INFO] - [ 'aSN4yyR-hcbGaCpSAFrD', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:41:16.955] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '7a3e002e19d94a2eb7caaa451d73a673',
+  username: '沈财岗',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOAyNN' }
+[2021-05-23 15:41:16.955] [INFO] - [ 'KNTIL6-OBBnquEVGAFrE', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:41:25.656] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '7a3e002e19d94a2eb7caaa451d73a673',
+  username: '沈财岗',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOA-VV' }
+[2021-05-23 15:41:25.656] [INFO] - [ 'nK74zB2J3S0ULBXSAFrF', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:41:37.499] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'f4cf5d38f6f64a19941d56b902927f1b',
+  username: '张眼瞎看',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOB1cY' }
+[2021-05-23 15:41:37.499] [INFO] - [ 'CC3loFLYrU8kgamzAFrG', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:41:54.082] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '6349ea35101e453a842832b84cd86c1a',
+  username: '钱立 古凡交响乐团|音乐共和',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOB5lu' }
+[2021-05-23 15:41:54.082] [INFO] - [ 'Z517f0Iu1-TflX_9AFrH', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:42:18.953] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOBBXS' }
+[2021-05-23 15:42:18.954] [INFO] - [ 'pXS9NJvC7E4X1iuSAFrI', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:42:50.523] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOBJEY' }
+[2021-05-23 15:42:50.524] [INFO] - [ 'C5rNWcDX2dd8UW4MAFrJ', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:43:16.109] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 15:44:53.178] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-23 15:46:14.673] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOC54W' }
+[2021-05-23 15:46:14.674] [INFO] - [ 'ohVMJzylK19CXamcAFrK', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:47:20.645] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOCLBR' }
+[2021-05-23 15:47:20.645] [INFO] - [ 'moxaUzgvM46vnKkqAFrL', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:48:49.725] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'a4b8d9e58d09438aa0fbc080d67b5a83',
+  username: '蓝天',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOCh7p' }
+[2021-05-23 15:48:49.726] [INFO] - [ 'fTy_M5Z7qdNs4qQdAFrM', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:49:36.667] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOCsOm' }
+[2021-05-23 15:49:36.668] [INFO] - [ 'bx0f2Cr5sT-S0fOGAFrN', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:50:33.743] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOD4Kl' }
+[2021-05-23 15:50:33.743] [INFO] - [ 'vWdUtPCtm510aE5nAFrO', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:51:05.713] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcODC89' }
+[2021-05-23 15:51:05.714] [INFO] - [ 'HjGOR2Bl4a4MwyL9AFrP', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:51:37.040] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '9c3906acb89042a29b128c9b67e920db',
+  username: '火韦',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcODJq2' }
+[2021-05-23 15:51:37.041] [INFO] - [ 'Yo0_DkyT20zaxNO2AFrQ', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:52:19.617] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcODUAs' }
+[2021-05-23 15:52:19.617] [INFO] - [ 'V8KU3kFUvVNv6IGgAFrR', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:52:53.477] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcODcRn' }
+[2021-05-23 15:52:53.478] [INFO] - [ 'XJADKmHsp7oagF0JAFrS', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:54:16.403] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'ec1f0ee8782045bfb6402c68685fa6d5',
+  username: '小花',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcODwso' }
+[2021-05-23 15:54:16.403] [INFO] - [ 'q4RgqfvGwNzKqtseAFrT', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 15:55:23.085] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOEAyl' }
+[2021-05-23 15:55:23.085] [INFO] - [ 'N2xbeNVm7VGUPq0lAFrU', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:56:22.831] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOEPY_' }
+[2021-05-23 15:56:22.832] [INFO] - [ '_yU9otbCZHcDyJErAFrV', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 15:57:58.552] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOEmwr' }
+[2021-05-23 15:57:58.553] [INFO] - [ 'Qu7yX-3n3FieGV7AAFrW', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:00:02.689] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOFFDy' }
+[2021-05-23 16:00:02.689] [INFO] - [ 'Gb_b9K2yIbSsEghJAFrX', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:02:33.676] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOFq5F' }
+[2021-05-23 16:02:33.676] [INFO] - [ 'Cvgt-Z6ryK2eYR3lAFrY', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:03:44.680] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOG5Qu' }
+[2021-05-23 16:03:44.681] [INFO] - [ 'YDTI1ZVXw2zmzASLAFrZ', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:05:03.598] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOGOiG' }
+[2021-05-23 16:05:03.598] [INFO] - [ 'poa2MZj9axUaKUF5AFra', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:06:14.655] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOGg2M' }
+[2021-05-23 16:06:14.655] [INFO] - [ '6WLXI0VcWrM98Ae3AFrb', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:06:55.181] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 16:07:13.498] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOGuPn' }
+[2021-05-23 16:07:13.499] [INFO] - [ 'Rhd3m-7bEpDVCn85AFrc', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:08:33.650] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOHB-C' }
+[2021-05-23 16:08:33.650] [INFO] - [ 'OyJ8O52AYyYaceJPAFrd', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:10:09.398] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOHZMD' }
+[2021-05-23 16:10:09.399] [INFO] - [ '93lrj4HG1UZfjn_fAFre', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:12:14.764] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOI1zB' }
+[2021-05-23 16:12:14.764] [INFO] - [ 'LtJxQy7BU52bt7WyAFrf', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:13:10.442] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'ab0ca7b53ebc48fc85b652f27b033238',
+  username: '你把它萌死啊笨蛋',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOIFjj' }
+[2021-05-23 16:13:10.442] [INFO] - [ 'cEEWMRR-ocpEPw7kAFrg', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 16:13:39.457] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '2652c5d22ddc487fbba7f5e346bd93be',
+  username: '潘敏强.Sanfan',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOIMp2' }
+[2021-05-23 16:13:39.458] [INFO] - [ 'oyd9wEvCrtkrsiQRAFrh', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 16:13:43.276] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: 'ab0ca7b53ebc48fc85b652f27b033238',
+  username: '你把它萌死啊笨蛋',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOINkD' }
+[2021-05-23 16:13:43.277] [INFO] - [ '2QFoo1ni1D6_ml7rAFri', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 16:14:06.054] [INFO] - query { rid: 'e5ac2da150e147429044ddb4e145bf89',
+  uid: '2652c5d22ddc487fbba7f5e346bd93be',
+  username: '潘敏强.Sanfan',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOITIA' }
+[2021-05-23 16:14:06.054] [INFO] - [ 'sESfCBrHn19jWM0WAFrj', 'e5ac2da150e147429044ddb4e145bf89' ]
+[2021-05-23 16:22:59.697] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-23 16:24:53.997] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOKxJl' }
+[2021-05-23 16:24:53.997] [INFO] - [ 'bylsV2dmllwngJ18AFrk', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:26:16.076] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOLFMX' }
+[2021-05-23 16:26:16.076] [INFO] - [ 'GOAHRP2hcZCIUUgTAFrl', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:26:55.476] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOLO-8' }
+[2021-05-23 16:26:55.476] [INFO] - [ '0PiFuKx3TiO5754AAFrm', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:27:28.198] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOLWz2' }
+[2021-05-23 16:27:28.198] [INFO] - [ 'CBQmDCsEgAjkJnoAAFrn', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:27:59.967] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOLejW' }
+[2021-05-23 16:27:59.967] [INFO] - [ 'gazUdloYEQ3nsNywAFro', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:28:56.212] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOLsSO' }
+[2021-05-23 16:28:56.212] [INFO] - [ '7Bz7-9zar3iT6vFGAFrp', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:30:11.584] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOM8sQ' }
+[2021-05-23 16:30:11.585] [INFO] - [ 'tX1QlOqL-DC_pVDUAFrq', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 16:38:40.710] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 16:44:48.261] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 17:39:03.780] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-23 17:39:21.471] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/robots.txt 200 1ms
+[2021-05-23 17:39:22.963] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/sitemap.xml 200 0ms
+[2021-05-23 17:39:24.571] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/.well-known/security.txt 200 0ms
+[2021-05-23 17:39:26.016] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-05-23 17:39:32.794] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 17:59:36.129] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: 'd3895ef97d954417b5c32f00fe30a7f0',
+  username: '戚年凤',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcOgcZJ' }
+[2021-05-23 17:59:36.129] [INFO] - [ 'iJIUIB5sY_i-79eYAFrr', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 19:10:19.842] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 19:31:41.103] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/sounds/notification.wav 200 0ms
+[2021-05-23 20:25:26.910] [INFO] - query { EIO: '3', transport: 'websocket' }
+[2021-05-23 20:25:26.910] [INFO] - [ 'BJXlHRrStPFP09l7AFrs', 'undefined' ]
+[2021-05-23 20:37:13.076] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 21:06:51.618] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-23 21:47:10.819] [INFO] - query { rid: '30ea9fc4800a4ae3bedaf0ffe76a1679',
+  uid: '0eb533ccb41f464bb99f3dd908bf8eac',
+  username: '张京玲',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NcPUi8e' }
+[2021-05-23 21:47:10.819] [INFO] - [ '5-M3N68Mq3xTsJUZAFrt', '30ea9fc4800a4ae3bedaf0ffe76a1679' ]
+[2021-05-23 23:27:24.753] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 200 0ms

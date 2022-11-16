@@ -1,0 +1,3244 @@
+[2020-12-14 09:33:05.138] [INFO] - [47.101.32.174] GET http://47.100.89.2:8250/ 200 1ms
+[2020-12-14 09:50:27.984] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 09:50:27.984] [INFO] - [ 'tR9LbRaIqliQQ2baAAOR', 'room1' ]
+[2020-12-14 09:53:15.373] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 09:53:15.374] [INFO] - [ 'IOEFZbBouvlCiJ67AAOS', 'room1' ]
+[2020-12-14 09:53:48.764] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 09:53:48.764] [INFO] - [ 'vAv9pAPEM1NXZElzAAOT', 'room1' ]
+[2020-12-14 09:54:53.128] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 09:54:53.128] [INFO] - [ 'Vr09syG--k8_1MhWAAOU', 'room1' ]
+[2020-12-14 09:55:01.303] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 09:55:01.304] [INFO] - [ 'lGaLmBRYEQFbfbA0AAOV', 'room1' ]
+[2020-12-14 09:55:14.148] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 09:55:14.149] [INFO] - [ 'H4Ezlg4-JAdOBneLAAOW', 'room1' ]
+[2020-12-14 09:56:18.741] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 09:56:18.742] [INFO] - [ 'MZJ-vDj4JZAhqYPlAAOX', 'room1' ]
+[2020-12-14 09:56:27.335] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 09:56:27.335] [INFO] - [ '6aMUjZKHmLBHrN1NAAOY', 'room1' ]
+[2020-12-14 09:56:35.206] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 09:56:35.207] [INFO] - [ 'nIwbiZnGLDgkI24fAAOZ', 'room1' ]
+[2020-12-14 09:56:54.711] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 09:56:54.711] [INFO] - [ 'hBlWseDqacf4uuXFAAOa', 'room1' ]
+[2020-12-14 10:02:27.207] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 10:02:27.207] [INFO] - [ 'yiU3Vzh3yfR6qYGdAAOb', 'room1' ]
+[2020-12-14 10:03:36.574] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 10:03:36.574] [INFO] - [ '_LruhRnsL5DK7M9nAAOc', 'room1' ]
+[2020-12-14 10:03:39.999] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 10:03:39.999] [INFO] - [ '672fDWPNdo2sHjRTAAOd', 'room1' ]
+[2020-12-14 10:04:50.235] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 10:04:50.235] [INFO] - [ 'S-eZKiOS-6ao1OWVAAOe', 'room1' ]
+[2020-12-14 10:05:01.523] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 10:05:01.524] [INFO] - [ 'Fyy9L91Kl6g_KwCbAAOf', 'room1' ]
+[2020-12-14 10:05:06.989] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 10:05:06.989] [INFO] - [ '_1rS7bJr5wiix2gjAAOg', 'room1' ]
+[2020-12-14 10:05:10.456] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 10:05:10.456] [INFO] - [ 'Sh0pvPE-wUPVET_YAAOh', 'room1' ]
+[2020-12-14 10:05:44.632] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 10:05:44.633] [INFO] - [ 'AKaUysbgfGNKYW-lAAOi', 'room1' ]
+[2020-12-14 10:05:53.412] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 10:05:53.413] [INFO] - [ '4f_9OZ3XUV-K28zuAAOj', 'room1' ]
+[2020-12-14 10:06:11.102] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 10:06:11.102] [INFO] - [ '65qisXq3P32s1coVAAOk', 'room1' ]
+[2020-12-14 12:59:19.031] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 12:59:19.032] [INFO] - [ 'a65olPto9fwxjTnJAAOl', 'room1' ]
+[2020-12-14 13:19:16.918] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:19:16.918] [INFO] - [ 'oFQ2UQ2Jnzuv1ObCAAOm', 'room1' ]
+[2020-12-14 13:20:20.738] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:20:20.739] [INFO] - [ 'CR_Ny6Gh83_iTBUTAAOn', 'room1' ]
+[2020-12-14 13:20:25.371] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:20:25.372] [INFO] - [ 'mzWneFHhhtWNSlELAAOo', 'room1' ]
+[2020-12-14 13:24:28.831] [INFO] - query { rid: 'room1',
+  uid: 'c2c8ab5a244c4131b9b2d4063a47dfbc',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:24:28.831] [INFO] - [ 'g8o1c9ZD74OrFIXRAAOp', 'room1' ]
+[2020-12-14 13:26:01.990] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:26:01.990] [INFO] - [ '8NC_5h-yjLlDFVSzAAOq', 'room1' ]
+[2020-12-14 13:26:40.703] [INFO] - query { rid: 'room1',
+  uid: 'c2c8ab5a244c4131b9b2d4063a47dfbc',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:26:40.704] [INFO] - [ 'D8Z8CON1RfEshtjqAAOr', 'room1' ]
+[2020-12-14 13:27:05.349] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:27:05.349] [INFO] - [ 'ocFhEhJI_jTGamILAAOs', 'room1' ]
+[2020-12-14 13:27:11.054] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:27:11.055] [INFO] - [ '-uMK5F5uCQiBi-0HAAOt', 'room1' ]
+[2020-12-14 13:27:41.760] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:27:41.760] [INFO] - [ 'DJr-xCmFqNgwk2wGAAOu', 'room1' ]
+[2020-12-14 13:27:45.461] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:27:45.461] [INFO] - [ 'OGPLe3x6WRqJwxy4AAOv', 'room1' ]
+[2020-12-14 13:28:37.071] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:28:37.071] [INFO] - [ '643XjQ__F7sDDyVGAAOw', 'room1' ]
+[2020-12-14 13:28:47.719] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:28:47.719] [INFO] - [ 'CBAaLTPWp2M2s0YeAAOx', 'room1' ]
+[2020-12-14 13:29:03.259] [INFO] - query { rid: 'room1',
+  uid: 'c2c8ab5a244c4131b9b2d4063a47dfbc',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:29:03.259] [INFO] - [ 'vCqolX81EySf0CTpAAOy', 'room1' ]
+[2020-12-14 13:29:32.198] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:29:32.198] [INFO] - [ 'DDtJ9fNzBH7UGH0sAAOz', 'room1' ]
+[2020-12-14 13:29:44.744] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:29:44.745] [INFO] - [ 'UUeNVrNDccPGSIi0AAO0', 'room1' ]
+[2020-12-14 13:30:10.331] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:30:10.331] [INFO] - [ 'goeCkPNQ3bUrrv4EAAO1', 'room1' ]
+[2020-12-14 13:30:47.076] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:30:47.076] [INFO] - [ 'dlyF7SvklLsKHbg9AAO2', 'room1' ]
+[2020-12-14 13:31:15.522] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:31:15.523] [INFO] - [ 'hcRj0c0WU6DqZpCoAAO3', 'room1' ]
+[2020-12-14 13:31:27.451] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:31:27.451] [INFO] - [ '7_cafD90MnIXzYToAAO4', 'room1' ]
+[2020-12-14 13:31:36.385] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:31:36.386] [INFO] - [ 'v5o4dKoSbDONupoqAAO5', 'room1' ]
+[2020-12-14 13:32:01.860] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:32:01.860] [INFO] - [ 'vTjbcYRM8lOa0eyZAAO6', 'room1' ]
+[2020-12-14 13:32:57.403] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:32:57.403] [INFO] - [ '42BtiMhKRKeNojbwAAO7', 'room1' ]
+[2020-12-14 13:33:24.189] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:33:24.189] [INFO] - [ 'W61AGFiXkO2sH3JvAAO8', 'room1' ]
+[2020-12-14 13:33:43.060] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:33:43.060] [INFO] - [ 'wMF3VfRruRCDg66jAAO9', 'room1' ]
+[2020-12-14 13:33:53.460] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:33:53.461] [INFO] - [ 'sG1xdHdGUAjTw6ysAAO-', 'room1' ]
+[2020-12-14 13:34:01.743] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:34:01.744] [INFO] - [ '0jGvTVfuQRDqg2dnAAO_', 'room1' ]
+[2020-12-14 13:34:39.367] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:34:39.368] [INFO] - [ '9Z5u_yhw-OpSIrWMAAPA', 'room1' ]
+[2020-12-14 13:35:14.411] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:35:14.411] [INFO] - [ 'nH0KQiA1w8w13YSXAAPB', 'room1' ]
+[2020-12-14 13:35:23.722] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:35:23.723] [INFO] - [ '8zsnbcraVB9N0O7KAAPC', 'room1' ]
+[2020-12-14 13:36:04.719] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:36:04.719] [INFO] - [ 'deSygOU-NuJqJ_9vAAPD', 'room1' ]
+[2020-12-14 13:36:21.464] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:36:21.464] [INFO] - [ '0Q7t2jmaysMmBd6fAAPE', 'room1' ]
+[2020-12-14 13:36:45.952] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:36:45.952] [INFO] - [ 'VKaqYGuu2ZkNpCcQAAPF', 'room1' ]
+[2020-12-14 13:36:47.100] [INFO] - query { rid: 'room1',
+  uid: 'c2c8ab5a244c4131b9b2d4063a47dfbc',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:36:47.100] [INFO] - [ 'qvKpb4hyP1r5XYI5AAPG', 'room1' ]
+[2020-12-14 13:37:09.504] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:37:09.504] [INFO] - [ 'AUiRk_yNq1YsjMapAAPH', 'room1' ]
+[2020-12-14 13:37:23.631] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:37:23.631] [INFO] - [ 'Vpf8KhEs1KasikQVAAPI', 'room1' ]
+[2020-12-14 13:37:32.332] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:37:32.333] [INFO] - [ '_izUSVSeouqiL9H0AAPJ', 'room1' ]
+[2020-12-14 13:37:53.953] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:37:53.953] [INFO] - [ 'Z5j1YP1-gxN0sUfNAAPK', 'room1' ]
+[2020-12-14 13:38:06.072] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:38:06.072] [INFO] - [ '-rLaLQ6dZDPutU-QAAPL', 'room1' ]
+[2020-12-14 13:38:22.968] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:38:22.969] [INFO] - [ '-RSWY6IvJGiFf6sQAAPM', 'room1' ]
+[2020-12-14 13:38:32.388] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:38:32.388] [INFO] - [ 'V4HFMfJr35r02sGRAAPN', 'room1' ]
+[2020-12-14 13:39:22.851] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:39:22.851] [INFO] - [ 'FTs82s2B6KHLb5RQAAPO', 'room1' ]
+[2020-12-14 13:39:34.226] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:39:34.227] [INFO] - [ 'l_X3XPgOwcJXBDrFAAPP', 'room1' ]
+[2020-12-14 13:39:50.051] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:39:50.051] [INFO] - [ 'C210anqT9TUpsTshAAPQ', 'room1' ]
+[2020-12-14 13:40:01.987] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:40:01.987] [INFO] - [ '3XcdYC1aeklV_6UYAAPR', 'room1' ]
+[2020-12-14 13:40:10.812] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:40:10.812] [INFO] - [ 'qjyaFCvT7MIoT03gAAPS', 'room1' ]
+[2020-12-14 13:40:23.101] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:40:23.101] [INFO] - [ 'AiPGuXkNubC7V0XkAAPT', 'room1' ]
+[2020-12-14 13:40:41.423] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:40:41.423] [INFO] - [ 'huKUdXamSdC8jSJIAAPU', 'room1' ]
+[2020-12-14 13:40:47.589] [INFO] - query { rid: 'room1',
+  uid: 'c2c8ab5a244c4131b9b2d4063a47dfbc',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:40:47.590] [INFO] - [ '0Ny-Hf_GQrpcMLdpAAPV', 'room1' ]
+[2020-12-14 13:41:15.560] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:41:15.560] [INFO] - [ 'VEcUtj-Wuu63OCfLAAPW', 'room1' ]
+[2020-12-14 13:46:26.890] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:46:26.891] [INFO] - [ 'gnTaSpfAA9r0pN5NAAPX', 'room1' ]
+[2020-12-14 13:46:40.628] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:46:40.629] [INFO] - [ 'jYQhV_jMExMvNlEiAAPY', 'room1' ]
+[2020-12-14 13:49:09.109] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:49:09.110] [INFO] - [ '0ylm2Ee6xyvI4XKTAAPZ', 'room1' ]
+[2020-12-14 13:50:02.941] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:50:02.941] [INFO] - [ 'KhcmmCLTPv5NXF0BAAPa', 'room1' ]
+[2020-12-14 13:50:12.538] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:50:12.539] [INFO] - [ 'yjFKDGQCo0iQPbcFAAPb', 'room1' ]
+[2020-12-14 13:50:38.123] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:50:38.124] [INFO] - [ 'kWgkMecIzw-5tbYYAAPc', 'room1' ]
+[2020-12-14 13:50:57.889] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:50:57.889] [INFO] - [ 'vX6iWzi8ykpzol-dAAPd', 'room1' ]
+[2020-12-14 13:51:40.604] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:51:40.604] [INFO] - [ 'LVX01XRon0dMCx6LAAPe', 'room1' ]
+[2020-12-14 13:51:46.591] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:51:46.591] [INFO] - [ '90fUZ4yQH5ue2t4jAAPf', 'room1' ]
+[2020-12-14 13:51:58.478] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:51:58.478] [INFO] - [ 'v1a4R_4J6ACgaI_5AAPg', 'room1' ]
+[2020-12-14 13:52:06.455] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:52:06.455] [INFO] - [ '4GBVRYhjYrNdzwUWAAPh', 'room1' ]
+[2020-12-14 13:52:17.377] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:52:17.378] [INFO] - [ 'YyRwtYJM9iHn_F8GAAPi', 'room1' ]
+[2020-12-14 13:52:53.169] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:52:53.170] [INFO] - [ '1R_5cCco5KXLZ4v_AAPj', 'room1' ]
+[2020-12-14 13:53:13.339] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:53:13.339] [INFO] - [ 'UDUi7CIogGym8FW6AAPk', 'room1' ]
+[2020-12-14 13:53:33.848] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:53:33.848] [INFO] - [ '-BTdonnH40EilspdAAPl', 'room1' ]
+[2020-12-14 13:53:55.181] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:53:55.181] [INFO] - [ 'c4ZaooKF03nRNec0AAPm', 'room1' ]
+[2020-12-14 13:54:14.928] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:54:14.928] [INFO] - [ 'eo00bNrlh_ModDpYAAPn', 'room1' ]
+[2020-12-14 13:54:39.189] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:54:39.189] [INFO] - [ 'hMjQZlh0SVY--mEUAAPo', 'room1' ]
+[2020-12-14 13:54:59.737] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:54:59.737] [INFO] - [ 'fV3KgVGFRLqQydnQAAPp', 'room1' ]
+[2020-12-14 13:55:38.038] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:55:38.038] [INFO] - [ '8Lm61DG6rg9cHeT3AAPq', 'room1' ]
+[2020-12-14 13:55:44.555] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:55:44.555] [INFO] - [ 'THnOzyWmGZFCS3ntAAPr', 'room1' ]
+[2020-12-14 13:56:33.102] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:56:33.103] [INFO] - [ 'euBt3My4I_WB7DfIAAPs', 'room1' ]
+[2020-12-14 13:57:01.353] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:57:01.353] [INFO] - [ 'yF36XT3N9m9i1HfVAAPt', 'room1' ]
+[2020-12-14 13:58:03.337] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:58:03.338] [INFO] - [ 'nXJBcFxawP5GfrfHAAPu', 'room1' ]
+[2020-12-14 13:58:37.058] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:58:37.059] [INFO] - [ 'ztS_qYLsJgcKsv_DAAPv', 'room1' ]
+[2020-12-14 13:58:50.763] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:58:50.764] [INFO] - [ '9HrwoNqZkOeFwBd1AAPw', 'room1' ]
+[2020-12-14 13:59:10.962] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 13:59:10.962] [INFO] - [ 'dQt_hEWWf5SnoJEIAAPx', 'room1' ]
+[2020-12-14 14:01:15.553] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:01:15.553] [INFO] - [ 'JdlIhrMXEJimXJyVAAPy', 'room1' ]
+[2020-12-14 14:01:45.674] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:01:45.675] [INFO] - [ 'pKMGLx2qMxoDHcb9AAPz', 'room1' ]
+[2020-12-14 14:01:58.322] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:01:58.322] [INFO] - [ 'V8nsU2lHsBRjiNM-AAP0', 'room1' ]
+[2020-12-14 14:02:10.489] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:02:10.490] [INFO] - [ 'SHZeU01O_-BEvyNDAAP1', 'room1' ]
+[2020-12-14 14:02:29.958] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:02:29.959] [INFO] - [ 'Z805qYVH80GJRRkyAAP2', 'room1' ]
+[2020-12-14 14:02:42.468] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:02:42.469] [INFO] - [ 'VsBWRuJYyV9w-0IHAAP3', 'room1' ]
+[2020-12-14 14:02:57.909] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:02:57.909] [INFO] - [ 'mZIB3KA6dMoi6nzoAAP4', 'room1' ]
+[2020-12-14 14:03:34.183] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:03:34.184] [INFO] - [ 'JZ3oqKu_GOEn2n3UAAP5', 'room1' ]
+[2020-12-14 14:05:12.571] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:05:12.571] [INFO] - [ 'rJeRcvCQab8Z9BdcAAP6', 'room1' ]
+[2020-12-14 14:05:52.880] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:05:52.880] [INFO] - [ 'dfOS3hHNyws9HL0TAAP7', 'room1' ]
+[2020-12-14 14:06:33.332] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:06:33.333] [INFO] - [ 'XOPlmt2dsXkm0bOeAAP8', 'room1' ]
+[2020-12-14 14:08:47.542] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:08:47.542] [INFO] - [ '2Z_q6OTMsnYwvHWuAAP9', 'room1' ]
+[2020-12-14 14:09:04.680] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:09:04.680] [INFO] - [ 'Me03aurT6RXHupCiAAP-', 'room1' ]
+[2020-12-14 14:09:11.825] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:09:11.826] [INFO] - [ 'wnHa7VGrEQTHCBZjAAP_', 'room1' ]
+[2020-12-14 14:09:15.792] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:09:15.792] [INFO] - [ 'jQQ4bPs7-tJ-dJ6lAAQA', 'room1' ]
+[2020-12-14 14:09:32.829] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:09:32.829] [INFO] - [ 'W29JwfsMnvw5tNEjAAQB', 'room1' ]
+[2020-12-14 14:09:47.905] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:09:47.906] [INFO] - [ 'TRxCBzc8jKsRZX_5AAQC', 'room1' ]
+[2020-12-14 14:09:58.787] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:09:58.787] [INFO] - [ 'iMHGSdU0UL2Gsv26AAQD', 'room1' ]
+[2020-12-14 14:10:25.473] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:10:25.473] [INFO] - [ 'O_LkoDQxC66eN9kaAAQE', 'room1' ]
+[2020-12-14 14:11:01.998] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:11:01.998] [INFO] - [ '8dWgQfmh-wPlS9W9AAQF', 'room1' ]
+[2020-12-14 14:11:18.480] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:11:18.480] [INFO] - [ 'L9hQU1Lhk_aeY2fjAAQG', 'room1' ]
+[2020-12-14 14:12:04.895] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:12:04.895] [INFO] - [ 'tHFBeVL8brcYBLNvAAQH', 'room1' ]
+[2020-12-14 14:12:37.339] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:12:37.340] [INFO] - [ '9PhBn5UY9HXk61BGAAQI', 'room1' ]
+[2020-12-14 14:12:54.074] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:12:54.074] [INFO] - [ '11OtBzFsblKLpIeBAAQJ', 'room1' ]
+[2020-12-14 14:13:09.370] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:13:09.370] [INFO] - [ '4YA37WBhupZtoQloAAQK', 'room1' ]
+[2020-12-14 14:13:32.146] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:13:32.146] [INFO] - [ 'IBzNj0qi-QUsSDmrAAQL', 'room1' ]
+[2020-12-14 14:14:15.124] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:14:15.124] [INFO] - [ '0jSeQjRnD_ttnhMcAAQM', 'room1' ]
+[2020-12-14 14:14:36.331] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:14:36.331] [INFO] - [ 'FTe0xz6WUEBpLF4hAAQN', 'room1' ]
+[2020-12-14 14:14:57.543] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:14:57.544] [INFO] - [ '1iSOFnsGDkvUlJR3AAQO', 'room1' ]
+[2020-12-14 14:18:08.809] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:18:08.809] [INFO] - [ 'SMHtiXrNZ8DvwnN0AAQP', 'room1' ]
+[2020-12-14 14:18:18.459] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:18:18.459] [INFO] - [ 'nCSSPkEdf6rJMTplAAQQ', 'room1' ]
+[2020-12-14 14:18:37.312] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:18:37.313] [INFO] - [ 'SxFQbsdS0hcNKob1AAQR', 'room1' ]
+[2020-12-14 14:18:56.537] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:18:56.538] [INFO] - [ 'I14dk4fMC4StoFxUAAQS', 'room1' ]
+[2020-12-14 14:19:32.734] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:19:32.734] [INFO] - [ 'E_34_1oKNELZYOwXAAQT', 'room1' ]
+[2020-12-14 14:20:58.365] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:20:58.366] [INFO] - [ '5idvtYmZ00hoIsd7AAQU', 'room1' ]
+[2020-12-14 14:22:11.058] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:22:11.058] [INFO] - [ 'Eni7h6_kNIVJA878AAQV', 'room1' ]
+[2020-12-14 14:24:07.516] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:24:07.517] [INFO] - [ 'rHVMjakqFDUOq1_7AAQW', 'room1' ]
+[2020-12-14 14:27:57.539] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:27:57.539] [INFO] - [ 'WsQypsJVFhEaNRjyAAQX', 'room1' ]
+[2020-12-14 14:30:33.394] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:30:33.394] [INFO] - [ '7-YFJaio4kt0RCYtAAQY', 'room1' ]
+[2020-12-14 14:33:19.644] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:33:19.644] [INFO] - [ 'hCx3PAlU30JLL3jQAAQZ', 'room1' ]
+[2020-12-14 14:33:29.575] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:33:29.576] [INFO] - [ 'Nve0_i6bV6jyf75OAAQa', 'room1' ]
+[2020-12-14 14:38:12.909] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:38:12.910] [INFO] - [ 'R70WCCbbUeh_jCGhAAQb', 'room1' ]
+[2020-12-14 14:41:15.933] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:41:15.934] [INFO] - [ 'XNN98c4N44M8Y8s_AAQc', 'room1' ]
+[2020-12-14 14:44:59.126] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:44:59.126] [INFO] - [ '9BjP4e6Xa3xtBfSjAAQd', 'room1' ]
+[2020-12-14 14:45:04.453] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:45:04.453] [INFO] - [ '3Fap4KEeQsRUy5VuAAQe', 'room1' ]
+[2020-12-14 14:45:21.054] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:45:21.055] [INFO] - [ 'Q7UyIXIzlTEYVnMMAAQf', 'room1' ]
+[2020-12-14 14:45:50.378] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:45:50.378] [INFO] - [ 'CU7Jqu5wlSrzul-NAAQg', 'room1' ]
+[2020-12-14 14:46:38.253] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:46:38.254] [INFO] - [ '70oulLpSwIv5fAMyAAQh', 'room1' ]
+[2020-12-14 14:47:07.750] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:47:07.752] [INFO] - [ '_2-VOOOd1PGARVdLAAQi', 'room1' ]
+[2020-12-14 14:47:40.325] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:47:40.326] [INFO] - [ '9j8d2QnU71_1VFyVAAQj', 'room1' ]
+[2020-12-14 14:49:03.513] [INFO] - query { rid: 'room1',
+  uid: 'c2c8ab5a244c4131b9b2d4063a47dfbc',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:49:03.513] [INFO] - [ 'urpVlu4_GbxH4_bsAAQk', 'room1' ]
+[2020-12-14 14:54:31.400] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:54:31.401] [INFO] - [ 'PfQzs4gB4Urbq8o3AAQl', 'room1' ]
+[2020-12-14 14:54:37.646] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:54:37.646] [INFO] - [ '69hU2UcjHF6HkpUKAAQm', 'room1' ]
+[2020-12-14 14:54:50.985] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:54:50.986] [INFO] - [ 'gB0txCLuSe1bzNokAAQn', 'room1' ]
+[2020-12-14 14:54:57.668] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:54:57.669] [INFO] - [ '7qHERtO1M0s4b8zoAAQo', 'room1' ]
+[2020-12-14 14:55:14.240] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:55:14.240] [INFO] - [ '4HU_GxvnqZ7-6Ey6AAQp', 'room1' ]
+[2020-12-14 14:57:28.150] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:57:28.150] [INFO] - [ '3b1m8ezWZ_0TkHYNAAQq', 'room1' ]
+[2020-12-14 14:57:55.029] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:57:55.029] [INFO] - [ 'uMxnNnN5CR1y9CvfAAQr', 'room1' ]
+[2020-12-14 14:58:05.900] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:58:05.900] [INFO] - [ 'yLqFVYwoooad-hkcAAQs', 'room1' ]
+[2020-12-14 14:58:21.379] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:58:21.379] [INFO] - [ 'ydUFZAuAWzyFo1-8AAQt', 'room1' ]
+[2020-12-14 14:58:32.054] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:58:32.054] [INFO] - [ 'WM-AsaZwQnwDQK8SAAQu', 'room1' ]
+[2020-12-14 14:58:44.683] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:58:44.684] [INFO] - [ 'rBkLhL9sNavzMvaZAAQv', 'room1' ]
+[2020-12-14 14:59:10.352] [INFO] - query { rid: 'room1',
+  uid: 'c2c8ab5a244c4131b9b2d4063a47dfbc',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:59:10.353] [INFO] - [ 'Hf0Hpg6HUj-VHsmsAAQw', 'room1' ]
+[2020-12-14 14:59:15.565] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 14:59:15.566] [INFO] - [ '3w2PvwMmbwr9YUwNAAQx', 'room1' ]
+[2020-12-14 15:00:50.012] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:00:50.012] [INFO] - [ 'waaY-DMOdtan5Gv8AAQy', 'room1' ]
+[2020-12-14 15:01:06.604] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:01:06.604] [INFO] - [ 'eh-eSZ2fDshEOW19AAQz', 'room1' ]
+[2020-12-14 15:01:45.257] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:01:45.257] [INFO] - [ 'niy0MNlUpgf-XiuSAAQ0', 'room1' ]
+[2020-12-14 15:02:06.411] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:02:06.411] [INFO] - [ 'k4yqemXIrdniKeq3AAQ1', 'room1' ]
+[2020-12-14 15:02:18.419] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:02:18.420] [INFO] - [ 'um2RGSNhnWBrIHtfAAQ2', 'room1' ]
+[2020-12-14 15:02:39.905] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:02:39.906] [INFO] - [ '_RLwoZZcYRJfRabNAAQ3', 'room1' ]
+[2020-12-14 15:02:49.795] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:02:49.796] [INFO] - [ 'hBos1oW719wXVejYAAQ4', 'room1' ]
+[2020-12-14 15:03:08.461] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:03:08.461] [INFO] - [ 'Kso5BKRVpbqFjtb4AAQ5', 'room1' ]
+[2020-12-14 15:03:56.969] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:03:56.969] [INFO] - [ 'lj7MIAmmh6KmtJbZAAQ6', 'room1' ]
+[2020-12-14 15:04:16.877] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:04:16.878] [INFO] - [ 'KIB5iBw1fMcnYZhVAAQ7', 'room1' ]
+[2020-12-14 15:04:29.481] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:04:29.481] [INFO] - [ 'btpUh1MUlGI2YGV6AAQ8', 'room1' ]
+[2020-12-14 15:05:00.145] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:05:00.146] [INFO] - [ 'L4ayNGbqSQVMGw9cAAQ9', 'room1' ]
+[2020-12-14 15:05:12.017] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:05:12.018] [INFO] - [ '82Q-l8-xbP-ncI_sAAQ-', 'room1' ]
+[2020-12-14 15:06:03.708] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:06:03.709] [INFO] - [ '04S1YKKd_xFdvF45AAQ_', 'room1' ]
+[2020-12-14 15:08:05.466] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:08:05.466] [INFO] - [ '5F8ecLh28JfH_HrrAARA', 'room1' ]
+[2020-12-14 15:08:25.242] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:08:25.243] [INFO] - [ 'WeISvyNkNZ2E3iGcAARB', 'room1' ]
+[2020-12-14 15:08:42.419] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:08:42.419] [INFO] - [ 'bOiZALYjr2b2pYMRAARC', 'room1' ]
+[2020-12-14 15:09:28.732] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:09:28.732] [INFO] - [ 'Fs1JqnKgidJjfkxGAARD', 'room1' ]
+[2020-12-14 15:09:50.660] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:09:50.660] [INFO] - [ '0YCaukgawdQVeB9wAARE', 'room1' ]
+[2020-12-14 15:10:03.441] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:10:03.442] [INFO] - [ 'rGjmHlRZGlOdJtWLAARF', 'room1' ]
+[2020-12-14 15:10:21.771] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:10:21.772] [INFO] - [ 'WjKQ3N4Azs3KoJgNAARG', 'room1' ]
+[2020-12-14 15:11:18.447] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:11:18.447] [INFO] - [ 'JTmp-UdXOS67kEmKAARH', 'room1' ]
+[2020-12-14 15:12:16.955] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:12:16.955] [INFO] - [ 'PttD__eah70czgWCAARI', 'room1' ]
+[2020-12-14 15:13:40.099] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:13:40.099] [INFO] - [ 'l8LkkmJDYkp00VDIAARJ', 'room1' ]
+[2020-12-14 15:20:46.550] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:20:46.550] [INFO] - [ 'ZgtGGp-mIqkpNer-AARK', 'room1' ]
+[2020-12-14 15:21:32.616] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:21:32.617] [INFO] - [ 'mY9rttr1TGDDebs1AARL', 'room1' ]
+[2020-12-14 15:21:58.979] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:21:58.980] [INFO] - [ 'ak4fkff9KhlhmsfWAARM', 'room1' ]
+[2020-12-14 15:23:54.937] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:23:54.937] [INFO] - [ 'HmS5FDmH-m-X7T7dAARN', 'room1' ]
+[2020-12-14 15:24:20.972] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:24:20.972] [INFO] - [ 'Oz5YXa9PIXSk6ROUAARO', 'room1' ]
+[2020-12-14 15:24:39.533] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:24:39.533] [INFO] - [ 'PvCirtwkddk09MOJAARP', 'room1' ]
+[2020-12-14 15:25:16.279] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:25:16.279] [INFO] - [ 'Dvx-UC0IaZW_n2_hAARQ', 'room1' ]
+[2020-12-14 15:26:09.890] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:26:09.891] [INFO] - [ 'ucyLG4E0u23ebDDPAARR', 'room1' ]
+[2020-12-14 15:26:52.724] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:26:52.724] [INFO] - [ 'wc2DG1ZUAApZ9ta4AARS', 'room1' ]
+[2020-12-14 15:27:05.511] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:27:05.512] [INFO] - [ 'lYYtl_FocUzHW2dnAART', 'room1' ]
+[2020-12-14 15:27:20.018] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:27:20.018] [INFO] - [ 'u1ii4orn0wRT0wJbAARU', 'room1' ]
+[2020-12-14 15:27:41.398] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:27:41.398] [INFO] - [ 'z6hwoKlqCKDL6YuUAARV', 'room1' ]
+[2020-12-14 15:28:08.271] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:28:08.271] [INFO] - [ '8xwcnGpu8Tf6UeKPAARW', 'room1' ]
+[2020-12-14 15:28:20.555] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:28:20.555] [INFO] - [ '9z4l8qzvQ-f_WML4AARX', 'room1' ]
+[2020-12-14 15:28:28.864] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:28:28.865] [INFO] - [ '5NpwsOVY4sMCEvLoAARY', 'room1' ]
+[2020-12-14 15:29:13.098] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:29:13.098] [INFO] - [ 'dh85k5YK5Ngn-UHzAARZ', 'room1' ]
+[2020-12-14 15:29:52.264] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:29:52.265] [INFO] - [ 'A2zzrATSo0-a3OlnAARa', 'room1' ]
+[2020-12-14 15:30:32.376] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:30:32.376] [INFO] - [ 'n7It6FyqAM6j5kaqAARb', 'room1' ]
+[2020-12-14 15:31:07.800] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:31:07.800] [INFO] - [ 'Hit894NIoCfeBM3tAARc', 'room1' ]
+[2020-12-14 15:31:32.460] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:31:32.460] [INFO] - [ 'MPu8PARa1TUdnNquAARd', 'room1' ]
+[2020-12-14 15:31:45.924] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:31:45.924] [INFO] - [ 'vTLT7PD_iQCkGp9aAARe', 'room1' ]
+[2020-12-14 15:32:18.699] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:32:18.699] [INFO] - [ 'Uw0Trr79HA9aTJMyAARf', 'room1' ]
+[2020-12-14 15:32:37.355] [INFO] - query { rid: 'room1',
+  uid: 'c2c8ab5a244c4131b9b2d4063a47dfbc',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:32:37.355] [INFO] - [ 'P-J5P39_2ITSWujAAARg', 'room1' ]
+[2020-12-14 15:32:42.728] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:32:42.729] [INFO] - [ '4RXkPGics-QBSynmAARh', 'room1' ]
+[2020-12-14 15:33:25.376] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:33:25.376] [INFO] - [ 'XVbUR_kHnr1ucPqCAARi', 'room1' ]
+[2020-12-14 15:33:59.925] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:33:59.925] [INFO] - [ 'lSXtYN4HLH3K9LtqAARj', 'room1' ]
+[2020-12-14 15:34:10.320] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:34:10.320] [INFO] - [ '3MfpTWeZPLSndkrrAARk', 'room1' ]
+[2020-12-14 15:34:17.628] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:34:17.628] [INFO] - [ 'g6TZuy9Ieh9bf9c7AARl', 'room1' ]
+[2020-12-14 15:34:43.485] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:34:43.485] [INFO] - [ '_EH29zui9CVNJO2XAARm', 'room1' ]
+[2020-12-14 15:35:03.266] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:35:03.267] [INFO] - [ 'GqCOuWpew2-qlET0AARn', 'room1' ]
+[2020-12-14 15:35:24.772] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:35:24.772] [INFO] - [ 'Mk8B8VXrkl_YetVKAARo', 'room1' ]
+[2020-12-14 15:35:41.857] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:35:41.857] [INFO] - [ 'Nmq-Kg5ZONh0TlzsAARp', 'room1' ]
+[2020-12-14 15:36:06.950] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:36:06.950] [INFO] - [ 'R8FgJsS_fgxgXdw0AARq', 'room1' ]
+[2020-12-14 15:36:51.475] [INFO] - query { rid: 'room1',
+  uid: 'c2c8ab5a244c4131b9b2d4063a47dfbc',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:36:51.476] [INFO] - [ '42DmkVJQbSIj9JKXAARr', 'room1' ]
+[2020-12-14 15:36:56.574] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:36:56.574] [INFO] - [ 'egRMP6x5BgH0ojbdAARs', 'room1' ]
+[2020-12-14 15:37:46.108] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:37:46.109] [INFO] - [ 'kilPv6hitvfdcNCUAARt', 'room1' ]
+[2020-12-14 15:38:01.019] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:38:01.020] [INFO] - [ 'LwwaQlAMUSjUQ39TAARu', 'room1' ]
+[2020-12-14 15:38:43.732] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:38:43.732] [INFO] - [ 'nuN_VaTp8hbY93-hAARv', 'room1' ]
+[2020-12-14 15:55:39.621] [INFO] - query { rid: 'room1',
+  uid: 'c2c8ab5a244c4131b9b2d4063a47dfbc',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:55:39.621] [INFO] - [ 'I4Q7h_QhcFsNczfhAARw', 'room1' ]
+[2020-12-14 15:56:37.912] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:56:37.913] [INFO] - [ 'PGh7CoO5-iMRGHZ7AARx', 'room1' ]
+[2020-12-14 15:57:40.799] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:57:40.799] [INFO] - [ 'e_TlaqZj48rygpbMAARy', 'room1' ]
+[2020-12-14 15:58:20.306] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:58:20.307] [INFO] - [ 'c2cGpppxT6H6b3o_AARz', 'room1' ]
+[2020-12-14 15:59:42.431] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 15:59:42.432] [INFO] - [ '2YTGpcy4vl1nZbU8AAR0', 'room1' ]
+[2020-12-14 16:00:08.833] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:00:08.833] [INFO] - [ 'xZjh4Hr5g6Kr5dvwAAR1', 'room1' ]
+[2020-12-14 16:00:44.210] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:00:44.210] [INFO] - [ 'k_clHLUbkEa-RgaeAAR2', 'room1' ]
+[2020-12-14 16:01:20.406] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:01:20.406] [INFO] - [ 'v5qVe6cwLe9JNLc0AAR3', 'room1' ]
+[2020-12-14 16:01:54.184] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:01:54.185] [INFO] - [ 'nSaXm1l3aYAD8ndOAAR4', 'room1' ]
+[2020-12-14 16:02:25.819] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:02:25.819] [INFO] - [ 'Te_RN3RjyimmUqItAAR5', 'room1' ]
+[2020-12-14 16:03:25.120] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:03:25.120] [INFO] - [ 'vxH2bmtH1D9bjC9KAAR6', 'room1' ]
+[2020-12-14 16:03:46.880] [INFO] - query { rid: 'room1',
+  uid: 'c2c8ab5a244c4131b9b2d4063a47dfbc',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:03:46.881] [INFO] - [ 'VXCtNne1oUgz3DcIAAR7', 'room1' ]
+[2020-12-14 16:03:57.982] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:03:57.983] [INFO] - [ 'W7s86lautP8bLMGIAAR8', 'room1' ]
+[2020-12-14 16:05:31.298] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:05:31.298] [INFO] - [ 'eU0MOPUBqaxSivTbAAR9', 'room1' ]
+[2020-12-14 16:06:27.176] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:06:27.176] [INFO] - [ 'rpajKr8zndi9e_xPAAR-', 'room1' ]
+[2020-12-14 16:07:05.136] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:07:05.136] [INFO] - [ '8QNbWqigurblFcZJAAR_', 'room1' ]
+[2020-12-14 16:08:08.757] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:08:08.757] [INFO] - [ 'h-6i60pXsL64vGWPAASA', 'room1' ]
+[2020-12-14 16:08:44.612] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:08:44.612] [INFO] - [ 'WaBYNxKkbbRftUFYAASB', 'room1' ]
+[2020-12-14 16:09:30.977] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:09:30.977] [INFO] - [ 'MgzAFA136aCVg0vIAASC', 'room1' ]
+[2020-12-14 16:09:47.601] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:09:47.601] [INFO] - [ 'b1czztw38eXZ_oIFAASD', 'room1' ]
+[2020-12-14 16:15:04.421] [INFO] - query { rid: 'room1',
+  uid: 'c2c8ab5a244c4131b9b2d4063a47dfbc',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:15:04.422] [INFO] - [ 'AaaeXlFChb9D9ip3AASE', 'room1' ]
+[2020-12-14 16:15:50.208] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:15:50.209] [INFO] - [ 'ouXd_hUKqEkBGBpQAASF', 'room1' ]
+[2020-12-14 16:16:07.986] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:16:07.986] [INFO] - [ '-boRTzUW35-W4QTtAASG', 'room1' ]
+[2020-12-14 16:16:45.443] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:16:45.444] [INFO] - [ 'jSlUw3tF2774FUsSAASH', 'room1' ]
+[2020-12-14 16:17:55.224] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:17:55.225] [INFO] - [ 'MwteOjMm4P5xJzryAASI', 'room1' ]
+[2020-12-14 16:18:58.244] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:18:58.244] [INFO] - [ '8BmxhXtil8TThFsVAASJ', 'room1' ]
+[2020-12-14 16:19:27.477] [INFO] - query { rid: 'room1',
+  uid: 'c2c8ab5a244c4131b9b2d4063a47dfbc',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:19:27.478] [INFO] - [ 'uTQNCCjbBRGa3vp6AASK', 'room1' ]
+[2020-12-14 16:19:27.817] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:19:27.817] [INFO] - [ '68kdlbby6lutiC2wAASL', 'room1' ]
+[2020-12-14 16:23:46.242] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:23:46.242] [INFO] - [ 'or2UauhgB8Ai-_CtAASM', 'room1' ]
+[2020-12-14 16:24:41.560] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:24:41.561] [INFO] - [ 'Ip7GJLqiJGzgdmHYAASN', 'room1' ]
+[2020-12-14 16:26:48.611] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:26:48.612] [INFO] - [ 'BHZ4tg2g234Nxh6TAASO', 'room1' ]
+[2020-12-14 16:27:25.876] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:27:25.877] [INFO] - [ 'ESdPmegY7bSR2dtFAASP', 'room1' ]
+[2020-12-14 16:27:32.191] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:27:32.192] [INFO] - [ 'gd85PmcYWlU4n6-cAASQ', 'room1' ]
+[2020-12-14 16:32:46.960] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:32:46.961] [INFO] - [ 'lhZCwp2u4bS8BSLrAASR', 'room1' ]
+[2020-12-14 16:34:34.669] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:34:34.669] [INFO] - [ 'g6VN7yqAij_mSgJJAASS', 'room1' ]
+[2020-12-14 16:35:14.254] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:35:14.254] [INFO] - [ '0vGDPcbun4WNvi-LAAST', 'room1' ]
+[2020-12-14 16:35:23.723] [INFO] - query { rid: 'room1',
+  uid: '0164c08aa4684950bb3e42e84856026a',
+  username: 'Orange',
+  mobile: '',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJNwEel6tJOnl3DGBpRtNEBshq6n7ZA8WtjALFzSPoWCNEPO0FKj6wGt6yx0ID9yZmsD6zrVlaOFg/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:35:23.724] [INFO] - [ 'h2jYYHG9VZWqQBFiAASU', 'room1' ]
+[2020-12-14 16:36:10.763] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:36:10.763] [INFO] - [ 'wuNcxtXwZOwdTgMeAASV', 'room1' ]
+[2020-12-14 16:36:11.288] [INFO] - query { rid: 'room1',
+  uid: '0164c08aa4684950bb3e42e84856026a',
+  username: 'Orange',
+  mobile: '',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJNwEel6tJOnl3DGBpRtNEBshq6n7ZA8WtjALFzSPoWCNEPO0FKj6wGt6yx0ID9yZmsD6zrVlaOFg/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:36:11.288] [INFO] - [ 'N5JFnxKG-4F8NXl-AASW', 'room1' ]
+[2020-12-14 16:43:09.625] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:43:09.625] [INFO] - [ 'Ky65yMVEV02dO6IRAASX', 'room1' ]
+[2020-12-14 16:46:39.943] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:46:39.944] [INFO] - [ '056sV8I4_ji0YqP0AASY', 'room1' ]
+[2020-12-14 16:47:07.968] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:47:07.968] [INFO] - [ 'nHXaaZKnzqsuGHaBAASZ', 'room1' ]
+[2020-12-14 16:48:34.352] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:48:34.353] [INFO] - [ 'czlsLqSavh6ZUrFOAASa', 'room1' ]
+[2020-12-14 16:50:53.171] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:50:53.171] [INFO] - [ 'd7vW9PJzTvWg7xfMAASb', 'room1' ]
+[2020-12-14 16:51:23.754] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:51:23.754] [INFO] - [ 'Yd3c057Fe3MxvKmHAASc', 'room1' ]
+[2020-12-14 16:53:01.249] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:53:01.249] [INFO] - [ 'OFaF0sQWY2I41C22AASd', 'room1' ]
+[2020-12-14 16:53:50.002] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:53:50.002] [INFO] - [ 't2Y6WGgxopEnBZISAASe', 'room1' ]
+[2020-12-14 16:56:39.151] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:56:39.152] [INFO] - [ 'l6Kw_wl8Pq_8rej7AASf', 'room1' ]
+[2020-12-14 16:57:15.770] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:57:15.770] [INFO] - [ 'LEiW19v0MGO_9RY7AASg', 'room1' ]
+[2020-12-14 16:59:09.976] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:59:09.976] [INFO] - [ 'W5C8pSZQH-tm9Ux9AASh', 'room1' ]
+[2020-12-14 16:59:57.184] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 16:59:57.185] [INFO] - [ 'SGfw0UGdDQs6XAP1AASi', 'room1' ]
+[2020-12-14 17:01:26.824] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:01:26.824] [INFO] - [ 'uAwA7af3yMDdPv9rAASj', 'room1' ]
+[2020-12-14 17:02:39.450] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:02:39.450] [INFO] - [ 'MpCmVie1rjG93-CwAASk', 'room1' ]
+[2020-12-14 17:03:36.478] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:03:36.479] [INFO] - [ '_u3OyWuvEyLIbR6xAASl', 'room1' ]
+[2020-12-14 17:03:44.685] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:03:44.686] [INFO] - [ 'ET5WaHXjqAilL7x3AASm', 'room1' ]
+[2020-12-14 17:05:13.468] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:05:13.468] [INFO] - [ 'xiSEfQlbWS4r8TCoAASn', 'room1' ]
+[2020-12-14 17:09:17.156] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:09:17.157] [INFO] - [ 'ivwov6FOt7qEzS6LAASo', 'room1' ]
+[2020-12-14 17:10:59.926] [INFO] - Listening on port 8250
+[2020-12-14 17:11:00.130] [INFO] - query { rid: 'room1',
+  uid: '11110.7266629040134731',
+  username: '张信哲74',
+  mobile: '17317399499',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NPWX8I0' }
+[2020-12-14 17:11:00.170] [INFO] - [ 'Ghev3X5BEypInQJtAAAA', 'room1' ]
+[2020-12-14 17:11:02.712] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:11:02.713] [INFO] - [ 'AkRO8KPKT10mJvagAAAB', 'room1' ]
+[2020-12-14 17:12:25.547] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:12:25.548] [INFO] - [ 'i8lqiBD9BmvcAHzRAAAC', 'room1' ]
+[2020-12-14 17:23:41.871] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:23:41.871] [INFO] - [ 'nvluEa84JdAfTvPLAAAD', 'room1' ]
+[2020-12-14 17:26:35.180] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:26:35.180] [INFO] - [ '2vQY12GS1-_99778AAAE', 'room1' ]
+[2020-12-14 17:27:47.252] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:27:47.252] [INFO] - [ 'j6ojQeHva2DCosxCAAAF', 'room1' ]
+[2020-12-14 17:28:18.706] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:28:18.707] [INFO] - [ 'swwwR68vOB3aF4NFAAAG', 'room1' ]
+[2020-12-14 17:29:14.078] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:29:14.078] [INFO] - [ '5dEbAPJjfR0uLKa0AAAH', 'room1' ]
+[2020-12-14 17:31:20.023] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:31:20.023] [INFO] - [ 'O3IPdyeJRKjFqi7aAAAI', 'room1' ]
+[2020-12-14 17:32:28.478] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:32:28.478] [INFO] - [ 'PaLlhMNCwJqjSdMRAAAJ', 'room1' ]
+[2020-12-14 17:32:40.746] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:32:40.746] [INFO] - [ 'CcMiIq-SZsQe7HIAAAAK', 'room1' ]
+[2020-12-14 17:35:23.269] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:35:23.270] [INFO] - [ 'ZJaBpXHNIoBYwq9SAAAL', 'room1' ]
+[2020-12-14 17:41:10.861] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:41:10.861] [INFO] - [ 'CFiGrVO_USsdQW49AAAM', 'room1' ]
+[2020-12-14 17:43:20.985] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:43:20.986] [INFO] - [ '9qjzYp49hz5hNpE8AAAN', 'room1' ]
+[2020-12-14 17:45:16.056] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:45:16.056] [INFO] - [ 'kYbQXHGHXRzdVmeWAAAO', 'room1' ]
+[2020-12-14 17:45:36.773] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:45:36.773] [INFO] - [ '593UxE5UZZ6K2lRnAAAP', 'room1' ]
+[2020-12-14 17:46:18.936] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:46:18.936] [INFO] - [ 'HdR1fN3dl1ymfiDiAAAQ', 'room1' ]
+[2020-12-14 17:48:19.106] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:48:19.107] [INFO] - [ 'g63NrQNUxtKBu96KAAAR', 'room1' ]
+[2020-12-14 17:48:49.514] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:48:49.514] [INFO] - [ 'HoeKwV59ZWpq9kluAAAS', 'room1' ]
+[2020-12-14 17:50:23.464] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:50:23.464] [INFO] - [ 'm_eZQox-_bdPBikqAAAT', 'room1' ]
+[2020-12-14 17:51:14.938] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:51:14.938] [INFO] - [ 'VntwyEONZQ96T67PAAAU', 'room1' ]
+[2020-12-14 17:52:55.731] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:52:55.731] [INFO] - [ 'Hg9lYXF6k-bMYKQjAAAV', 'room1' ]
+[2020-12-14 17:53:45.206] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:53:45.206] [INFO] - [ 'qgoLTg6SibwRt2_RAAAW', 'room1' ]
+[2020-12-14 17:54:19.175] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:54:19.176] [INFO] - [ '4ZzK0Rc7qe9qDnTzAAAX', 'room1' ]
+[2020-12-14 17:55:35.639] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:55:35.640] [INFO] - [ 'wVj274nC8w-CnbzpAAAY', 'room1' ]
+[2020-12-14 17:59:06.167] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 17:59:06.168] [INFO] - [ 'y-VEQioAreQZ9R8GAAAZ', 'room1' ]
+[2020-12-14 18:00:00.386] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:00:00.386] [INFO] - [ 'qIa6OD-lgBcOjulrAAAa', 'room1' ]
+[2020-12-14 18:02:32.116] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:02:32.117] [INFO] - [ 'j1uVhOXLPwi5pQETAAAb', 'room1' ]
+[2020-12-14 18:04:13.481] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:04:13.481] [INFO] - [ 'KyOgJqJ5IVCl81JSAAAc', 'room1' ]
+[2020-12-14 18:04:59.155] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:04:59.155] [INFO] - [ 'jUYxzOmMvMhl0PKmAAAd', 'room1' ]
+[2020-12-14 18:10:09.797] [INFO] - [47.98.104.88] GET http://47.100.89.2:8250/ 200 3ms
+[2020-12-14 18:22:17.384] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:22:17.384] [INFO] - [ '9l_3DJK0pNpL_IVzAAAe', 'room1' ]
+[2020-12-14 18:22:53.169] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:22:53.170] [INFO] - [ 'XoeIXETDYs-4qNmdAAAf', 'room1' ]
+[2020-12-14 18:23:17.612] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:23:17.612] [INFO] - [ 'i2un5Uh_unHwbRyMAAAg', 'room1' ]
+[2020-12-14 18:23:47.915] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:23:47.916] [INFO] - [ 'uv2w2kz6RW3shetgAAAh', 'room1' ]
+[2020-12-14 18:24:33.789] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:24:33.789] [INFO] - [ 'W66raMR3T0EwfU0uAAAi', 'room1' ]
+[2020-12-14 18:26:20.940] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:26:20.941] [INFO] - [ '1zeYyFyr4k1AVACqAAAj', 'room1' ]
+[2020-12-14 18:26:50.066] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:26:50.066] [INFO] - [ 'y2yhNKGs1Xtw8XWMAAAk', 'room1' ]
+[2020-12-14 18:27:48.339] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:27:48.340] [INFO] - [ 'yZ8hpe4gkahbnbKbAAAl', 'room1' ]
+[2020-12-14 18:28:32.985] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:28:32.985] [INFO] - [ '0FOfyX82lnBYPfaPAAAm', 'room1' ]
+[2020-12-14 18:29:07.913] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:29:07.913] [INFO] - [ 'VhMk4eJTJvrt9xFTAAAn', 'room1' ]
+[2020-12-14 18:30:05.116] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:30:05.116] [INFO] - [ 'nXxjwp2VtNydCfBEAAAo', 'room1' ]
+[2020-12-14 18:30:11.412] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:30:11.412] [INFO] - [ 'cRTYjdcoenU0Q4yNAAAp', 'room1' ]
+[2020-12-14 18:30:16.153] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:30:16.153] [INFO] - [ '9PIeQIucg0yPVZ4tAAAq', 'room1' ]
+[2020-12-14 18:35:26.554] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:35:26.554] [INFO] - [ 'hEYFsCdCNg9JHxawAAAr', 'room1' ]
+[2020-12-14 18:35:43.952] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:35:43.953] [INFO] - [ 'KMH-CRvM4CN4PqVLAAAs', 'room1' ]
+[2020-12-14 18:35:59.710] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:35:59.710] [INFO] - [ 'iHlgG5PrmddX5b-YAAAt', 'room1' ]
+[2020-12-14 18:36:26.971] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:36:26.971] [INFO] - [ 'EF5R9eejqbcEhvs5AAAu', 'room1' ]
+[2020-12-14 18:36:55.238] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:36:55.239] [INFO] - [ 'v1-zbut21fIadCgvAAAv', 'room1' ]
+[2020-12-14 18:37:22.997] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:37:22.997] [INFO] - [ 'OqEpyNXbe9duIkzTAAAw', 'room1' ]
+[2020-12-14 18:38:32.618] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:38:32.618] [INFO] - [ 'EnJw5RNjwB54qQWVAAAx', 'room1' ]
+[2020-12-14 18:38:37.401] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:38:37.401] [INFO] - [ 'XbXlsh-op5o1B_UIAAAy', 'room1' ]
+[2020-12-14 18:39:08.556] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:39:08.558] [INFO] - [ 'UYe0vKKIwlt5N3MAAAAz', 'room1' ]
+[2020-12-14 18:56:04.661] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:56:04.661] [INFO] - [ '4wsVlj5Wi518U0stAAA0', 'room1' ]
+[2020-12-14 18:57:03.764] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:57:03.765] [INFO] - [ '-nqtXODncQPF3hNIAAA1', 'room1' ]
+[2020-12-14 18:58:12.321] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:58:12.322] [INFO] - [ 'j9BRpoHTknkR672gAAA2', 'room1' ]
+[2020-12-14 18:58:38.924] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:58:38.925] [INFO] - [ '17EMC9KgpJdaaefqAAA3', 'room1' ]
+[2020-12-14 18:59:09.321] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 18:59:09.321] [INFO] - [ '9lMo4AxH1p-rdff8AAA4', 'room1' ]
+[2020-12-14 19:01:32.986] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:01:32.986] [INFO] - [ 'TrXHOXNCk7u7qZFvAAA5', 'room1' ]
+[2020-12-14 19:01:43.409] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:01:43.410] [INFO] - [ '1V9loHpdslfOvTdQAAA6', 'room1' ]
+[2020-12-14 19:02:09.339] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:02:09.340] [INFO] - [ 'AhFQKpwJtdlV-lUUAAA7', 'room1' ]
+[2020-12-14 19:02:29.861] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:02:29.863] [INFO] - [ 'LRzWKM9WK-dJPAFjAAA8', 'room1' ]
+[2020-12-14 19:03:05.074] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:03:05.075] [INFO] - [ 'bolvGyganoU5WVd8AAA9', 'room1' ]
+[2020-12-14 19:03:35.366] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:03:35.367] [INFO] - [ 'jSyQNb6bykc_Pca-AAA-', 'room1' ]
+[2020-12-14 19:04:03.721] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:04:03.722] [INFO] - [ '7ParUKI0ljK8kGX0AAA_', 'room1' ]
+[2020-12-14 19:04:50.783] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:04:50.783] [INFO] - [ 'dq4va_hFpclso6wjAABA', 'room1' ]
+[2020-12-14 19:08:15.140] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:08:15.140] [INFO] - [ 'FdONrBn9JRoZL3WVAABB', 'room1' ]
+[2020-12-14 19:09:01.792] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:09:01.792] [INFO] - [ 'iYkr56aKjTrb6VjNAABC', 'room1' ]
+[2020-12-14 19:09:32.571] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:09:32.571] [INFO] - [ 'P2VdHQeLlkRQm_oZAABD', 'room1' ]
+[2020-12-14 19:10:03.403] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:10:03.403] [INFO] - [ 'nvZrs_uh4OfoH7SJAABE', 'room1' ]
+[2020-12-14 19:10:28.880] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:10:28.880] [INFO] - [ '4Mr-kbStdTV_TTCNAABF', 'room1' ]
+[2020-12-14 19:11:39.813] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:11:39.813] [INFO] - [ 'bh30IogIpOBM4PwHAABG', 'room1' ]
+[2020-12-14 19:13:08.120] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:13:08.121] [INFO] - [ 'NOY5pBO9vxe0GBGpAABH', 'room1' ]
+[2020-12-14 19:13:45.676] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:13:45.677] [INFO] - [ '4mUSmS0rCn5tGsjaAABI', 'room1' ]
+[2020-12-14 19:13:59.548] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:13:59.548] [INFO] - [ 'OgDl23l9DnGLGG2cAABJ', 'room1' ]
+[2020-12-14 19:14:16.829] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:14:16.829] [INFO] - [ 'j5ftiRwcvl8ZETBAAABK', 'room1' ]
+[2020-12-14 19:17:21.605] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:17:21.605] [INFO] - [ 'zVlXfqbUKXPL6rakAABL', 'room1' ]
+[2020-12-14 19:17:53.540] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:17:53.540] [INFO] - [ 'W6GgUue9-nkOCFupAABM', 'room1' ]
+[2020-12-14 19:18:51.146] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:18:51.147] [INFO] - [ 'UpKLjk8e_iYSzzYsAABN', 'room1' ]
+[2020-12-14 19:22:35.815] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:22:35.816] [INFO] - [ 'KUHV6FjYAqQBNefeAABO', 'room1' ]
+[2020-12-14 19:24:26.971] [INFO] - query { rid: 'room1',
+  uid: 'b87d4085ca614b74b0634b85d38e7036',
+  username: '管刚刚',
+  mobile: 'null',
+  role: '0',
+  avatar: 'https://thirdwx.qlogo.cn/mmopen/vi_32/OMFdLnWEMRuIvibEcVJib1wkxsjQo92wnliaiaztLl7MxV17jMhj82CcPggrN0MIyA4ibFTLbE0ktd04zIibqHicu7bQQ/132',
+  EIO: '3',
+  transport: 'websocket' }
+[2020-12-14 19:24:26.971] [INFO] - [ 'uvtGYW-fJcSLlrS4AABP', 'room1' ]

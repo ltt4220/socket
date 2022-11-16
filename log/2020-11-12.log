@@ -1,0 +1,3571 @@
+[2020-11-12 09:02:57.361] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMv-XxC' }
+[2020-11-12 09:02:57.361] [INFO] - [ 'UO6IOyDXg3uoXMe-AAI5', 'room1' ]
+[2020-11-12 09:03:24.236] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMv-eUV' }
+[2020-11-12 09:03:24.236] [INFO] - [ 'ZytdAWr7tj_R6gt2AAI6', 'room1' ]
+[2020-11-12 09:37:47.206] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMw6VOS' }
+[2020-11-12 09:37:47.206] [INFO] - [ 'NNFbEBLxYO_E0JLRAAI7', 'room1' ]
+[2020-11-12 09:38:04.123] [INFO] - query { rid: 'room1',
+  uid: '51dcbca6a626420f8e0ea15ce8bf3da5',
+  username: '哈哈哈',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMw6Zwn' }
+[2020-11-12 09:38:04.124] [INFO] - [ '8lzKWmxDtxtNkoigAAI8', 'room1' ]
+[2020-11-12 09:39:13.279] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMw6qP6' }
+[2020-11-12 09:39:13.279] [INFO] - [ 'TpOJIkPN2aLpJa99AAI9', 'room1' ]
+[2020-11-12 09:40:51.128] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMw7CIF' }
+[2020-11-12 09:40:51.129] [INFO] - [ 'iVbi1no52OrqngxgAAI-', 'room1' ]
+[2020-11-12 09:42:07.747] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMw7U_W' }
+[2020-11-12 09:42:07.748] [INFO] - [ 'h_ZxwJTfA4RonR8-AAI_', 'room1' ]
+[2020-11-12 09:46:54.372] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMw8a-0' }
+[2020-11-12 09:46:54.373] [INFO] - [ 'S9gSmKsw58XsitzoAAJA', 'room1' ]
+[2020-11-12 09:47:56.934] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMw8qFH' }
+[2020-11-12 09:47:56.935] [INFO] - [ 'reS3yLuNk-268otcAAJB', 'room1' ]
+[2020-11-12 10:05:26.213] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwCqQp' }
+[2020-11-12 10:05:26.214] [INFO] - [ 'Rr35Q4XcewLKJwchAAJC', 'room1' ]
+[2020-11-12 10:07:12.934] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwDEUJ' }
+[2020-11-12 10:07:12.934] [INFO] - [ 'Fua4NKnEF1erm9dBAAJD', 'room1' ]
+[2020-11-12 10:09:49.222] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwDqeJ' }
+[2020-11-12 10:09:49.222] [INFO] - [ '_ivZEVOA_4sUEtsJAAJE', 'room1' ]
+[2020-11-12 10:10:32.483] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwD_CO' }
+[2020-11-12 10:10:32.483] [INFO] - [ 'qlUEYA35HrgHWOK0AAJF', 'room1' ]
+[2020-11-12 10:12:13.288] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwENpP' }
+[2020-11-12 10:12:13.288] [INFO] - [ '8zFxS-_AeeNNC_plAAJG', 'room1' ]
+[2020-11-12 10:15:49.696] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwFCex' }
+[2020-11-12 10:15:49.696] [INFO] - [ 'k2H-nLgXFdqBcG2JAAJH', 'room1' ]
+[2020-11-12 10:16:35.061] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwFNjo' }
+[2020-11-12 10:16:35.061] [INFO] - [ 'LCE8wNkVJ-SGVbfhAAJI', 'room1' ]
+[2020-11-12 10:18:10.749] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwFl4x' }
+[2020-11-12 10:18:10.750] [INFO] - [ 'AdLMAbRQNWAhK2DrAAJJ', 'room1' ]
+[2020-11-12 10:19:45.674] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwG6G4' }
+[2020-11-12 10:19:45.675] [INFO] - [ 'auqsYVPV3pORGhvOAAJK', 'room1' ]
+[2020-11-12 10:21:13.445] [INFO] - query { rid: 'room1',
+  uid: '51dcbca6a626420f8e0ea15ce8bf3da5',
+  username: '哈哈哈',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwGSDG' }
+[2020-11-12 10:21:13.445] [INFO] - [ 'Yz1JzdQCKPjN8m5IAAJL', 'room1' ]
+[2020-11-12 10:21:42.600] [INFO] - query { rid: 'room1',
+  uid: '51dcbca6a626420f8e0ea15ce8bf3da5',
+  username: '哈哈哈',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwGZKq' }
+[2020-11-12 10:21:42.601] [INFO] - [ '1JbheYnYDiIchgwoAAJM', 'room1' ]
+[2020-11-12 10:21:49.990] [INFO] - query { rid: 'room1',
+  uid: '51dcbca6a626420f8e0ea15ce8bf3da5',
+  username: '哈哈哈',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwGb8C' }
+[2020-11-12 10:21:49.991] [INFO] - [ 'nuJeuk4Sa6HiTH-CAAJN', 'room1' ]
+[2020-11-12 10:21:55.536] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwGbzF' }
+[2020-11-12 10:21:55.536] [INFO] - [ '-8n5CGIoIOJN6DH3AAJO', 'room1' ]
+[2020-11-12 10:22:50.390] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwGpML' }
+[2020-11-12 10:22:50.390] [INFO] - [ 'MTAHDeU8vUPQoOVnAAJP', 'room1' ]
+[2020-11-12 10:23:32.889] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwGzkK' }
+[2020-11-12 10:23:32.889] [INFO] - [ 'GdHzKIBwDY5eFuNSAAJQ', 'room1' ]
+[2020-11-12 10:24:04.763] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwH5WT' }
+[2020-11-12 10:24:04.763] [INFO] - [ 'xCEYr-aQW6BARFX8AAJR', 'room1' ]
+[2020-11-12 10:26:02.675] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwHYIt' }
+[2020-11-12 10:26:02.676] [INFO] - [ 'E96aUX8PQDlhZeJyAAJS', 'room1' ]
+[2020-11-12 10:26:08.381] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwHZi1' }
+[2020-11-12 10:26:08.381] [INFO] - [ 'lW48o8xxzzsaT3ETAAJT', 'room1' ]
+[2020-11-12 10:36:18.765] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwJuvv' }
+[2020-11-12 10:36:18.766] [INFO] - [ 'w4Dm0ArYhT4oaWxnAAJU', 'room1' ]
+[2020-11-12 12:50:40.738] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMwodRD' }
+[2020-11-12 12:50:40.739] [INFO] - [ 'C-VTrDSV3h1rIUJZAAJV', 'room1' ]
+[2020-11-12 13:49:51.759] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx0CQU' }
+[2020-11-12 13:49:51.760] [INFO] - [ 'XqeKkhheveNwieUZAAJW', 'room1' ]
+[2020-11-12 13:51:21.662] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx0Y1h' }
+[2020-11-12 13:51:21.662] [INFO] - [ 'GAhTmUmXRaWcw0OlAAJX', 'room1' ]
+[2020-11-12 13:51:47.594] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx0eiH' }
+[2020-11-12 13:51:47.594] [INFO] - [ 'p165fhUCFxeguBavAAJY', 'room1' ]
+[2020-11-12 13:52:32.973] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx0pRv' }
+[2020-11-12 13:52:32.973] [INFO] - [ 'D-qZpZkjqb9jGcm4AAJZ', 'room1' ]
+[2020-11-12 13:54:40.768] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx1I-H' }
+[2020-11-12 13:54:40.768] [INFO] - [ 'EP98JECjcM2Ch8S_AAJa', 'room1' ]
+[2020-11-12 13:54:45.535] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx1K8n' }
+[2020-11-12 13:54:45.536] [INFO] - [ 'Dczw8sfvmFbNOb39AAJb', 'room1' ]
+[2020-11-12 13:58:46.428] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx2Ed4' }
+[2020-11-12 13:58:46.428] [INFO] - [ 'jvCQNi3pkhzaKDEfAAJc', 'room1' ]
+[2020-11-12 14:00:01.147] [INFO] - query { rid: 'room1',
+  uid: '51dcbca6a626420f8e0ea15ce8bf3da5',
+  username: '哈哈哈',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx2X52' }
+[2020-11-12 14:00:01.148] [INFO] - [ 'rXtIzCOA48tqr4NuAAJd', 'room1' ]
+[2020-11-12 14:00:11.393] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx2ZMd' }
+[2020-11-12 14:00:11.393] [INFO] - [ '1T6BptM1LTQYsqHqAAJe', 'room1' ]
+[2020-11-12 14:01:14.517] [INFO] - query { rid: 'room1',
+  uid: '51dcbca6a626420f8e0ea15ce8bf3da5',
+  username: '哈哈哈',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx2o_E' }
+[2020-11-12 14:01:14.517] [INFO] - [ 'mi1s9hBtG8ZTUcWRAAJf', 'room1' ]
+[2020-11-12 14:01:57.325] [INFO] - query { rid: 'room1',
+  uid: '51dcbca6a626420f8e0ea15ce8bf3da5',
+  username: '哈哈哈',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx2zSM' }
+[2020-11-12 14:01:57.325] [INFO] - [ 'WccpkeRsMW2cv83XAAJg', 'room1' ]
+[2020-11-12 14:03:51.314] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx3POY' }
+[2020-11-12 14:03:51.314] [INFO] - [ 'ja1yD9xz_oYENnZVAAJh', 'room1' ]
+[2020-11-12 14:04:27.698] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx3YNp' }
+[2020-11-12 14:04:27.699] [INFO] - [ 'dx0dig-PK8d9BWujAAJi', 'room1' ]
+[2020-11-12 14:05:29.181] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx3mxz' }
+[2020-11-12 14:05:29.182] [INFO] - [ 'wlRqoHvsemsE3wOgAAJj', 'room1' ]
+[2020-11-12 14:05:44.055] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx3qaL' }
+[2020-11-12 14:05:44.056] [INFO] - [ 'W7YMTppiAepAwJuNAAJk', 'room1' ]
+[2020-11-12 14:06:30.757] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx3_-4' }
+[2020-11-12 14:06:30.758] [INFO] - [ 'Ih4C0E1Jks2fQ4U3AAJl', 'room1' ]
+[2020-11-12 14:07:21.639] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx4CP5' }
+[2020-11-12 14:07:21.640] [INFO] - [ 'HzAZY12tW-jElu7SAAJm', 'room1' ]
+[2020-11-12 14:07:50.689] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx4JU-' }
+[2020-11-12 14:07:50.689] [INFO] - [ 'i70GpxACywYtcZ0HAAJn', 'room1' ]
+[2020-11-12 14:07:55.731] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx4LKn' }
+[2020-11-12 14:07:55.731] [INFO] - [ 'lIf5LiUEBfD-ELtbAAJo', 'room1' ]
+[2020-11-12 14:08:28.362] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx4T9y' }
+[2020-11-12 14:08:28.363] [INFO] - [ 'eP0gAzQl0OiYA3fUAAJp', 'room1' ]
+[2020-11-12 14:09:01.007] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx4bBm' }
+[2020-11-12 14:09:01.008] [INFO] - [ '1Joh1ETuUg2Ww6TDAAJq', 'room1' ]
+[2020-11-12 14:09:32.246] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx4iqR' }
+[2020-11-12 14:09:32.246] [INFO] - [ 'tu_WeXnIypWoYPjCAAJr', 'room1' ]
+[2020-11-12 14:10:03.358] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx4qOf' }
+[2020-11-12 14:10:03.358] [INFO] - [ 'ldopDWU-nuDIUyJdAAJs', 'room1' ]
+[2020-11-12 14:10:13.510] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx4sAZ' }
+[2020-11-12 14:10:13.510] [INFO] - [ '5c4Vuf_E2lvNVJYGAAJt', 'room1' ]
+[2020-11-12 14:10:41.455] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx4znN' }
+[2020-11-12 14:10:41.455] [INFO] - [ 'uP0De8rCoVPbziRiAAJu', 'room1' ]
+[2020-11-12 14:11:03.790] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx53C2' }
+[2020-11-12 14:11:03.791] [INFO] - [ 'eKpqXXWgaXBu-qHBAAJv', 'room1' ]
+[2020-11-12 14:11:14.279] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx55lv' }
+[2020-11-12 14:11:14.280] [INFO] - [ 'KaKGDb4YtjGlvP-kAAJw', 'room1' ]
+[2020-11-12 14:11:26.876] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx58qo' }
+[2020-11-12 14:11:26.877] [INFO] - [ '0CvvCvnyo-3ZxmmHAAJx', 'room1' ]
+[2020-11-12 14:12:24.110] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx5Mp4' }
+[2020-11-12 14:12:24.110] [INFO] - [ 'TSG5q_IaVpluIeYAAAJy', 'room1' ]
+[2020-11-12 14:13:06.499] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx5WPW' }
+[2020-11-12 14:13:06.500] [INFO] - [ 'uBemwBvRdUdQKBdsAAJz', 'room1' ]
+[2020-11-12 14:13:32.733] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx5c_O' }
+[2020-11-12 14:13:32.733] [INFO] - [ '3X1i-fSlOjqLSOChAAJ0', 'room1' ]
+[2020-11-12 14:13:39.759] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx5fGq' }
+[2020-11-12 14:13:39.760] [INFO] - [ 'k1UWkN9LW6ssOR5zAAJ1', 'room1' ]
+[2020-11-12 14:14:12.926] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx5nMo' }
+[2020-11-12 14:14:12.926] [INFO] - [ 'Vg1xEsaii7AO3K7OAAJ2', 'room1' ]
+[2020-11-12 14:14:22.157] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx5pdE' }
+[2020-11-12 14:14:22.158] [INFO] - [ 'iNmR61pwy4MA3pw4AAJ3', 'room1' ]
+[2020-11-12 14:15:20.950] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx61ug' }
+[2020-11-12 14:15:20.950] [INFO] - [ 'But0zmlqUFqQBTKoAAJ4', 'room1' ]
+[2020-11-12 14:16:00.272] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx6Aqp' }
+[2020-11-12 14:16:00.273] [INFO] - [ 'uY_6waWNxHiWT25eAAJ5', 'room1' ]
+[2020-11-12 14:16:09.863] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx6DAa' }
+[2020-11-12 14:16:09.863] [INFO] - [ 'aP_EsR2imvn_-gHdAAJ6', 'room1' ]
+[2020-11-12 14:16:24.357] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx6HWh' }
+[2020-11-12 14:16:24.357] [INFO] - [ '6PYtzuTYqvRFbKvCAAJ7', 'room1' ]
+[2020-11-12 14:16:57.222] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx6PVp' }
+[2020-11-12 14:16:57.222] [INFO] - [ '7WJI__tVMaDbzeyOAAJ8', 'room1' ]
+[2020-11-12 14:17:29.023] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx6XBY' }
+[2020-11-12 14:17:29.023] [INFO] - [ '-Vn5K0OYBs9L1mcAAAJ9', 'room1' ]
+[2020-11-12 14:17:42.951] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx6Zv3' }
+[2020-11-12 14:17:42.952] [INFO] - [ 'FdWcV5ANp1JNBCO7AAJ-', 'room1' ]
+[2020-11-12 14:18:00.582] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx6es2' }
+[2020-11-12 14:18:00.583] [INFO] - [ 'KvmiypWNjC0eG2WLAAJ_', 'room1' ]
+[2020-11-12 14:18:32.432] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx6mmg' }
+[2020-11-12 14:18:32.433] [INFO] - [ 'CTi2SuH9pw1_lle2AAKA', 'room1' ]
+[2020-11-12 14:19:05.093] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx6uh2' }
+[2020-11-12 14:19:05.094] [INFO] - [ 'Z5ha1za3EIrwaDDKAAKB', 'room1' ]
+[2020-11-12 14:21:40.706] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx7Uhu' }
+[2020-11-12 14:21:40.708] [INFO] - [ 'RLMbjk-tG2ooIy-JAAKC', 'room1' ]
+[2020-11-12 14:22:14.554] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx7cum' }
+[2020-11-12 14:22:14.554] [INFO] - [ 'Y-7sSjI8M_L3e20oAAKD', 'room1' ]
+[2020-11-12 14:23:39.594] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx7xjW' }
+[2020-11-12 14:23:39.595] [INFO] - [ 'eaXDwdGOGiAtuxVyAAKE', 'room1' ]
+[2020-11-12 14:24:36.940] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx8999' }
+[2020-11-12 14:24:36.940] [INFO] - [ 'sBRqJtCaGjTSEbotAAKF', 'room1' ]
+[2020-11-12 14:25:41.599] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx8PVo' }
+[2020-11-12 14:25:41.599] [INFO] - [ 'n44V3yYNxjwsymluAAKG', 'room1' ]
+[2020-11-12 14:26:18.460] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx8YGn' }
+[2020-11-12 14:26:18.460] [INFO] - [ 'hucTfOsk36rB6gfKAAKH', 'room1' ]
+[2020-11-12 14:27:18.749] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx8mfm' }
+[2020-11-12 14:27:18.749] [INFO] - [ '7QQWbp4nqyt-mIyyAAKI', 'room1' ]
+[2020-11-12 14:27:48.608] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx8uWM' }
+[2020-11-12 14:27:48.608] [INFO] - [ 'FUYO2VBa0ZYL8nCsAAKJ', 'room1' ]
+[2020-11-12 14:28:39.585] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx94z0' }
+[2020-11-12 14:28:39.586] [INFO] - [ '9DLN-86reX3Ib70OAAKK', 'room1' ]
+[2020-11-12 14:29:11.499] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx9CaM' }
+[2020-11-12 14:29:11.499] [INFO] - [ '8r97W_ID9xVqT6YjAAKL', 'room1' ]
+[2020-11-12 14:29:24.509] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx9FMg' }
+[2020-11-12 14:29:24.510] [INFO] - [ 'N7mIjAmenCDlho7IAAKM', 'room1' ]
+[2020-11-12 14:29:43.272] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx9KVv' }
+[2020-11-12 14:29:43.272] [INFO] - [ '7ba3JutX0BJUQJG0AAKN', 'room1' ]
+[2020-11-12 14:29:46.937] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMx9M94' }
+[2020-11-12 14:29:46.937] [INFO] - [ 'zDw23WlqNi3gsBHUAAKO', 'room1' ]
+[2020-11-12 14:33:08.587] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxA6e4' }
+[2020-11-12 14:33:08.587] [INFO] - [ 'Q8mh7ln-v8XmATG-AAKP', 'room1' ]
+[2020-11-12 14:33:40.644] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxAESy' }
+[2020-11-12 14:33:40.644] [INFO] - [ 'm5QSSbwdGzScZxqIAAKQ', 'room1' ]
+[2020-11-12 14:34:00.904] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxAK9H' }
+[2020-11-12 14:34:00.904] [INFO] - [ 'XWHFDuk-pHn-p3BYAAKR', 'room1' ]
+[2020-11-12 14:34:12.339] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxAMCY' }
+[2020-11-12 14:34:12.339] [INFO] - [ 'kbn_Ktf-MvT-GJ2pAAKS', 'room1' ]
+[2020-11-12 14:34:14.052] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxANMj' }
+[2020-11-12 14:34:14.052] [INFO] - [ 'BNoqL_4WwhjZihByAAKT', 'room1' ]
+[2020-11-12 14:35:34.657] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxAg4U' }
+[2020-11-12 14:35:34.658] [INFO] - [ '_vPdrWiHXw7XIGp2AAKU', 'room1' ]
+[2020-11-12 14:38:59.215] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxBRgU' }
+[2020-11-12 14:38:59.216] [INFO] - [ 'jqZjoT9GecBcp8y3AAKV', 'room1' ]
+[2020-11-12 14:40:23.750] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxBmJH' }
+[2020-11-12 14:40:23.750] [INFO] - [ 'DU-KWwGyZtRpG3vYAAKW', 'room1' ]
+[2020-11-12 14:46:17.098] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxD6wb' }
+[2020-11-12 14:46:17.099] [INFO] - [ 'EGrHsey5zjTvu6rXAAKX', 'room1' ]
+[2020-11-12 14:57:20.516] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxFeY4' }
+[2020-11-12 14:57:20.516] [INFO] - [ 'XWQMdoV39cyOaKmcAAKY', 'room1' ]
+[2020-11-12 14:57:35.900] [INFO] - [203.119.241.117] GET http://47.100.89.2:8250/api/robot/send 200 0ms
+[2020-11-12 14:57:35.975] [INFO] - [39.98.42.229] GET http://47.100.89.2:8250/api/robot/send 200 0ms
+[2020-11-12 14:57:36.200] [INFO] - [203.119.241.83] GET http://47.100.89.2:8250/api/robot/send 200 0ms
+[2020-11-12 14:57:36.264] [INFO] - [203.119.241.91] GET http://47.100.89.2:8250/api/robot/send 200 1ms
+[2020-11-12 15:00:35.648] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxGNrn' }
+[2020-11-12 15:00:35.648] [INFO] - [ 'UdS9P4GgUINo46rFAAKZ', 'room1' ]
+[2020-11-12 15:02:20.093] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxGnWC' }
+[2020-11-12 15:02:20.093] [INFO] - [ 'KfwkhdR0V6AnymNPAAKa', 'room1' ]
+[2020-11-12 15:03:12.204] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxG-P7' }
+[2020-11-12 15:03:12.205] [INFO] - [ 'H2facyVVyY5r3bCWAAKb', 'room1' ]
+[2020-11-12 15:03:52.609] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxH7xB' }
+[2020-11-12 15:03:52.609] [INFO] - [ 'EQCck45GJVUMkLHhAAKc', 'room1' ]
+[2020-11-12 15:03:57.479] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxH97O' }
+[2020-11-12 15:03:57.479] [INFO] - [ 'HfW8HLYQWYorTI5TAAKd', 'room1' ]
+[2020-11-12 15:04:16.708] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxHDph' }
+[2020-11-12 15:04:16.708] [INFO] - [ '4pk3IvWU2dQMV0BRAAKe', 'room1' ]
+[2020-11-12 15:04:31.281] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxHHNV' }
+[2020-11-12 15:04:31.281] [INFO] - [ 'bprqgz7TbLfJUAYgAAKf', 'room1' ]
+[2020-11-12 15:04:58.214] [INFO] - query { rid: 'room1',
+  uid: '11110.28769716925883415',
+  username: '张信哲13',
+  mobile: '17317399499',
+  role: '0',
+  avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxHOfB' }
+[2020-11-12 15:04:58.215] [INFO] - [ 'T0FJfZxpZCFfAWMCAAKg', 'room1' ]
+[2020-11-12 15:05:10.400] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxHQwd' }
+[2020-11-12 15:05:10.401] [INFO] - [ 'qfcP6wBoU0oa3hccAAKh', 'room1' ]
+[2020-11-12 15:05:21.257] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxHTa7' }
+[2020-11-12 15:05:21.258] [INFO] - [ 'ifoqOnkgzjDh2sL9AAKi', 'room1' ]
+[2020-11-12 15:05:26.117] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxHUmN' }
+[2020-11-12 15:05:26.117] [INFO] - [ 'xXxvgrfGvROX62GXAAKj', 'room1' ]
+[2020-11-12 15:06:11.074] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxHfvP' }
+[2020-11-12 15:06:11.074] [INFO] - [ '1CzxCMr2fiVOs3mUAAKk', 'room1' ]
+[2020-11-12 15:06:28.501] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxHj-c' }
+[2020-11-12 15:06:28.502] [INFO] - [ 'yG3Mk88b0DFilnWrAAKl', 'room1' ]
+[2020-11-12 15:06:53.110] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxHqKj' }
+[2020-11-12 15:06:53.110] [INFO] - [ 'CIg3otJqzGfDylsTAAKm', 'room1' ]
+[2020-11-12 15:07:40.819] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxH_-H' }
+[2020-11-12 15:07:40.820] [INFO] - [ 'TNzHa0qTzcvBlpOYAAKn', 'room1' ]
+[2020-11-12 15:08:32.808] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxICLA' }
+[2020-11-12 15:08:32.808] [INFO] - [ 'rHUgakTFvAtvuxbiAAKo', 'room1' ]
+[2020-11-12 15:08:55.842] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxIIIV' }
+[2020-11-12 15:08:55.842] [INFO] - [ 'FlEqPTTDxdLuAUcZAAKp', 'room1' ]
+[2020-11-12 15:10:34.835] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxIgTA' }
+[2020-11-12 15:10:34.835] [INFO] - [ 'uMrv3Nh8YmNrX5ZNAAKq', 'room1' ]
+[2020-11-12 15:13:48.009] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxJPdU' }
+[2020-11-12 15:13:48.009] [INFO] - [ 'QJI9jLq63P3M746dAAKr', 'room1' ]
+[2020-11-12 15:14:28.203] [INFO] - query { rid: 'room1',
+  uid: '51dcbca6a626420f8e0ea15ce8bf3da5',
+  username: '哈哈哈',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxJZg_' }
+[2020-11-12 15:14:28.204] [INFO] - [ 'S1eOvoDU9c3ZKzrDAAKs', 'room1' ]
+[2020-11-12 15:17:17.027] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxKCU_' }
+[2020-11-12 15:17:17.027] [INFO] - [ 'uhSCxYDG0u7Bt5ADAAKt', 'room1' ]
+[2020-11-12 15:18:31.254] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxKUcm' }
+[2020-11-12 15:18:31.255] [INFO] - [ '93zufmvemv97TIUlAAKu', 'room1' ]
+[2020-11-12 15:18:33.572] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxKVB7' }
+[2020-11-12 15:18:33.572] [INFO] - [ 'OIc98MpRKZTAI5oyAAKv', 'room1' ]
+[2020-11-12 15:18:40.441] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxKWrs' }
+[2020-11-12 15:18:40.441] [INFO] - [ 'c2YPvk1bRMoGugxsAAKw', 'room1' ]
+[2020-11-12 15:19:04.284] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxKdQw' }
+[2020-11-12 15:19:04.284] [INFO] - [ '8wTGL-UQl9Ks2v4rAAKx', 'room1' ]
+[2020-11-12 15:20:01.862] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxKrW2' }
+[2020-11-12 15:20:01.863] [INFO] - [ 'J6Ozi6WrdN0lI67EAAKy', 'room1' ]
+[2020-11-12 15:20:17.570] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxKv59' }
+[2020-11-12 15:20:17.571] [INFO] - [ 'oic1p6fWc0pPxV9HAAKz', 'room1' ]
+[2020-11-12 15:20:35.246] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxKzSm' }
+[2020-11-12 15:20:35.247] [INFO] - [ 'ksCMxMnkjuYVXhKeAAK0', 'room1' ]
+[2020-11-12 15:21:07.816] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxL5PS' }
+[2020-11-12 15:21:07.816] [INFO] - [ '3UHhZjIDWEhvR8inAAK1', 'room1' ]
+[2020-11-12 15:21:22.979] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxL8Y1' }
+[2020-11-12 15:21:22.979] [INFO] - [ 'VQXhz8YGaSHYqs23AAK2', 'room1' ]
+[2020-11-12 15:21:39.188] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxLDES' }
+[2020-11-12 15:21:39.188] [INFO] - [ 'oKZRvSnTRCBbJ8uXAAK3', 'room1' ]
+[2020-11-12 15:22:11.369] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxLK_B' }
+[2020-11-12 15:22:11.370] [INFO] - [ 'dXS2xbJb34PBVSgvAAK4', 'room1' ]
+[2020-11-12 15:22:32.683] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxLPZF' }
+[2020-11-12 15:22:32.684] [INFO] - [ 'xHVlUKE7Cpi1E8xBAAK5', 'room1' ]
+[2020-11-12 15:22:42.431] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxLSgV' }
+[2020-11-12 15:22:42.431] [INFO] - [ 'NU7mTmigzEpWLWIqAAK6', 'room1' ]
+[2020-11-12 15:23:14.378] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxLaL0' }
+[2020-11-12 15:23:14.378] [INFO] - [ '2-hHLlNhi6im4vUtAAK7', 'room1' ]
+[2020-11-12 15:23:58.487] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxLlGG' }
+[2020-11-12 15:23:58.487] [INFO] - [ 'b2AFXOvbvL-91txgAAK8', 'room1' ]
+[2020-11-12 15:24:03.585] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxLllb' }
+[2020-11-12 15:24:03.585] [INFO] - [ 'CCjEdBUucpsYVLWLAAK9', 'room1' ]
+[2020-11-12 15:24:31.173] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxLt6G' }
+[2020-11-12 15:24:31.173] [INFO] - [ 'SpmEZooIHKcLx0MlAAK-', 'room1' ]
+[2020-11-12 15:25:07.221] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxL_ox' }
+[2020-11-12 15:25:07.221] [INFO] - [ 'a50cxekIJjiRb9nzAAK_', 'room1' ]
+[2020-11-12 15:28:39.664] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxMptb' }
+[2020-11-12 15:28:39.664] [INFO] - [ 'UxYDxMS9rJ4qODnHAALA', 'room1' ]
+[2020-11-12 15:29:11.722] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxMxjv' }
+[2020-11-12 15:29:11.723] [INFO] - [ 'iCzKY7j7JDZVi35EAALB', 'room1' ]
+[2020-11-12 15:29:43.711] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxN3XA' }
+[2020-11-12 15:29:43.712] [INFO] - [ 'EUXaiTPK4wOudae9AALC', 'room1' ]
+[2020-11-12 15:30:15.205] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxNBHH' }
+[2020-11-12 15:30:15.205] [INFO] - [ 'MxokYbb1bmASkQDIAALD', 'room1' ]
+[2020-11-12 15:30:47.076] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxNIwv' }
+[2020-11-12 15:30:47.076] [INFO] - [ 'wOKv8K9io_Z9FwNdAALE', 'room1' ]
+[2020-11-12 15:31:19.989] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxNR4k' }
+[2020-11-12 15:31:19.989] [INFO] - [ 'KjJRvzPUokM1m_pJAALF', 'room1' ]
+[2020-11-12 15:31:51.864] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxNYoj' }
+[2020-11-12 15:31:51.864] [INFO] - [ '7fxeRw3POyrZEZRQAALG', 'room1' ]
+[2020-11-12 15:32:25.124] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxNguH' }
+[2020-11-12 15:32:25.124] [INFO] - [ 'AcZT2jtrq1aNzRlcAALH', 'room1' ]
+[2020-11-12 15:32:56.370] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxNoXM' }
+[2020-11-12 15:32:56.370] [INFO] - [ 'WNyVipNCd28cOcaIAALI', 'room1' ]
+[2020-11-12 15:33:28.120] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxNwN6' }
+[2020-11-12 15:33:28.121] [INFO] - [ 'IUupLZJf0DjgPxm2AALJ', 'room1' ]
+[2020-11-12 15:33:59.805] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxO1_M' }
+[2020-11-12 15:33:59.805] [INFO] - [ 'p9xnO6agDcLJH1yJAALK', 'room1' ]
+[2020-11-12 15:34:31.085] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxO9jh' }
+[2020-11-12 15:34:31.085] [INFO] - [ 'VIOZP1Sq8U3xCnMbAALL', 'room1' ]
+[2020-11-12 15:35:03.836] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxOHdR' }
+[2020-11-12 15:35:03.836] [INFO] - [ 'VY390rs3U3i2tYJmAALM', 'room1' ]
+[2020-11-12 15:35:36.067] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxOPOE' }
+[2020-11-12 15:35:36.067] [INFO] - [ '7KgqMSzbGKf_yJCfAALN', 'room1' ]
+[2020-11-12 15:36:08.389] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxOXQ-' }
+[2020-11-12 15:36:08.389] [INFO] - [ '-eYTK6vcVo52KI_UAALO', 'room1' ]
+[2020-11-12 15:37:41.576] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxOuBn' }
+[2020-11-12 15:37:41.576] [INFO] - [ 'xnJ0kUJwv69Csi-dAALP', 'room1' ]
+[2020-11-12 15:38:13.127] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxO_wo' }
+[2020-11-12 15:38:13.127] [INFO] - [ 'mDoATnPLNzTH6fE0AALQ', 'room1' ]
+[2020-11-12 15:40:01.604] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxPQNW' }
+[2020-11-12 15:40:01.605] [INFO] - [ 'WHtCA1zwAxD71UHSAALR', 'room1' ]
+[2020-11-12 15:40:33.415] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxPYCw' }
+[2020-11-12 15:40:33.416] [INFO] - [ 'GgEj_B5QpdnrjZi9AALS', 'room1' ]
+[2020-11-12 15:41:06.378] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxPgCy' }
+[2020-11-12 15:41:06.378] [INFO] - [ 'BlOcddMv3EQlWgouAALT', 'room1' ]
+[2020-11-12 15:41:38.040] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxPnwE' }
+[2020-11-12 15:41:38.041] [INFO] - [ 'LzaUnU4Vvkuq6MJ_AALU', 'room1' ]
+[2020-11-12 15:42:09.572] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxPvaw' }
+[2020-11-12 15:42:09.572] [INFO] - [ '4W19RTtsYp2PW279AALV', 'room1' ]
+[2020-11-12 15:42:42.594] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxQ1bs' }
+[2020-11-12 15:42:42.594] [INFO] - [ 'TOu_6FOMSOKs_gi4AALW', 'room1' ]
+[2020-11-12 15:43:39.584] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxQFbc' }
+[2020-11-12 15:43:39.584] [INFO] - [ 'FRIZlX1S9hd3ekgyAALX', 'room1' ]
+[2020-11-12 15:44:10.847] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxQN3y' }
+[2020-11-12 15:44:10.847] [INFO] - [ 'PJbsyC7umJ6dYwxsAALY', 'room1' ]
+[2020-11-12 15:44:43.012] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxQUz8' }
+[2020-11-12 15:44:43.013] [INFO] - [ 'IVtQPdsqt1E_iKspAALZ', 'room1' ]
+[2020-11-12 15:45:15.654] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxQd6u' }
+[2020-11-12 15:45:15.654] [INFO] - [ 'vE3HQzv4ZYxMLYQ0AALa', 'room1' ]
+[2020-11-12 15:45:47.509] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxQkpg' }
+[2020-11-12 15:45:47.509] [INFO] - [ 'm71cnE32xeAiCxWZAALb', 'room1' ]
+[2020-11-12 15:46:20.120] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxQsnH' }
+[2020-11-12 15:46:20.121] [INFO] - [ 'omy1FoQ94lwkIZaJAALc', 'room1' ]
+[2020-11-12 15:46:39.460] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxQxH7' }
+[2020-11-12 15:46:39.460] [INFO] - [ '0eXh_DYMdOmjRLcqAALd', 'room1' ]
+[2020-11-12 15:46:51.784] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxQ-Of' }
+[2020-11-12 15:46:51.784] [INFO] - [ 'q5xF27cO3TCvLQGhAALe', 'room1' ]
+[2020-11-12 15:47:21.744] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxR5bk' }
+[2020-11-12 15:47:21.744] [INFO] - [ 'QJbxY5KvIRu0DUW2AALf', 'room1' ]
+[2020-11-12 15:48:39.609] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxROrJ' }
+[2020-11-12 15:48:39.609] [INFO] - [ '5U_11INxE-FSPT0VAALg', 'room1' ]
+[2020-11-12 15:49:41.580] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxRdzm' }
+[2020-11-12 15:49:41.580] [INFO] - [ 'DTKiYSjW_p9yE5s6AALh', 'room1' ]
+[2020-11-12 15:50:13.008] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxRliu' }
+[2020-11-12 15:50:13.009] [INFO] - [ 'xUMhm_3t6l_6T-LKAALi', 'room1' ]
+[2020-11-12 15:52:39.127] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxSJBO' }
+[2020-11-12 15:52:39.128] [INFO] - [ 'C2z0jWykSC6UQvNKAALj', 'room1' ]
+[2020-11-12 15:53:10.882] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxSQ-I' }
+[2020-11-12 15:53:10.882] [INFO] - [ 'OvzXEUlIjHjav1dIAALk', 'room1' ]
+[2020-11-12 15:53:42.467] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxSYnG' }
+[2020-11-12 15:53:42.467] [INFO] - [ 'IESrDRL7frLFWP9dAALl', 'room1' ]
+[2020-11-12 15:53:44.836] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxSYRM' }
+[2020-11-12 15:53:44.836] [INFO] - [ 'QTmHs52uKhDWto7SAALm', 'room1' ]
+[2020-11-12 15:54:02.986] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxSdZC' }
+[2020-11-12 15:54:02.986] [INFO] - [ 'eFG7nnwYjZOVN7hhAALn', 'room1' ]
+[2020-11-12 15:54:14.264] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxSgbg' }
+[2020-11-12 15:54:14.264] [INFO] - [ 'Iv6s3nDEgvkDTRXaAALo', 'room1' ]
+[2020-11-12 15:54:35.440] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxSlUB' }
+[2020-11-12 15:54:35.441] [INFO] - [ 'hfNOMHSTboe33wvhAALp', 'room1' ]
+[2020-11-12 15:54:46.554] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxSoRf' }
+[2020-11-12 15:54:46.554] [INFO] - [ 'XVB9C_mrIGF0nZs0AALq', 'room1' ]
+[2020-11-12 15:55:13.001] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxSuhC' }
+[2020-11-12 15:55:13.001] [INFO] - [ 'i_i2GTW1TqtNS5VMAALr', 'room1' ]
+[2020-11-12 15:55:13.988] [INFO] - query { rid: 'room1',
+  uid: '',
+  username: '',
+  role: '0',
+  eio: '3',
+  transport: 'polling',
+  t: 'nmxsuhc' }
+[2020-11-12 15:55:13.988] [INFO] - [ 'QS6Gacy_iKR7zHjLAALs', 'room1' ]
+[2020-11-12 15:55:18.163] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxSwC8' }
+[2020-11-12 15:55:18.163] [INFO] - [ 'O67_FAzF658koYeHAALt', 'room1' ]
+[2020-11-12 15:55:22.398] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxSwyA' }
+[2020-11-12 15:55:22.398] [INFO] - [ 'MztnqLn6hAUivA5uAALu', 'room1' ]
+[2020-11-12 15:55:50.353] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxT227' }
+[2020-11-12 15:55:50.353] [INFO] - [ 'QuS0YLVQTmIcPz66AALv', 'room1' ]
+[2020-11-12 15:56:21.609] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxT9ZU' }
+[2020-11-12 15:56:21.609] [INFO] - [ 'GLaKWG513Kt7M7tFAALw', 'room1' ]
+[2020-11-12 15:56:53.319] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxTHOu' }
+[2020-11-12 15:56:53.319] [INFO] - [ '3tt8X3cAI4V5bHEOAALx', 'room1' ]
+[2020-11-12 15:57:26.269] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxTPHN' }
+[2020-11-12 15:57:26.270] [INFO] - [ 'pXOURRf4hHSKn5chAALy', 'room1' ]
+[2020-11-12 15:58:05.481] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxTZ1v' }
+[2020-11-12 15:58:05.481] [INFO] - [ '9RvNwNLjAhjM8IQKAALz', 'room1' ]
+[2020-11-12 15:59:59.384] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxT-jZ' }
+[2020-11-12 15:59:59.385] [INFO] - [ 'PFUlukmUgk0pYsQJAAL0', 'room1' ]
+[2020-11-12 16:02:14.662] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxUVj9' }
+[2020-11-12 16:02:14.662] [INFO] - [ 'qk4ZL2momQcOzmZ1AAL1', 'room1' ]
+[2020-11-12 16:03:01.209] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxUh7q' }
+[2020-11-12 16:03:01.209] [INFO] - [ 'KN-n97Y7QzC3oH_9AAL2', 'room1' ]
+[2020-11-12 16:06:45.233] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxVXJ6' }
+[2020-11-12 16:06:45.234] [INFO] - [ '1hta5hv0pQ-uerDVAAL3', 'room1' ]
+[2020-11-12 16:07:23.882] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxVgk-' }
+[2020-11-12 16:07:23.883] [INFO] - [ 'pV2Y_WDtvP9Km-xEAAL4', 'room1' ]
+[2020-11-12 16:08:34.159] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxVxv2' }
+[2020-11-12 16:08:34.159] [INFO] - [ 'fpQ8XqzSuZDv2J4CAAL5', 'room1' ]
+[2020-11-12 16:08:41.701] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxVzku' }
+[2020-11-12 16:08:41.701] [INFO] - [ 'E42wIcAiERKExzZ8AAL6', 'room1' ]
+[2020-11-12 16:08:54.879] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxW0yj' }
+[2020-11-12 16:08:54.879] [INFO] - [ 'NT3HY_El3iUOyPZIAAL7', 'room1' ]
+[2020-11-12 16:10:36.567] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxWQ9R' }
+[2020-11-12 16:10:36.567] [INFO] - [ 'kOcBZ1OnKOJfhJ-MAAL8', 'room1' ]
+[2020-11-12 16:11:21.266] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxWaMA' }
+[2020-11-12 16:11:21.266] [INFO] - [ 'YhGbFYWM8WUACDVhAAL9', 'room1' ]
+[2020-11-12 16:11:32.069] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxWc-s' }
+[2020-11-12 16:11:32.070] [INFO] - [ 'kAkJvsIp2AOwk8ShAAL-', 'room1' ]
+[2020-11-12 16:11:36.623] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxWf4a' }
+[2020-11-12 16:11:36.623] [INFO] - [ 'dsDUx8pkKMn3HVp3AAL_', 'room1' ]
+[2020-11-12 16:11:38.294] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxWfDs' }
+[2020-11-12 16:11:38.294] [INFO] - [ '-2DS9Hv1ZY2mCS-GAAMA', 'room1' ]
+[2020-11-12 16:12:11.635] [INFO] - query { rid: 'room1',
+  uid: '51dcbca6a626420f8e0ea15ce8bf3da5',
+  username: '哈哈哈',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxWnEq' }
+[2020-11-12 16:12:11.636] [INFO] - [ 'c3nMbP-WBVNKK2ALAAMB', 'room1' ]
+[2020-11-12 16:12:24.676] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxWqYU' }
+[2020-11-12 16:12:24.676] [INFO] - [ 'q5G5YLTuNRQcmwy5AAMC', 'room1' ]
+[2020-11-12 16:12:55.161] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxWx-t' }
+[2020-11-12 16:12:55.161] [INFO] - [ 'VacLG2-yG1xliYA9AAMD', 'room1' ]
+[2020-11-12 16:13:25.482] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxX3Oc' }
+[2020-11-12 16:13:25.482] [INFO] - [ '3HzTr0mkwHNXIH3GAAME', 'room1' ]
+[2020-11-12 16:14:40.610] [INFO] - [47.101.58.46] GET http://47.100.89.2:8250/ 200 1ms
+[2020-11-12 16:14:50.171] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxXO3o' }
+[2020-11-12 16:14:50.171] [INFO] - [ 'HLQBY1qCx6PvI9O5AAMF', 'room1' ]
+[2020-11-12 16:15:20.422] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxXUks' }
+[2020-11-12 16:15:20.423] [INFO] - [ 'BecwKlwkPQ9zNVgJAAMG', 'room1' ]
+[2020-11-12 16:17:12.921] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxXwYa' }
+[2020-11-12 16:17:12.922] [INFO] - [ 'I82oF_4KZVoqPuKfAAMH', 'room1' ]
+[2020-11-12 16:17:38.692] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxY0rJ' }
+[2020-11-12 16:17:38.692] [INFO] - [ 'zf3KWg9Vb01wxEmgAAMI', 'room1' ]
+[2020-11-12 16:17:50.825] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxY4AQ' }
+[2020-11-12 16:17:50.826] [INFO] - [ 'g5IP-ZNeYyTJwzHoAAMJ', 'room1' ]
+[2020-11-12 16:18:27.104] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxYCff' }
+[2020-11-12 16:18:27.104] [INFO] - [ 'Zc66k1lcY4YtKSH2AAMK', 'room1' ]
+[2020-11-12 16:18:50.253] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxYIJO' }
+[2020-11-12 16:18:50.253] [INFO] - [ 'a4SUY0iXTW1bGO7UAAML', 'room1' ]
+[2020-11-12 16:19:00.689] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxYKsA' }
+[2020-11-12 16:19:00.690] [INFO] - [ 'UuO0fJMUpk3Kws4sAAMM', 'room1' ]
+[2020-11-12 16:19:47.568] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxYWgL' }
+[2020-11-12 16:19:47.568] [INFO] - [ 'zGSlq0yIQ0Oruo2oAAMN', 'room1' ]
+[2020-11-12 16:19:47.875] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxYW1m' }
+[2020-11-12 16:19:47.875] [INFO] - [ 'GQ_kIjgcc-n8GthMAAMO', 'room1' ]
+[2020-11-12 16:20:12.910] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxYcUo' }
+[2020-11-12 16:20:12.911] [INFO] - [ 'y-WDtIss7TTuLWfSAAMP', 'room1' ]
+[2020-11-12 16:20:40.076] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxYj7K' }
+[2020-11-12 16:20:40.076] [INFO] - [ 'CdgzeT5cGEgX9fT4AAMQ', 'room1' ]
+[2020-11-12 16:20:51.606] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxYmIz' }
+[2020-11-12 16:20:51.607] [INFO] - [ 'elfodtuLv8RZI1x9AAMR', 'room1' ]
+[2020-11-12 16:21:06.494] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxYpwf' }
+[2020-11-12 16:21:06.494] [INFO] - [ 'VT9Ph-ECgO1HEbo0AAMS', 'room1' ]
+[2020-11-12 16:21:17.548] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxYseJ' }
+[2020-11-12 16:21:17.548] [INFO] - [ '8hLZ7Euo2mUKZiDYAAMT', 'room1' ]
+[2020-11-12 16:21:58.634] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxZ0gC' }
+[2020-11-12 16:21:58.635] [INFO] - [ 'SLz8Yq3RItG0vyy0AAMU', 'room1' ]
+[2020-11-12 16:22:23.753] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxZ6RK' }
+[2020-11-12 16:22:23.753] [INFO] - [ 'nE9gR9tUcM2e_8ezAAMV', 'room1' ]
+[2020-11-12 16:22:29.157] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxZ879' }
+[2020-11-12 16:22:29.158] [INFO] - [ 'vMDSgjakiWHFMiGvAAMW', 'room1' ]
+[2020-11-12 16:23:25.000] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxZLOB' }
+[2020-11-12 16:23:25.001] [INFO] - [ 'Vg39qt9tGOdOk6jVAAMX', 'room1' ]
+[2020-11-12 16:23:40.976] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxZPHj' }
+[2020-11-12 16:23:40.976] [INFO] - [ 'Aj4adPibxUUrbOTQAAMY', 'room1' ]
+[2020-11-12 16:23:52.264] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxZS2M' }
+[2020-11-12 16:23:52.265] [INFO] - [ 'hAFYnXvNX9M09VX7AAMZ', 'room1' ]
+[2020-11-12 16:24:31.585] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxZc01' }
+[2020-11-12 16:24:31.585] [INFO] - [ 'EBWs0aJ5EILahhWVAAMa', 'room1' ]
+[2020-11-12 16:25:11.852] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxZlr7' }
+[2020-11-12 16:25:11.852] [INFO] - [ '5kMgEhbr2gfSbuk7AAMb', 'room1' ]
+[2020-11-12 16:25:37.673] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxZs8g' }
+[2020-11-12 16:25:37.673] [INFO] - [ '34WvgntzNc9uAgNUAAMc', 'room1' ]
+[2020-11-12 16:25:50.387] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxZvFH' }
+[2020-11-12 16:25:50.387] [INFO] - [ '0psjHtoguGOQlF7QAAMd', 'room1' ]
+[2020-11-12 16:26:03.962] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxZyYp' }
+[2020-11-12 16:26:03.962] [INFO] - [ 'kmhjrvhH1Y1E16TDAAMe', 'room1' ]
+[2020-11-12 16:26:11.274] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxZzrc' }
+[2020-11-12 16:26:11.274] [INFO] - [ 'iC4MS4SH9X3Bf9g5AAMf', 'room1' ]
+[2020-11-12 16:26:25.475] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxa1pT' }
+[2020-11-12 16:26:25.476] [INFO] - [ 'm85COLAafB4q6z8sAAMg', 'room1' ]
+[2020-11-12 16:27:05.268] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxaB1F' }
+[2020-11-12 16:27:05.269] [INFO] - [ 'vBXASWQqmbmDSlerAAMh', 'room1' ]
+[2020-11-12 16:27:12.083] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxaChd' }
+[2020-11-12 16:27:12.083] [INFO] - [ 'bc_4wBSpTb9qoCWMAAMi', 'room1' ]
+[2020-11-12 16:27:26.869] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxaGom' }
+[2020-11-12 16:27:26.870] [INFO] - [ 'a-9jpNC7yCyWpIR-AAMj', 'room1' ]
+[2020-11-12 16:27:46.171] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxaLWW' }
+[2020-11-12 16:27:46.171] [INFO] - [ 'e7P0r1HtKrC9Kn-HAAMk', 'room1' ]
+[2020-11-12 16:27:51.015] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxaMi3' }
+[2020-11-12 16:27:51.015] [INFO] - [ 'gFKVw1p3b0ozLhtXAAMl', 'room1' ]
+[2020-11-12 16:27:53.410] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxaNHX' }
+[2020-11-12 16:27:53.410] [INFO] - [ 'WxTUsqsw_qqGuHxrAAMm', 'room1' ]
+[2020-11-12 16:28:02.530] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxaO_y' }
+[2020-11-12 16:28:02.530] [INFO] - [ 'erwajy6To7UedClsAAMn', 'room1' ]
+[2020-11-12 16:28:26.361] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxaVKT' }
+[2020-11-12 16:28:26.361] [INFO] - [ 'AiTcbjh4UU7Cl9tbAAMo', 'room1' ]
+[2020-11-12 16:28:48.189] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxaa9R' }
+[2020-11-12 16:28:48.190] [INFO] - [ 'O8xsILkrETb5TfYyAAMp', 'room1' ]
+[2020-11-12 16:28:58.384] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxaceU' }
+[2020-11-12 16:28:58.384] [INFO] - [ 'JJOd7ebbe6bfAf4wAAMq', 'room1' ]
+[2020-11-12 16:29:40.658] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxamzD' }
+[2020-11-12 16:29:40.658] [INFO] - [ 'DnxaZR_NlZGSwKbIAAMr', 'room1' ]
+[2020-11-12 16:29:44.801] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxanyk' }
+[2020-11-12 16:29:44.801] [INFO] - [ 'CkmUl-k1ljFZl-kcAAMs', 'room1' ]
+[2020-11-12 16:30:25.481] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxaxvc' }
+[2020-11-12 16:30:25.481] [INFO] - [ 'GKcMISlg_LnVyI2bAAMt', 'room1' ]
+[2020-11-12 16:30:40.655] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxb06t' }
+[2020-11-12 16:30:40.655] [INFO] - [ 'b1bevR4YewKiNzP9AAMu', 'room1' ]
+[2020-11-12 16:30:42.749] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxb0dt' }
+[2020-11-12 16:30:42.749] [INFO] - [ 'rFnaURjU7rWWxRHEAAMv', 'room1' ]
+[2020-11-12 16:30:51.907] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxb2sj' }
+[2020-11-12 16:30:51.907] [INFO] - [ 'P7p06pqd1X2-C35TAAMw', 'room1' ]
+[2020-11-12 16:31:01.346] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxb4f_' }
+[2020-11-12 16:31:01.346] [INFO] - [ 'NiD3_-uO_NRlEtDDAAMx', 'room1' ]
+[2020-11-12 16:31:24.194] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxbAlT' }
+[2020-11-12 16:31:24.194] [INFO] - [ '_csG5pczhQUQbVxaAAMy', 'room1' ]
+[2020-11-12 16:31:43.101] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxbFMc' }
+[2020-11-12 16:31:43.101] [INFO] - [ 'LaZ4nHq_uHzxaCDzAAMz', 'room1' ]
+[2020-11-12 16:31:49.063] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxbGJe' }
+[2020-11-12 16:31:49.063] [INFO] - [ 'bSao4O3ZoiYOYBUkAAM0', 'room1' ]
+[2020-11-12 16:32:31.646] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxbRDe' }
+[2020-11-12 16:32:31.647] [INFO] - [ '6Sy2MHx7mYKYeD_1AAM1', 'room1' ]
+[2020-11-12 16:32:37.748] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxbSKw' }
+[2020-11-12 16:32:37.749] [INFO] - [ 'zLkOih3GxCxe2_rJAAM2', 'room1' ]
+[2020-11-12 16:32:59.827] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxbXbO' }
+[2020-11-12 16:32:59.827] [INFO] - [ 'Yq8T_bFIeKQ-qvN6AAM3', 'room1' ]
+[2020-11-12 16:33:11.202] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxbatm' }
+[2020-11-12 16:33:11.202] [INFO] - [ 'K9Wnk0jFGauXxxg2AAM4', 'room1' ]
+[2020-11-12 16:33:46.958] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxbj5a' }
+[2020-11-12 16:33:46.958] [INFO] - [ 'GlLmq7zk4nRopPxBAAM5', 'room1' ]
+[2020-11-12 16:34:42.562] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxbxAg' }
+[2020-11-12 16:34:42.562] [INFO] - [ 'FxFfiZT1S2B_ukFmAAM6', 'room1' ]
+[2020-11-12 16:34:49.411] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxby7u' }
+[2020-11-12 16:34:49.411] [INFO] - [ 'Wvw0yB4PY1G9k5aHAAM7', 'room1' ]
+[2020-11-12 16:35:13.198] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxc2fQ' }
+[2020-11-12 16:35:13.198] [INFO] - [ 'f90K94LGAXiMZJg9AAM8', 'room1' ]
+[2020-11-12 16:36:11.341] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxcGLm' }
+[2020-11-12 16:36:11.341] [INFO] - [ '6UscWtqu7sQDrPLNAAM9', 'room1' ]
+[2020-11-12 16:36:18.593] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxcIdm' }
+[2020-11-12 16:36:18.593] [INFO] - [ 'CXS1nq6fQSz958KxAAM-', 'room1' ]
+[2020-11-12 16:36:24.005] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxcJRP' }
+[2020-11-12 16:36:24.006] [INFO] - [ 'qLfOpGN-rPFHqZ5NAAM_', 'room1' ]
+[2020-11-12 16:36:28.046] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxcKxc' }
+[2020-11-12 16:36:28.046] [INFO] - [ 'IGSuRuo31_-F31yHAANA', 'room1' ]
+[2020-11-12 16:36:29.944] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxcKtt' }
+[2020-11-12 16:36:29.944] [INFO] - [ 'hi3ac4dt2DxNso-bAANB', 'room1' ]
+[2020-11-12 16:36:31.063] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxcKyD' }
+[2020-11-12 16:36:31.063] [INFO] - [ 'NSHoN-SrlisSlfa5AANC', 'room1' ]
+[2020-11-12 16:37:52.082] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxcext' }
+[2020-11-12 16:37:52.082] [INFO] - [ 'I4ME9eqfNm7rPMf5AAND', 'room1' ]
+[2020-11-12 16:38:24.281] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxcmp1' }
+[2020-11-12 16:38:24.281] [INFO] - [ '0N23n5V_KSGy6v3wAANE', 'room1' ]
+[2020-11-12 16:39:23.219] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxc_Bx' }
+[2020-11-12 16:39:23.219] [INFO] - [ 'w-SzKtQsfhG2wtikAANF', 'room1' ]
+[2020-11-12 16:40:07.201] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxd9xA' }
+[2020-11-12 16:40:07.201] [INFO] - [ 'CErg1tG0YVXakE79AANG', 'room1' ]
+[2020-11-12 16:40:20.050] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxdDa5' }
+[2020-11-12 16:40:20.051] [INFO] - [ '-KgWbc0l1hfbFBg1AANH', 'room1' ]
+[2020-11-12 16:40:39.150] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxdHkO' }
+[2020-11-12 16:40:39.150] [INFO] - [ 'r-JVIJrgIFZ4Lo3eAANI', 'room1' ]
+[2020-11-12 16:41:18.333] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxdRIb' }
+[2020-11-12 16:41:18.333] [INFO] - [ 'i5upGHiufNjrW9_kAANJ', 'room1' ]
+[2020-11-12 16:41:43.965] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxdXZ8' }
+[2020-11-12 16:41:43.965] [INFO] - [ 'oab3deBFU7jRDaH8AANK', 'room1' ]
+[2020-11-12 16:42:51.628] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxdoCb' }
+[2020-11-12 16:42:51.628] [INFO] - [ 'tv4yy4jyyQv5kxz1AANL', 'room1' ]
+[2020-11-12 16:43:10.693] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxdssX' }
+[2020-11-12 16:43:10.694] [INFO] - [ 'O_Vymv5ZTbvcw0cSAANM', 'room1' ]
+[2020-11-12 16:43:52.741] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxe0_G' }
+[2020-11-12 16:43:52.741] [INFO] - [ 'roc2vh4yUrBWlyGHAANN', 'room1' ]
+[2020-11-12 16:44:50.001] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxeEzu' }
+[2020-11-12 16:44:50.002] [INFO] - [ 'cnCXcTuXbkZXUjvuAANO', 'room1' ]
+[2020-11-12 16:45:20.970] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxeMXA' }
+[2020-11-12 16:45:20.970] [INFO] - [ 'A9F_EA5PMcXB14peAANP', 'room1' ]
+[2020-11-12 17:11:46.057] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxkPep' }
+[2020-11-12 17:11:46.058] [INFO] - [ 'I3TSf07rNxITW-NOAANQ', 'room1' ]
+[2020-11-12 17:58:53.800] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxvCPj' }
+[2020-11-12 17:58:53.800] [INFO] - [ 'rqV1It2ss73RINCZAANR', 'room1' ]
+[2020-11-12 18:01:09.522] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxvj8Q' }
+[2020-11-12 18:01:09.523] [INFO] - [ '0kxHcKuaNKxsqpchAANS', 'room1' ]
+[2020-11-12 18:08:24.091] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMxxNe9' }
+[2020-11-12 18:08:24.091] [INFO] - [ '6RWJeGLLoW3Gxw2rAANT', 'room1' ]
+[2020-11-12 18:51:32.166] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMy5FU_' }
+[2020-11-12 18:51:32.166] [INFO] - [ 'cFbfa7A5lH5AIWH6AANU', 'room1' ]
+[2020-11-12 18:51:36.899] [INFO] - user socket T0FJfZxpZCFfAWMCAAKg
+[2020-11-12 18:51:36.899] [INFO] - user socket CCjEdBUucpsYVLWLAAK9
+[2020-11-12 18:51:36.899] [INFO] - user socket zLkOih3GxCxe2_rJAAM2
+[2020-11-12 18:51:36.899] [INFO] - user socket K9Wnk0jFGauXxxg2AAM4
+[2020-11-12 18:51:36.899] [INFO] - user socket I3TSf07rNxITW-NOAANQ
+[2020-11-12 18:51:36.899] [INFO] - user socket 0kxHcKuaNKxsqpchAANS
+[2020-11-12 18:51:36.899] [INFO] - user socket cFbfa7A5lH5AIWH6AANU
+[2020-11-12 18:51:36.899] [INFO] - users [ { _id: '27dc0b46a66d4e43aa234ff14e8ecd14',
+    id: 'T0FJfZxpZCFfAWMCAAKg',
+    uid: '11110.28769716925883415',
+    username: '张信哲13',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0,
+    recommend: 0 } ]
+[2020-11-12 18:51:38.455] [INFO] - user socket T0FJfZxpZCFfAWMCAAKg
+[2020-11-12 18:51:38.456] [INFO] - user socket CCjEdBUucpsYVLWLAAK9
+[2020-11-12 18:51:38.456] [INFO] - user socket zLkOih3GxCxe2_rJAAM2
+[2020-11-12 18:51:38.456] [INFO] - user socket K9Wnk0jFGauXxxg2AAM4
+[2020-11-12 18:51:38.456] [INFO] - user socket I3TSf07rNxITW-NOAANQ
+[2020-11-12 18:51:38.456] [INFO] - user socket 0kxHcKuaNKxsqpchAANS
+[2020-11-12 18:51:38.456] [INFO] - user socket cFbfa7A5lH5AIWH6AANU
+[2020-11-12 18:51:38.456] [INFO] - users [ { _id: 'b6de227419d24c628407cd62c0fe8941',
+    id: 'T0FJfZxpZCFfAWMCAAKg',
+    uid: '11110.28769716925883415',
+    username: '张信哲13',
+    role: '0',
+    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+    status: 0,
+    recommend: 0 } ]
+[2020-11-12 18:55:30.051] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMy69Wb' }
+[2020-11-12 18:55:30.052] [INFO] - [ 'ONF__k-O-MQBB3PrAANV', 'room1' ]
+[2020-11-12 19:17:18.754] [INFO] - query { rid: 'room1',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyB93y' }
+[2020-11-12 19:17:18.755] [INFO] - [ 'pO2UET_xoLx5FKsgAANW', 'room1' ]
+[2020-11-12 19:18:54.096] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyBVtD' }
+[2020-11-12 19:18:54.096] [INFO] - [ 'm9KdZERZtCp_FxlfAANX', 'room1' ]
+[2020-11-12 19:19:45.219] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyBiqO' }
+[2020-11-12 19:19:45.220] [INFO] - [ 'DIYV3D_1Yc7MSo7XAANY', 'room1' ]
+[2020-11-12 19:20:42.959] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyBwSG' }
+[2020-11-12 19:20:42.960] [INFO] - [ 'dTcetOpwYbkFoTa-AANZ', 'room1' ]
+[2020-11-12 19:25:38.233] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyD2Xn' }
+[2020-11-12 19:25:38.234] [INFO] - [ '8SU7B9yMvY5Y3BSRAANa', 'room1' ]
+[2020-11-12 19:29:08.031] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyDsDX' }
+[2020-11-12 19:29:08.031] [INFO] - [ 'PYgnSLvltO1hlAgFAANb', 'room1' ]
+[2020-11-12 19:29:25.037] [INFO] - query { rid: 'room1',
+  uid: '52dffcf9fb9e4ab78827f9e93d9818c7',
+  username: '蓝胖子仇',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyDwNh' }
+[2020-11-12 19:29:25.037] [INFO] - [ 'SOU0wdA7EUV8rlfmAANc', 'room1' ]
+[2020-11-12 19:34:51.567] [INFO] - query { rid: 'room1',
+  uid: 'b1a61e26777b42afba8d6bf5aa2d56f4',
+  username: 'zcx',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyF9l3' }
+[2020-11-12 19:34:51.568] [INFO] - [ 'CuZfCtySmVVzDDmbAANd', 'room1' ]
+[2020-11-12 19:37:14.786] [INFO] - query { rid: 'room1',
+  uid: 'b1a61e26777b42afba8d6bf5aa2d56f4',
+  username: 'zcx',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyFiiy' }
+[2020-11-12 19:37:14.786] [INFO] - [ '9S-mAC4TaDXqFuGcAANe', 'room1' ]
+[2020-11-12 19:45:22.442] [INFO] - query { rid: 'room1',
+  uid: 'b1a61e26777b42afba8d6bf5aa2d56f4',
+  username: 'zcx',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyHZmZ' }
+[2020-11-12 19:45:22.442] [INFO] - [ 'lzQNXLxzJaHSv-DaAANf', 'room1' ]
+[2020-11-12 20:08:36.288] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyMuba' }
+[2020-11-12 20:08:36.289] [INFO] - [ '3dCZdsUskZcB06h_AANg', 'room1' ]
+[2020-11-12 20:08:55.023] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyMyXM' }
+[2020-11-12 20:08:55.023] [INFO] - [ '7RR4T9kP_Ixbv8SRAANh', 'room1' ]
+[2020-11-12 20:09:33.861] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyN6dx' }
+[2020-11-12 20:09:33.861] [INFO] - [ '8CbvnsCNNryZ6jr-AANi', 'room1' ]
+[2020-11-12 20:10:05.674] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyNEOc' }
+[2020-11-12 20:10:05.674] [INFO] - [ 'LaHrLBU4H8grUhFeAANj', 'room1' ]
+[2020-11-12 20:10:48.038] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyNOg_' }
+[2020-11-12 20:10:48.038] [INFO] - [ 'F8FpDXNk_yLYEgaBAANk', 'room1' ]
+[2020-11-12 20:11:23.174] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyNXEA' }
+[2020-11-12 20:11:23.174] [INFO] - [ 'le2E44bqlCYSNdTdAANl', 'room1' ]
+[2020-11-12 20:12:44.771] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyNrF9' }
+[2020-11-12 20:12:44.771] [INFO] - [ '6GJOlmLaFUypqsLcAANm', 'room1' ]
+[2020-11-12 20:13:35.358] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyO1iF' }
+[2020-11-12 20:13:35.358] [INFO] - [ 'BldjMCfa-KYc-ETAAANn', 'room1' ]
+[2020-11-12 20:14:43.130] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyOI2q' }
+[2020-11-12 20:14:43.131] [INFO] - [ 'tI8U-FHpraNiJnatAANo', 'room1' ]
+[2020-11-12 20:15:14.354] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyOPmM' }
+[2020-11-12 20:15:14.354] [INFO] - [ 'GTZDZ2FIJbFCste7AANp', 'room1' ]
+[2020-11-12 20:15:45.860] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyOXNa' }
+[2020-11-12 20:15:45.860] [INFO] - [ '8ve3RyOcHZn4LipoAANq', 'room1' ]
+[2020-11-12 20:17:13.649] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyOfTa' }
+[2020-11-12 20:17:13.649] [INFO] - [ 'Vf6BJhtdoHacl_ojAANr', 'room1' ]
+[2020-11-12 20:17:20.319] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyOtuj' }
+[2020-11-12 20:17:20.319] [INFO] - [ 'sDJD8c9vvJyX9vHIAANs', 'room1' ]
+[2020-11-12 20:17:47.049] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyO_1O' }
+[2020-11-12 20:17:47.049] [INFO] - [ '5Ipd51qClSzRIMvsAANt', 'room1' ]
+[2020-11-12 20:18:39.544] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyPBwD' }
+[2020-11-12 20:18:39.545] [INFO] - [ 'DpGAdEC8ljVeJ5CkAANu', 'room1' ]
+[2020-11-12 20:19:11.725] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyPJqV' }
+[2020-11-12 20:19:11.725] [INFO] - [ 'PcUQw2q8rqSiJ3BqAANv', 'room1' ]
+[2020-11-12 20:19:43.850] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyPQxX' }
+[2020-11-12 20:19:43.850] [INFO] - [ 'a0MjgB1ar_zKnOMzAANw', 'room1' ]
+[2020-11-12 20:19:43.860] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyPRh7' }
+[2020-11-12 20:19:43.860] [INFO] - [ 'n5TwXIYQKDh03mOfAANx', 'room1' ]
+[2020-11-12 20:20:16.025] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyPZTu' }
+[2020-11-12 20:20:16.025] [INFO] - [ 'JppQkxJXC4F_Eg9SAANy', 'room1' ]
+[2020-11-12 20:22:48.594] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyQ8jd' }
+[2020-11-12 20:22:48.594] [INFO] - [ 'B3_POUipMCB892AlAANz', 'room1' ]
+[2020-11-12 20:23:21.058] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyQGbQ' }
+[2020-11-12 20:23:21.059] [INFO] - [ 'M7yaimBTuidla8xvAAN0', 'room1' ]
+[2020-11-12 20:23:52.786] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyQONd' }
+[2020-11-12 20:23:52.787] [INFO] - [ '65IJFwQ69VOb35JVAAN1', 'room1' ]
+[2020-11-12 20:24:17.624] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyQTnA' }
+[2020-11-12 20:24:17.624] [INFO] - [ '1Mf8nvAn-cbM9D8yAAN2', 'room1' ]
+[2020-11-12 20:26:31.531] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyQ_98' }
+[2020-11-12 20:26:31.531] [INFO] - [ 'YQavIO7meXkg28nFAAN3', 'room1' ]
+[2020-11-12 20:27:03.684] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyR71p' }
+[2020-11-12 20:27:03.684] [INFO] - [ '5aK-F7zbsNAloHLQAAN4', 'room1' ]
+[2020-11-12 20:27:26.789] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyRBz3' }
+[2020-11-12 20:27:26.789] [INFO] - [ 'AhlABKPCiAN55HVWAAN5', 'room1' ]
+[2020-11-12 20:27:35.409] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyREml' }
+[2020-11-12 20:27:35.410] [INFO] - [ 'PtPyParXPDdYaQw-AAN6', 'room1' ]
+[2020-11-12 20:28:07.513] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyRMZn' }
+[2020-11-12 20:28:07.513] [INFO] - [ '13hkL77IG9ZZMYmFAAN7', 'room1' ]
+[2020-11-12 20:28:11.901] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyRMzx' }
+[2020-11-12 20:28:11.901] [INFO] - [ '8bKOSv-Ybmo6CCR7AAN8', 'room1' ]
+[2020-11-12 20:28:39.586] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyRUHJ' }
+[2020-11-12 20:28:39.586] [INFO] - [ 'Cd1zgLGQVGLphV2AAAN9', 'room1' ]
+[2020-11-12 20:29:09.354] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyRa_j' }
+[2020-11-12 20:29:09.355] [INFO] - [ '4cbNYzS_pYoqGMhtAAN-', 'room1' ]
+[2020-11-12 20:29:38.530] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyRip6' }
+[2020-11-12 20:29:38.530] [INFO] - [ 'mO-Ta4MfKSegTHHfAAN_', 'room1' ]
+[2020-11-12 20:30:09.934] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyRqW7' }
+[2020-11-12 20:30:09.935] [INFO] - [ 'af5GwNEWeCnQp6kOAAOA', 'room1' ]
+[2020-11-12 20:30:15.832] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyRrEJ' }
+[2020-11-12 20:30:15.833] [INFO] - [ 'v59fF3Aws6bk_V97AAOB', 'room1' ]
+[2020-11-12 20:30:43.015] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyRyTz' }
+[2020-11-12 20:30:43.015] [INFO] - [ 'P9NSKSAuWyqVBTPHAAOC', 'room1' ]
+[2020-11-12 20:31:11.144] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyS2kB' }
+[2020-11-12 20:31:11.144] [INFO] - [ 'Lk21IM_jLAdjlp8NAAOD', 'room1' ]
+[2020-11-12 20:31:14.696] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyS4Ar' }
+[2020-11-12 20:31:14.696] [INFO] - [ 'ZcVyNrKtp-OlXDzwAAOE', 'room1' ]
+[2020-11-12 20:31:47.012] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMySCDU' }
+[2020-11-12 20:31:47.012] [INFO] - [ '43BJVqDg47mmzIG_AAOF', 'room1' ]
+[2020-11-12 20:31:51.639] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMySCdO' }
+[2020-11-12 20:31:51.639] [INFO] - [ 'mwIdj_YGMsD6BVqmAAOG', 'room1' ]
+[2020-11-12 20:32:19.482] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMySJxc' }
+[2020-11-12 20:32:19.482] [INFO] - [ 'U-kG9KSouN8ZbJXoAAOH', 'room1' ]
+[2020-11-12 20:32:42.376] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMySP09' }
+[2020-11-12 20:32:42.376] [INFO] - [ 'DnJ6yfjTkYVfC-flAAOI', 'room1' ]
+[2020-11-12 20:32:50.793] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMySRbc' }
+[2020-11-12 20:32:50.793] [INFO] - [ 'T7gzCJxnwzXXPirxAAOJ', 'room1' ]
+[2020-11-12 20:33:17.239] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMySXWr' }
+[2020-11-12 20:33:17.239] [INFO] - [ 'QBkjH5ID7nDM48SdAAOK', 'room1' ]
+[2020-11-12 20:33:21.995] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMySZFD' }
+[2020-11-12 20:33:21.995] [INFO] - [ 'XoXUK3lTiDNnB4ZCAAOL', 'room1' ]
+[2020-11-12 20:35:08.960] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMySzMx' }
+[2020-11-12 20:35:08.960] [INFO] - [ 'oFaq8O2qNKYxz-8xAAOM', 'room1' ]
+[2020-11-12 20:35:41.123] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyT5BH' }
+[2020-11-12 20:35:41.123] [INFO] - [ 'joxZ0mhq0AJma54AAAON', 'room1' ]
+[2020-11-12 20:36:33.900] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyTHXo' }
+[2020-11-12 20:36:33.900] [INFO] - [ 'Sf3IVYznc_FkpANjAAOO', 'room1' ]
+[2020-11-12 20:37:05.406] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyTPxB' }
+[2020-11-12 20:37:05.406] [INFO] - [ '_SRfCgaZ7etCJuCUAAOP', 'room1' ]
+[2020-11-12 20:37:17.380] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyTS9E' }
+[2020-11-12 20:37:17.381] [INFO] - [ '3UKLKgx4PfMnRxjqAAOQ', 'room1' ]
+[2020-11-12 20:37:37.197] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyTXWv' }
+[2020-11-12 20:37:37.198] [INFO] - [ 'uBBfm1fvBOOT-s3YAAOR', 'room1' ]
+[2020-11-12 20:38:39.539] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyTmuH' }
+[2020-11-12 20:38:39.539] [INFO] - [ 'JB6x95_3w4UlX7PQAAOS', 'room1' ]
+[2020-11-12 20:39:11.063] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyTuf6' }
+[2020-11-12 20:39:11.064] [INFO] - [ 'qFO-EM9R294ePlmpAAOT', 'room1' ]
+[2020-11-12 20:41:32.531] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyUR7C' }
+[2020-11-12 20:41:32.531] [INFO] - [ '4rhSfWLPdPHhnIuVAAOU', 'room1' ]
+[2020-11-12 20:41:37.035] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyURYO' }
+[2020-11-12 20:41:37.036] [INFO] - [ 'X8OElTW3-XEK2qN1AAOV', 'room1' ]
+[2020-11-12 20:42:04.288] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyUYlP' }
+[2020-11-12 20:42:04.288] [INFO] - [ '6o93NsDb3yabwNoEAAOW', 'room1' ]
+[2020-11-12 20:43:04.949] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyUnaj' }
+[2020-11-12 20:43:04.950] [INFO] - [ '6uNidxSzepSfz_P7AAOX', 'room1' ]
+[2020-11-12 20:43:36.473] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyUvLa' }
+[2020-11-12 20:43:36.473] [INFO] - [ 'Tl6mPSWfMEzqmx_sAAOY', 'room1' ]
+[2020-11-12 20:44:08.944] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyV19o' }
+[2020-11-12 20:44:08.944] [INFO] - [ 'T7dk8xtOKxPgH5roAAOZ', 'room1' ]
+[2020-11-12 20:44:38.979] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyV7zH' }
+[2020-11-12 20:44:38.979] [INFO] - [ 'QGZGVxiRAgjQDWomAAOa', 'room1' ]
+[2020-11-12 20:44:41.203] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyV95n' }
+[2020-11-12 20:44:41.203] [INFO] - [ '0yobnZQvmgg6HXGXAAOb', 'room1' ]
+[2020-11-12 20:45:56.622] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyVRa5' }
+[2020-11-12 20:45:56.622] [INFO] - [ 'GLGq-t8JvHEQ-vwWAAOc', 'room1' ]
+[2020-11-12 20:46:28.800] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyVZO0' }
+[2020-11-12 20:46:28.800] [INFO] - [ 'Fy1cVZm1Zs-LKLpAAAOd', 'room1' ]
+[2020-11-12 20:47:32.529] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyVp0D' }
+[2020-11-12 20:47:32.529] [INFO] - [ 'WGqRdZkU2WBIsBr3AAOe', 'room1' ]
+[2020-11-12 20:47:36.676] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyVpLl' }
+[2020-11-12 20:47:36.676] [INFO] - [ '2ECKdlIgwnBBTwbAAAOf', 'room1' ]
+[2020-11-12 20:47:56.891] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyVuHg' }
+[2020-11-12 20:47:56.891] [INFO] - [ 'jcihSys9QO5bKDUrAAOg', 'room1' ]
+[2020-11-12 20:48:04.061] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyVwaz' }
+[2020-11-12 20:48:04.062] [INFO] - [ 'jUysMXRGZa2inMxBAAOh', 'room1' ]
+[2020-11-12 20:48:36.480] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyW2fW' }
+[2020-11-12 20:48:36.480] [INFO] - [ 'pXT_fGQ6zpYwoHC7AAOi', 'room1' ]
+[2020-11-12 20:48:41.714] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyW3E1' }
+[2020-11-12 20:48:41.714] [INFO] - [ 'wSXdxueWfPgXj3uxAAOj', 'room1' ]
+[2020-11-12 20:49:08.225] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyWAQ1' }
+[2020-11-12 20:49:08.226] [INFO] - [ 'C7qJOAuL_732pvYgAAOk', 'room1' ]
+[2020-11-12 20:49:47.608] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyWJzx' }
+[2020-11-12 20:49:47.608] [INFO] - [ '_kuYmL9C-b1w73LiAAOl', 'room1' ]
+[2020-11-12 20:49:53.205] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyWLLf' }
+[2020-11-12 20:49:53.205] [INFO] - [ 'd0kuMSbAUuvWKGm1AAOm', 'room1' ]
+[2020-11-12 20:50:50.059] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyWZHM' }
+[2020-11-12 20:50:50.059] [INFO] - [ 'kiIcPtlbmD2grAyMAAOn', 'room1' ]
+[2020-11-12 20:51:24.457] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyWhf8' }
+[2020-11-12 20:51:24.457] [INFO] - [ 'qtubuEnGUyUliI1dAAOo', 'room1' ]
+[2020-11-12 20:52:44.726] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyW-ZC' }
+[2020-11-12 20:52:44.726] [INFO] - [ 'Q8abVLAupzX6B9seAAOp', 'room1' ]
+[2020-11-12 20:53:39.640] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyXCdo' }
+[2020-11-12 20:53:39.640] [INFO] - [ 'erjRis6Ilfpz9C1-AAOq', 'room1' ]
+[2020-11-12 20:54:11.638] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyXKN4' }
+[2020-11-12 20:54:11.638] [INFO] - [ '03-4aRIJPLm0JKtVAAOr', 'room1' ]
+[2020-11-12 20:54:26.109] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyXNJG' }
+[2020-11-12 20:54:26.109] [INFO] - [ '9yhLStDt747rL77SAAOs', 'room1' ]
+[2020-11-12 20:54:44.433] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyXSK-' }
+[2020-11-12 20:54:44.434] [INFO] - [ 'mtOHj6huLu4mf2wcAAOt', 'room1' ]
+[2020-11-12 20:55:33.592] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyXeSt' }
+[2020-11-12 20:55:33.593] [INFO] - [ 'qvxqh8tpnwqbLSIlAAOu', 'room1' ]
+[2020-11-12 20:55:49.062] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyXhZ7' }
+[2020-11-12 20:55:49.062] [INFO] - [ '1F0v3tJ2saSA706oAAOv', 'room1' ]
+[2020-11-12 20:56:05.514] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyXmGz' }
+[2020-11-12 20:56:05.514] [INFO] - [ 'pUKhBdXkWg5kKB3YAAOw', 'room1' ]
+[2020-11-12 20:56:37.161] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyXtrS' }
+[2020-11-12 20:56:37.162] [INFO] - [ 'fX6to3Wwg4WoEWo3AAOx', 'room1' ]
+[2020-11-12 20:57:08.716] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyX_cV' }
+[2020-11-12 20:57:08.716] [INFO] - [ 'hcONML6FMYSAXC_MAAOy', 'room1' ]
+[2020-11-12 20:57:12.197] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyX_sX' }
+[2020-11-12 20:57:12.198] [INFO] - [ 'vwO0xoyM41kEYO8cAAOz', 'room1' ]
+[2020-11-12 20:57:40.559] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyY7TL' }
+[2020-11-12 20:57:40.559] [INFO] - [ 'FKk_pehtvb6OgfIWAAO0', 'room1' ]
+[2020-11-12 20:58:13.255] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyYFRC' }
+[2020-11-12 20:58:13.255] [INFO] - [ 'Q663ELWXdJfS60wbAAO1', 'room1' ]
+[2020-11-12 20:58:44.917] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyYM_A' }
+[2020-11-12 20:58:44.917] [INFO] - [ '_NZQ9dXOwsDHVVW7AAO2', 'room1' ]
+[2020-11-12 20:59:10.396] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyYSjB' }
+[2020-11-12 20:59:10.396] [INFO] - [ 'CtUYCuIWDGGzMzZSAAO3', 'room1' ]
+[2020-11-12 20:59:17.933] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyYVCA' }
+[2020-11-12 20:59:17.933] [INFO] - [ 'L76q-u-ip0E4j4qaAAO4', 'room1' ]
+[2020-11-12 20:59:49.973] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyYd34' }
+[2020-11-12 20:59:49.973] [INFO] - [ 'FpqL_eLt86jANaC4AAO5', 'room1' ]
+[2020-11-12 20:59:59.615] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyYekR' }
+[2020-11-12 20:59:59.616] [INFO] - [ 'UGBxIYpgvvwjhlkTAAO6', 'room1' ]
+[2020-11-12 21:00:22.405] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyYk_O' }
+[2020-11-12 21:00:22.406] [INFO] - [ 'jZk_4ArPADKI6NaZAAO7', 'room1' ]
+[2020-11-12 21:00:23.519] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyYkZt' }
+[2020-11-12 21:00:23.520] [INFO] - [ 'XA0jCH2ff9It2yOMAAO8', 'room1' ]
+[2020-11-12 21:01:42.478] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZ1rg' }
+[2020-11-12 21:01:42.478] [INFO] - [ '0kKs9NWoBJQZfV9oAAO9', 'room1' ]
+[2020-11-12 21:02:12.736] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZ9EQ' }
+[2020-11-12 21:02:12.737] [INFO] - [ 'NJHlJiyClX5CzVDJAAO-', 'room1' ]
+[2020-11-12 21:02:25.537] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZD1X' }
+[2020-11-12 21:02:25.537] [INFO] - [ 'gDOuQ_zmmPIoduQ6AAO_', 'room1' ]
+[2020-11-12 21:02:45.027] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZH5L' }
+[2020-11-12 21:02:45.027] [INFO] - [ 'DZuIeKiPtbiUqdkQAAPA', 'room1' ]
+[2020-11-12 21:02:53.857] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZJ-J' }
+[2020-11-12 21:02:53.858] [INFO] - [ 'ro75PBIStaNLVonYAAPB', 'room1' ]
+[2020-11-12 21:03:05.876] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZMwM' }
+[2020-11-12 21:03:05.876] [INFO] - [ '5WgCFwaADrrRE9fMAAPC', 'room1' ]
+[2020-11-12 21:03:18.218] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZPx8' }
+[2020-11-12 21:03:18.219] [INFO] - [ 'NufwWDH7PcUn1HWEAAPD', 'room1' ]
+[2020-11-12 21:03:33.256] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZSuc' }
+[2020-11-12 21:03:33.256] [INFO] - [ 'lcCmACxk0tzHwb0MAAPE', 'room1' ]
+[2020-11-12 21:03:58.170] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZZY4' }
+[2020-11-12 21:03:58.170] [INFO] - [ 'Je_FCdgycbq-z1B1AAPF', 'room1' ]
+[2020-11-12 21:04:04.573] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZb6F' }
+[2020-11-12 21:04:04.573] [INFO] - [ 'DOGZdcqIJowf8zJjAAPG', 'room1' ]
+[2020-11-12 21:04:22.201] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZfPY' }
+[2020-11-12 21:04:22.201] [INFO] - [ 'jilDnbvMML-1ghUyAAPH', 'room1' ]
+[2020-11-12 21:04:31.111] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZhai' }
+[2020-11-12 21:04:31.112] [INFO] - [ 'mkK-npg8kpQ8WnCBAAPI', 'room1' ]
+[2020-11-12 21:04:38.262] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZjKK' }
+[2020-11-12 21:04:38.263] [INFO] - [ '1QMAinARdtT238nHAAPJ', 'room1' ]
+[2020-11-12 21:04:47.711] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZle6' }
+[2020-11-12 21:04:47.711] [INFO] - [ 'EBJPNje-iHd3XgnvAAPK', 'room1' ]
+[2020-11-12 21:05:11.482] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZrRK' }
+[2020-11-12 21:05:11.482] [INFO] - [ '2xeV4j3v2aOU4dl-AAPL', 'room1' ]
+[2020-11-12 21:05:25.047] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZuB0' }
+[2020-11-12 21:05:25.047] [INFO] - [ 'TpTCizyJOaHJQgMxAAPM', 'room1' ]
+[2020-11-12 21:05:38.427] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyZy04' }
+[2020-11-12 21:05:38.427] [INFO] - [ 'hWGBxPd0ZyowHMK_AAPN', 'room1' ]
+[2020-11-12 21:06:10.294] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMya3xK' }
+[2020-11-12 21:06:10.294] [INFO] - [ 'jptl-gwnXcqw78QgAAPO', 'room1' ]
+[2020-11-12 21:07:33.141] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyaO45' }
+[2020-11-12 21:07:33.141] [INFO] - [ 'WH5kQQRV9iK6t9pjAAPP', 'room1' ]
+[2020-11-12 21:07:42.307] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyaQL8' }
+[2020-11-12 21:07:42.307] [INFO] - [ 'fbfq6oDhm49JbbS7AAPQ', 'room1' ]
+[2020-11-12 21:08:48.132] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyafmd' }
+[2020-11-12 21:08:48.133] [INFO] - [ 'GXe3mhy4D3pMoxIeAAPR', 'room1' ]
+[2020-11-12 21:08:54.810] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyai1t' }
+[2020-11-12 21:08:54.811] [INFO] - [ 'FaBbFOCxcrroR7hVAAPS', 'room1' ]
+[2020-11-12 21:09:32.076] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyar6H' }
+[2020-11-12 21:09:32.077] [INFO] - [ 'qKHhKy5NpIU9D1uzAAPT', 'room1' ]
+[2020-11-12 21:11:32.553] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMybIah' }
+[2020-11-12 21:11:32.553] [INFO] - [ 'dWqgQSHJM86QCd_0AAPU', 'room1' ]
+[2020-11-12 21:11:37.702] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMybJr0' }
+[2020-11-12 21:11:37.702] [INFO] - [ 'fTuOEIF8iBFeXQkSAAPV', 'room1' ]
+[2020-11-12 21:11:42.723] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMybL41' }
+[2020-11-12 21:11:42.723] [INFO] - [ 'iK6aP_rGElbjcPyTAAPW', 'room1' ]
+[2020-11-12 21:12:43.216] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMybZf_' }
+[2020-11-12 21:12:43.217] [INFO] - [ 'YuJFWIFIxCAsS3NVAAPX', 'room1' ]
+[2020-11-12 21:13:24.959] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMybjM6' }
+[2020-11-12 21:13:24.959] [INFO] - [ 'f1zWGgDu7HutB7f8AAPY', 'room1' ]
+[2020-11-12 21:13:25.817] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMybjZW' }
+[2020-11-12 21:13:25.817] [INFO] - [ 'YcUu8piHwTDZFIfbAAPZ', 'room1' ]
+[2020-11-12 21:13:38.528] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMybnL2' }
+[2020-11-12 21:13:38.528] [INFO] - [ 'Zwd_g_FEQ3r3MGshAAPa', 'room1' ]
+[2020-11-12 21:14:10.878] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMybv5y' }
+[2020-11-12 21:14:10.880] [INFO] - [ '_dSnIjITyv2j29QzAAPb', 'room1' ]
+[2020-11-12 21:14:55.038] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyc3LU' }
+[2020-11-12 21:14:55.038] [INFO] - [ 'nQJ9oBfzuIyf5_wiAAPc', 'room1' ]
+[2020-11-12 21:15:38.043] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMycEOW' }
+[2020-11-12 21:15:38.043] [INFO] - [ 'nhVUECKPIS3Iz9s8AAPd', 'room1' ]
+[2020-11-12 21:15:43.124] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMycF51' }
+[2020-11-12 21:15:43.124] [INFO] - [ 'R8VoR4C7ljM5AE8DAAPe', 'room1' ]
+[2020-11-12 21:15:47.624] [INFO] - query { rid: 'room1',
+  uid: 'bbfa9a9f4af24f30bd176cee843e0455',
+  username: 'xiaogao',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMycGBT' }
+[2020-11-12 21:15:47.624] [INFO] - [ 'lTZl-OD4TM1WWHeeAAPf', 'room1' ]
+[2020-11-12 21:15:57.283] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMycJGo' }
+[2020-11-12 21:15:57.283] [INFO] - [ 'UWNcoV86cBXJawdSAAPg', 'room1' ]
+[2020-11-12 21:18:11.972] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMycq65' }
+[2020-11-12 21:18:11.973] [INFO] - [ 'DByxOAo4PNRculroAAPh', 'room1' ]
+[2020-11-12 21:18:24.773] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyctE6' }
+[2020-11-12 21:18:24.773] [INFO] - [ 'C2M9qgGSdegylFA0AAPi', 'room1' ]
+[2020-11-12 21:21:28.759] [INFO] - query { rid: 'room1',
+  uid: '16b9ba781f0340bfa254633accbc1025',
+  username: 'a123456',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyda4A' }
+[2020-11-12 21:21:28.759] [INFO] - [ 'NZhfQm0rTIgW_QR7AAPj', 'room1' ]
+[2020-11-12 22:01:10.241] [INFO] - query { rid: 'room1',
+  uid: 'b1a61e26777b42afba8d6bf5aa2d56f4',
+  username: 'zcx',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NMyme-g' }
+[2020-11-12 22:01:10.242] [INFO] - [ 'XPUlQT6LXaigVV4OAAPk', 'room1' ]

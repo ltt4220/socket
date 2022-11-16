@@ -1,0 +1,290 @@
+[2021-05-08 00:25:39.287] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/ 200 0ms
+[2021-05-08 01:11:44.139] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 01:17:20.317] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 01:19:45.990] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-08 02:51:37.982] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 03:47:39.742] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 04:07:30.224] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-08 04:45:41.247] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 07:39:49.062] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 08:06:18.655] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 08:33:10.428] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 08:34:56.797] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-05-08 09:33:50.002] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 10:39:26.771] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-08 11:11:36.630] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 200 0ms
+[2021-05-08 11:19:12.009] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 200 0ms
+[2021-05-08 11:35:23.933] [INFO] - query { rid: '2723ae97485c421485c756be93de023b',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbA2qTV' }
+[2021-05-08 11:35:23.934] [INFO] - [ 'ZSXJs_soVNVTldbJAFE3', '2723ae97485c421485c756be93de023b' ]
+[2021-05-08 12:28:27.787] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-08 12:37:39.917] [INFO] - [47.92.146.203] GET http://47.100.89.2:8250/ 200 0ms
+[2021-05-08 12:40:00.502] [INFO] - [47.101.145.173] GET http://47.100.89.2:8250/ 200 1ms
+[2021-05-08 12:43:58.376] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 12:45:43.469] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-08 13:11:28.790] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 13:12:03.681] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 13:12:29.877] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/robots.txt 200 0ms
+[2021-05-08 13:12:31.288] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/sitemap.xml 200 1ms
+[2021-05-08 13:12:33.235] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/.well-known/security.txt 200 0ms
+[2021-05-08 13:12:37.435] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-05-08 13:12:45.511] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-08 13:24:20.728] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f 200 0ms
+[2021-05-08 13:25:27.712] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f 200 0ms
+[2021-05-08 13:25:54.051] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 13:30:07.788] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 13:32:38.369] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-08 13:40:44.463] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 13:45:28.532] [INFO] - query { rid: '2723ae97485c421485c756be93de023b',
+  uid: '5f5f92841b884fbebaff069d30f431a9',
+  username: 'level0001',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAWbxK' }
+[2021-05-08 13:45:28.532] [INFO] - [ 'Y98AyfYyAAtVy8pCAFE4', '2723ae97485c421485c756be93de023b' ]
+[2021-05-08 14:02:16.313] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAaRor' }
+[2021-05-08 14:02:16.313] [INFO] - [ 'ZtMXcVjXlPebm42cAFE5', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:02:45.993] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAaZ2g' }
+[2021-05-08 14:02:45.994] [INFO] - [ 'YpFVSqZ49gMS0k_DAFE6', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:02:51.463] [INFO] - gift { role: 0,
+  _id: 'YpFVSqZ49gMS0k_DAFE6',
+  msg: '666',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/666.gif' }
+[2021-05-08 14:07:31.998] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAbe_b' }
+[2021-05-08 14:07:31.999] [INFO] - [ 'MrT7SN_UeFbplUcdAFE7', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:07:36.975] [INFO] - gift { role: 0,
+  _id: 'MrT7SN_UeFbplUcdAFE7',
+  msg: '爱心',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/爱心.gif' }
+[2021-05-08 14:07:53.012] [INFO] - [127.0.0.1] HEAD http://127.0.0.1:8250/ undefined 200 0ms
+[2021-05-08 14:07:53.057] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 14:07:53.104] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 14:07:55.237] [INFO] - msg { role: 0,
+  username: 'LanCcccc',
+  _id: 'MrT7SN_UeFbplUcdAFE7',
+  msg: '就像难道你的吧大奖等你' }
+[2021-05-08 14:07:57.181] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/favicon.ico 200 0ms
+[2021-05-08 14:08:14.804] [INFO] - gift { role: 0,
+  _id: 'MrT7SN_UeFbplUcdAFE7',
+  msg: '春联',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/春联.gif' }
+[2021-05-08 14:08:20.791] [INFO] - gift { role: 0,
+  _id: 'MrT7SN_UeFbplUcdAFE7',
+  msg: '气球',
+  num: 10,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/气球.gif' }
+[2021-05-08 14:09:19.402] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAc3Ds' }
+[2021-05-08 14:09:19.402] [INFO] - [ 'mTt5m9i9IdQpySFUAFE8', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:11:44.301] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAccb-' }
+[2021-05-08 14:11:44.302] [INFO] - [ 'k4c7KZ-WiiXtYjJ-AFE9', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:11:56.938] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAcfhV' }
+[2021-05-08 14:11:56.938] [INFO] - [ 'FwieDKIROYUtOAShAFE-', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:12:02.547] [INFO] - msg { role: 0,
+  username: 'LanCcccc',
+  _id: 'FwieDKIROYUtOAShAFE-',
+  msg: '不珍惜吧难兄难弟你' }
+[2021-05-08 14:12:08.266] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAciSC' }
+[2021-05-08 14:12:08.267] [INFO] - [ 'UaaDxl0npboAnERRAFE_', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:12:16.484] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAckJy' }
+[2021-05-08 14:12:16.484] [INFO] - [ 'KTS3bcB2bz_QPbXcAFFA', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:13:03.343] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAcvuh' }
+[2021-05-08 14:13:03.344] [INFO] - [ 'Jf4PNU04ArSFvV_kAFFB', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:13:49.416] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAd58K' }
+[2021-05-08 14:13:49.416] [INFO] - [ 'IlrBAt_I3oQYfreMAFFC', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:14:26.404] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAdEAl' }
+[2021-05-08 14:14:26.405] [INFO] - [ 'GC_IBLjDI5iz-xooAFFD', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:15:00.405] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAdMK_' }
+[2021-05-08 14:15:00.405] [INFO] - [ 'zEeI7_v5QOSDVK1FAFFE', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:15:10.626] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAdOqo' }
+[2021-05-08 14:15:10.627] [INFO] - [ 'I5CsmqsxccVkCQvvAFFF', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:17:27.683] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAdwR6' }
+[2021-05-08 14:17:27.683] [INFO] - [ '3lvl71P6fsdUwgphAFFG', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:18:00.102] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAe2Ce' }
+[2021-05-08 14:18:00.102] [INFO] - [ 'vwqKgciirlEohQiHAFFH', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:18:22.464] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAe7g2' }
+[2021-05-08 14:18:22.464] [INFO] - [ '8Kk0t_kmwyhlzfFxAFFI', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:18:41.462] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAeCIr' }
+[2021-05-08 14:18:41.463] [INFO] - [ 'QgaP_609gKWm51ebAFFJ', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:18:45.703] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAeDTv' }
+[2021-05-08 14:18:45.704] [INFO] - [ 'XXXwH4vlRoVc5IrcAFFK', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:22:01.381] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 14:23:16.297] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAfFZ9' }
+[2021-05-08 14:23:16.298] [INFO] - [ 'mjH6rbd4im_40cbMAFFL', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 14:35:30.893] [INFO] - [106.14.201.243] GET http://47.100.89.2:8250/ 200 0ms
+[2021-05-08 14:40:59.392] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 15:22:57.027] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '4498a9c5a6614aaaa5f1fc380ee10359',
+  username: 'LanCcccc',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAsvX6' }
+[2021-05-08 15:22:57.027] [INFO] - [ 'KVh3IHWwyV8AHopAAFFM', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 15:26:30.656] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAtjqu' }
+[2021-05-08 15:26:30.656] [INFO] - [ 'yTGltaI0OyY-aQcvAFFN', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 15:26:43.607] [INFO] - gift { role: 0,
+  _id: 'yTGltaI0OyY-aQcvAFFN',
+  msg: '福字',
+  num: 1,
+  img: 'https://culturecloud-live.oss-cn-shanghai.aliyuncs.com/gift/福字.gif' }
+[2021-05-08 15:27:05.948] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAtsUP' }
+[2021-05-08 15:27:05.948] [INFO] - [ '0L24JbU8StalhKcuAFFO', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 15:27:13.788] [INFO] - query { rid: '570a15c7b1294ffa86527a40d0e346e6',
+  uid: '826a0b7b4749431c9555d3a608b610ea',
+  username: 'fedfd',
+  role: '0',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NbAtuOT' }
+[2021-05-08 15:27:13.789] [INFO] - [ '5lo7etXkCXoB9QjwAFFP', '570a15c7b1294ffa86527a40d0e346e6' ]
+[2021-05-08 15:41:44.118] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 16:07:38.111] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-08 16:07:53.120] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 16:11:29.870] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 16:24:58.177] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 16:31:45.123] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 17:28:41.435] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-08 18:29:32.525] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 18:40:38.322] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/actuator/health 200 0ms
+[2021-05-08 18:43:44.936] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/actuator/health 200 0ms
+[2021-05-08 19:59:23.283] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-08 20:40:32.879] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/ 200 0ms
+[2021-05-08 21:47:41.399] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 23:03:06.336] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 1ms
+[2021-05-08 23:45:37.007] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/ 200 0ms
+[2021-05-08 23:51:34.890] [INFO] - [127.0.0.1] GET http://127.0.0.1:8250/owa/ 200 0ms

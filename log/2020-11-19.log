@@ -1,0 +1,12 @@
+[2020-11-19 10:31:16.459] [INFO] - [47.101.194.208] GET http://47.100.89.2:8250/ 200 1ms
+[2020-11-19 17:22:53.546] [INFO] - query { rid: 'room1',
+  uid: 'admin',
+  username: '管理员',
+  mobile: '',
+  role: '1',
+  avatar: '',
+  EIO: '3',
+  transport: 'polling',
+  t: 'NNVq4c6' }
+[2020-11-19 17:22:53.546] [INFO] - [ 'u10_R_EpIpnMwkt3ABgx', 'room1' ]
+[2020-11-19 18:43:33.161] [INFO] - [101.132.113.110] GET http://47.100.89.2:8250/ 200 1ms
