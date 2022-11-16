@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>console</title>
+    <script type="text/javascript" src="vue.js"></script>
+    <script type="text/javascript" src="socket.io.js"></script>
+    <script type="text/javascript" src="lodash.js"></script>
+    <script type="text/javascript" src="moment.js"></script>
+    <script type="text/javascript" src="co-util.js"></script>
+</head>
+
+<body>
+
+    <div id="app">
+        <div>新用户</div>
+        <div v-for="item in joins">欢迎{{item.username}}</div>
+
+        <div>消息列表</div>
+        <div v-for="item in messages">
+            {{item.username}} 说 {{item.msg}}
+            <a v-if="item.recommend==0" @click="recommend(item)">推荐</a>
+            <a v-if="item.recommend==1" @click="cancelRecommend(item)">取消推荐</a>
+            <a @click="gift()">送礼物</a>
+            <a @click="onClickDelete(item)">删除</a>
+        </div>
+        <textarea v-model="form.msg"></textarea>
+        <button @click="send()">发送消息</button>
+        <p>
+            <button @click="getUsers()">获取所有</button>
+        </p>
+        <p>
+            <button @click="onRemoveMessages">删除所有评论</button>
+        </p>
+        <div v-for="item in users">{{item.username}} <a @click="disablesay(item)">禁止发言</a> <a
+                @click="enablesay(item)">解除禁止</a></div>
+    </div>
+
+    <script>
+
+
+        const app = new Vue({
+            el: '#app',
+            data: {
+                socket: null,
+                form: { msg: '' },
+                joins: [],
+                messages: [],
+                recommends: [],
+                users: [],
+
+            },
+            created() {
+                let query = {
+                    rid: '3f3f23a277b949ce9f6cea84df9188b3',
+                    uid: '1111' + Math.random(),
+                    username: '张信哲' + parseInt(Math.random() * 100),
+                    mobile: '17317399499',
+                    role: 0,//0普通用户 1管理员
+                    avatar: 'http://img1.wenhuayun.cn/front/1781238/202005/Img/Img24ea75da9ee44df28f194cc91e430ea7_300_300.jpg',
+                };
+                //this.socket = io('https://chat.ctwenhuayun.cn', {query: query});
+                this.socket = io('http://127.0.0.1:8250', { query: query });
+                this.socket.on('connect', () => {
+                    console.log('连接成功', query);
+                })
+                //监听 新用户登录
+                this.socket.on('join', (msg) => {
+                    console.log('新用户登录', msg);
+                    this.joins.push(msg)
+                    // this.joins.slice(-10)
+                })
+
+                //监听 新消息
+                this.socket.on('msg', (msg) => {
+                    console.log('新消息', msg);
+                    this.messages.push(msg)
+                })
+
+                //监听 推荐
+                this.socket.on('recommend', (msg) => {
+                    console.log('收到推荐', msg);
+                    let obj = util.findOne(this.messages, { id_: msg._id });
+                    if (obj) {
+                        obj.recommend = msg.recommend;
+                    }
+                    this.recommends.push(msg)
+                })
+                //监听 删除
+                this.socket.on('deletecommend', (msg) => {
+                    console.log('监听删除', msg, this.messages);
+                    if (msg.status == 1) {
+                        this.removeCurrent(msg)
+                    } else {
+                        this.messages = [];
+                    }
+
+                    this.$forceUpdate();
+                    console.log('删除列表', this.messages);
+                })
+                //监听 礼物
+                this.socket.on('gift', (msg) => {
+                    console.log('收到礼物', msg);
+
+                })
+
+                //监听 用户列表
+                this.socket.on('users', (msg) => {
+                    console.log('用户列表', msg);
+                    // [].push.apply(this.users,msg);
+                    this.users = msg;
+                    this.$forceUpdate();
+                })
+            },
+            methods: {
+                removeCurrent(msg) {
+                    this.messages = this.messages.filter(ele => {
+                        if (ele._id!= msg._id) {
+                            return ele
+                        }
+                    })
+                },
+                onRemoveMessages() {
+                    var obj = {
+                        status:3
+                    }
+                    //删除所有评论
+                    this.socket.emit('deletecommend', obj)
+                },
+                onClickDelete(item) {
+                    
+                    item.status=1;
+                    console.log("删除", item, this.socket)
+                    //删除当前评论
+                    this.socket.emit('deletecommend', item)
+                },
+                send() {
+                    //发消息
+                    this.socket.emit('msg', { msg: this.form.msg })
+                },
+                getUsers() {
+                    //获取用户列表
+                    this.socket.emit('users', {})
+                },
+                disablesay(item) {
+                    console.log('--item', item)
+                    //禁言
+                    this.socket.emit('say', { id: item.id, status: -1 })
+                },
+                enablesay(item) {
+                    //解除禁言
+                    this.socket.emit('say', { id: item.id, status: 0 })
+                },
+                recommend(item) {
+                    //推荐
+                    item.recommend = 1;
+                    console.log('推荐', item)
+                    this.socket.emit('recommend', item)
+
+
+
+                },
+
+                gift() {
+                    this.socket.emit('gift', {
+                        role: 0,
+                        msg: '礼物',
+                        num: '10',
+                        img: 'http://'
+                    })
+                },
+
+
+                cancelRecommend(item) {
+                    //取消推荐
+                    item.recommend = 0;
+                    this.socket.emit('recommend', item)
+                }
+            },
+            watch: {},
+        })
+    </script>
+</body>
+
+</html>
