@@ -1,0 +1,44 @@
+{
+  "name": "cn-h5",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node bin/www ",
+    "dev": "node bin/www",
+    "prod": "set NODE_ENV=prod && node bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "co-js": "^2.0.3",
+    "co-log": "^1.0.11",
+    "co-util": "^1.0.94",
+    "cron": "^1.8.2",
+    "debug": "^2.6.3",
+    "ejs": "^2.6.1",
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^3.2.0",
+    "koa-convert": "^1.2.0",
+    "koa-hbs": "^1.0.0",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^2.0.1",
+    "koa-onerror": "^1.2.1",
+    "koa-router": "^7.1.1",
+    "koa-static": "^3.0.0",
+    "koa-views": "^5.2.1",
+    "lv-client": "^1.0.4",
+    "mongodb": "^3.2.3",
+    "nodejs-websocket": "^1.7.1",
+    "pug": "^2.0.0-rc.1",
+    "socket.io": "^2.3.0",
+    "socket.io-redis": "^5.4.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.8.1"
+  }
+}
