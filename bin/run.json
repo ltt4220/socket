@@ -1,0 +1,15 @@
+{
+  "apps": [
+    {
+      "name": "chat-server",
+      "script": "/opt/chat-server/bin/www.js",
+      "watch": false,
+      "env": {
+        "NODE_ENV": "dev"
+      },
+      "env_prod": {
+        "NODE_ENV": "prod"
+      }
+    }
+  ]
+}

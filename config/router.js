@@ -1,0 +1,1 @@
+module.exports = {page: 'views', static: 'public', api: 'api'}
